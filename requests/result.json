@@ -1,12 +1,6 @@
 {
-  "request_id": "final-btceth-usdtd-1d-v2",
-  "status": "SUCCESS",
-  "symbols": [
-    "BTCUSDT",
-    "ETHUSDT",
-    "USDT.D"
-  ],
-  "timeframe": "1D",
-  "completed_at_utc": "2026-08-18T15:01:10.963277Z",
-  "snapshot_commit_sha": "f5460077b25661a7c42050b4ed307d34c942b00c"
+  "request_id": "UNKNOWN",
+  "status": "FAILED",
+  "error": "malformed request JSON: Expecting property name enclosed in double quotes: line 2 column 1 (char 41)",
+  "completed_at_utc": "2026-08-18T15:08:56.158874Z"
 }
