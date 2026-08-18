@@ -1,9 +1,8 @@
 {
-  "request_id": "test-btceth-4h",
+  "request_id": "test-sol-1h",
   "symbols": [
-    "BTCUSDT",
-    "ETHUSDT"
+    "SOLUSDT"
   ],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-18T09:30:39Z"
+  "timeframe": "1H",
+  "requested_at_utc": "2026-08-18T09:33:47Z"
 }
