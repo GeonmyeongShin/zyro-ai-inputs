@@ -1,8 +1,8 @@
 {
   "pipeline_version": "1.0",
   "status": "SUCCESS",
-  "generated_at_utc": "2026-08-18T01:41:42.804708Z",
-  "generated_at_kst": "2026-08-18T10:41:42.804724+09:00",
+  "generated_at_utc": "2026-08-18T07:32:34.498973Z",
+  "generated_at_kst": "2026-08-18T16:32:34.498988+09:00",
   "markets": {
     "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
@@ -32,17 +32,17 @@
     },
     {
       "name": "BTCUSDT_1D_fvg.json",
-      "sha256": "71eee6125f4b23b335b351bfb79efb2c4d35c10bbdcbd5e1257267076bc2884a",
+      "sha256": "592c0f3820cf6ccd8453e847c1bc93e709a74938a2b0b3a3283fdbfbfaf1224d",
       "size_bytes": 4719
     },
     {
       "name": "BTCUSDT_1D_ob.json",
-      "sha256": "11df19f1406e32442d76cbf2e810aed4858672a6dab48dac62a6957ed4b9239c",
+      "sha256": "1c9dfad155c81d9834c4123f34a8f535873f30559e3236174e1d887645749682",
       "size_bytes": 1744
     },
     {
       "name": "BTCUSDT_1D_ohlcv.json",
-      "sha256": "620da5cc2de8140c8d7902c54215dae6f925fe7e4f709ed9972f4f58c946fa6e",
+      "sha256": "78313dca0b64c7b63939982f43b32ddbbfe6bdc5395449be7833101cf8980869",
       "size_bytes": 105213
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "name": "ETHUSDT_1D_fvg.json",
-      "sha256": "b4b262b22d27f3b2617f5bbd02301974be5213838ce4e5517a4d81b80eb9af18",
+      "sha256": "8ff6c6b06b7371e09216fe591679e5eab0daea04c00672098541db81ba49d23b",
       "size_bytes": 4727
     },
     {
       "name": "ETHUSDT_1D_ob.json",
-      "sha256": "2037cffd152d123ffb5b988ace7800d4603476dcb969c9d7822d1922a7be9e06",
+      "sha256": "27da5ff5d85b8dbb825c8f636c2d3ab21fb6504f7416d31cf1f3de9b18a29642",
       "size_bytes": 1775
     },
     {
       "name": "ETHUSDT_1D_ohlcv.json",
-      "sha256": "5239bffad2ed759fd77948948cdc5d9497e77dd7b2f5cd096dd8a0f3ffcc342e",
+      "sha256": "b9b800bc80b421299a1834ff489205293f3be02be9b081f75764865b09acc3b8",
       "size_bytes": 104623
     },
     {
@@ -72,8 +72,13 @@
     },
     {
       "name": "USDT.D_1D_ohlcv.json",
-      "sha256": "739f44ebe59bad99207ae19fd8a7d419df82eff45e2334a29609f75aada717a3",
+      "sha256": "c9c11059745b76266872a2cfe088287075b9ae43e4089c5b685e2aff732c0fd5",
       "size_bytes": 128107
+    },
+    {
+      "name": "vision_bundle_1D.pdf",
+      "sha256": "5a961003bd847fbf2a22479b7b13cb29090a31c96e50c1fe18133431f775fee2",
+      "size_bytes": 449895
     }
   ],
   "errors": []
