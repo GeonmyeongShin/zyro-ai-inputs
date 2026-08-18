@@ -1,8 +1,8 @@
 {
-  "request_id": "test-bad-timeframe",
+  "request_id": "test-bad-symbol-path",
   "symbols": [
-    "BTCUSDT"
+    "../../secret"
   ],
-  "timeframe": "15M",
-  "requested_at_utc": "2026-08-18T12:56:42Z"
+  "timeframe": "4H",
+  "requested_at_utc": "2026-08-18T13:14:14Z"
 }
