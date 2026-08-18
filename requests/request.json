@@ -1,6 +1,6 @@
 {
-  "request_id": "test-sol-4h-001",
-  "symbols": ["SOLUSDT"],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-18T23:03:00Z"
+  "request_id": "btc-1d-20260818-235846",
+  "symbols": ["BTCUSDT"],
+  "timeframe": "1D",
+  "requested_at_utc": "2026-08-18T23:58:46Z"
 }
