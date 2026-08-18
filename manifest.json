@@ -1,0 +1,80 @@
+{
+  "pipeline_version": "1.0",
+  "status": "SUCCESS",
+  "generated_at_utc": "2026-08-18T01:41:42.804708Z",
+  "generated_at_kst": "2026-08-18T10:41:42.804724+09:00",
+  "markets": {
+    "BTCUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "stale": false
+    },
+    "ETHUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "stale": false
+    },
+    "USDT.D": {
+      "source": "TRADINGVIEW_CRYPTOCAP",
+      "source_symbol": "CRYPTOCAP:USDT.D",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "stale": false
+    }
+  },
+  "files": [
+    {
+      "name": "BTCUSDT_1D.png",
+      "sha256": "9d3bd7cda1c681520454237ec1adb0a3f97c466b9bbf11150c78fac5a578b62b",
+      "size_bytes": 63267
+    },
+    {
+      "name": "BTCUSDT_1D_fvg.json",
+      "sha256": "71eee6125f4b23b335b351bfb79efb2c4d35c10bbdcbd5e1257267076bc2884a",
+      "size_bytes": 4719
+    },
+    {
+      "name": "BTCUSDT_1D_ob.json",
+      "sha256": "11df19f1406e32442d76cbf2e810aed4858672a6dab48dac62a6957ed4b9239c",
+      "size_bytes": 1744
+    },
+    {
+      "name": "BTCUSDT_1D_ohlcv.json",
+      "sha256": "620da5cc2de8140c8d7902c54215dae6f925fe7e4f709ed9972f4f58c946fa6e",
+      "size_bytes": 105213
+    },
+    {
+      "name": "ETHUSDT_1D.png",
+      "sha256": "122f64550522c43991c5c5956fe2c7a908c6f1f4f1ed011b3b36122e88ab63f7",
+      "size_bytes": 64969
+    },
+    {
+      "name": "ETHUSDT_1D_fvg.json",
+      "sha256": "b4b262b22d27f3b2617f5bbd02301974be5213838ce4e5517a4d81b80eb9af18",
+      "size_bytes": 4727
+    },
+    {
+      "name": "ETHUSDT_1D_ob.json",
+      "sha256": "2037cffd152d123ffb5b988ace7800d4603476dcb969c9d7822d1922a7be9e06",
+      "size_bytes": 1775
+    },
+    {
+      "name": "ETHUSDT_1D_ohlcv.json",
+      "sha256": "5239bffad2ed759fd77948948cdc5d9497e77dd7b2f5cd096dd8a0f3ffcc342e",
+      "size_bytes": 104623
+    },
+    {
+      "name": "USDT.D_1D.png",
+      "sha256": "49f092f8e871f8d7eb3bcfbac0cc5d3f839f755688e079f6cdf9eeab65f80300",
+      "size_bytes": 61164
+    },
+    {
+      "name": "USDT.D_1D_ohlcv.json",
+      "sha256": "739f44ebe59bad99207ae19fd8a7d419df82eff45e2334a29609f75aada717a3",
+      "size_bytes": 128107
+    }
+  ],
+  "errors": []
+}
