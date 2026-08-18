@@ -1,12 +1,10 @@
 {
-  "request_id": "final-btceth-usdtd-1d-v3",
+  "request_id": "test-sol-4h-001",
   "status": "SUCCESS",
   "symbols": [
-    "BTCUSDT",
-    "ETHUSDT",
-    "USDT.D"
+    "SOLUSDT"
   ],
-  "timeframe": "1D",
-  "completed_at_utc": "2026-08-18T15:28:59.250501Z",
-  "snapshot_commit_sha": "13fe0056cfb738fc0d8ea421e0c24a6c0813f1b5"
+  "timeframe": "4H",
+  "completed_at_utc": "2026-08-18T23:06:28.822534Z",
+  "snapshot_commit_sha": "c1c21aac48e6558d55921a236a258cc15161bdd3"
 }
