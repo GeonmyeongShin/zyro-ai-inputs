@@ -2,124 +2,61 @@
   "pipeline_version": "1.0",
   "status": "SUCCESS",
   "symbols": [
-    "BTCUSDT",
-    "ETHUSDT",
-    "USDT.D"
+    "SOLUSDT"
   ],
-  "timeframe": "1D",
-  "generated_at_utc": "2026-08-18T15:28:44.884314Z",
-  "generated_at_kst": "2026-08-19T00:28:44.884326+09:00",
+  "timeframe": "4H",
+  "generated_at_utc": "2026-08-18T23:06:05.195718Z",
+  "generated_at_kst": "2026-08-19T08:06:05.195732+09:00",
   "markets": {
-    "BTCUSDT": {
+    "SOLUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "1D",
-      "last_closed_candle_time": "2026-08-17T00:00:00Z",
-      "stale": false
-    },
-    "ETHUSDT": {
-      "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "1D",
-      "last_closed_candle_time": "2026-08-17T00:00:00Z",
-      "stale": false
-    },
-    "USDT.D": {
-      "source": "TRADINGVIEW_CRYPTOCAP",
-      "source_symbol": "CRYPTOCAP:USDT.D",
-      "timeframe": "1D",
-      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "timeframe": "4H",
+      "last_closed_candle_time": "2026-08-18T16:00:00Z",
       "stale": false
     }
   },
   "files": [
     {
-      "name": "BTCUSDT_1D.png",
-      "sha256": "e1d18b6f41f7f06f520ea741f994615408691098d03c8a3953553b6f460f8276",
-      "size_bytes": 64685,
-      "symbol": "BTCUSDT",
-      "timeframe": "1D",
+      "name": "SOLUSDT_4H.png",
+      "sha256": "c315808f27eb5b35aa13e29f4c92d6eac2a63320673debbb43efeed84ac28f17",
+      "size_bytes": 67173,
+      "symbol": "SOLUSDT",
+      "timeframe": "4H",
       "type": "png"
     },
     {
-      "name": "BTCUSDT_1D_ohlcv.json",
-      "sha256": "b44581ba741bf32be667b6ce2b963e1eb7a77634aa6bfee0e11e64ef1922c3f7",
-      "size_bytes": 105213,
-      "symbol": "BTCUSDT",
-      "timeframe": "1D",
+      "name": "SOLUSDT_4H_ohlcv.json",
+      "sha256": "4b8de9434bc3d2c978aaf9d36bbd482931e3d7e9a91857a5e078c21e82b4c933",
+      "size_bytes": 100393,
+      "symbol": "SOLUSDT",
+      "timeframe": "4H",
       "type": "ohlcv"
     },
     {
-      "name": "BTCUSDT_1D_ob.json",
-      "sha256": "40557a5399c650c89326c15c017802b17396ae817748eefd0c2d88bc4948bb4d",
-      "size_bytes": 1744,
-      "symbol": "BTCUSDT",
-      "timeframe": "1D",
+      "name": "SOLUSDT_4H_ob.json",
+      "sha256": "451fe3d9e8d73c40d8a65c356b615ce69d76ab1956ad51ccbdef179ec5c689c5",
+      "size_bytes": 2300,
+      "symbol": "SOLUSDT",
+      "timeframe": "4H",
       "type": "ob"
     },
     {
-      "name": "BTCUSDT_1D_fvg.json",
-      "sha256": "9baa87ddb99a54ab76c5b85743d640c27bd1b3b4871a6a6c49aea80130c521bd",
-      "size_bytes": 4719,
-      "symbol": "BTCUSDT",
-      "timeframe": "1D",
+      "name": "SOLUSDT_4H_fvg.json",
+      "sha256": "e59e4e8cd92878f70214d4913862f2b6ce7e6bf8f3de7cd9603b2a6aa7d91c6a",
+      "size_bytes": 4649,
+      "symbol": "SOLUSDT",
+      "timeframe": "4H",
       "type": "fvg"
     },
     {
-      "name": "ETHUSDT_1D.png",
-      "sha256": "c62d1babbd6ac90cc009ef3f84e3e0b94936e65a3464c5fb7de3e1b3abf36d9a",
-      "size_bytes": 66427,
-      "symbol": "ETHUSDT",
-      "timeframe": "1D",
-      "type": "png"
-    },
-    {
-      "name": "ETHUSDT_1D_ohlcv.json",
-      "sha256": "873c0f941b9b06a61f270fd3b612eec1a0c9830d13fbb63caf6993ecc8bc923c",
-      "size_bytes": 104623,
-      "symbol": "ETHUSDT",
-      "timeframe": "1D",
-      "type": "ohlcv"
-    },
-    {
-      "name": "ETHUSDT_1D_ob.json",
-      "sha256": "4a4db590f1ca7a4e40b1006ae88845d60d53e45702e7def19479a2cf223ab8bf",
-      "size_bytes": 1775,
-      "symbol": "ETHUSDT",
-      "timeframe": "1D",
-      "type": "ob"
-    },
-    {
-      "name": "ETHUSDT_1D_fvg.json",
-      "sha256": "657ca25bb96147ac2215da2b6ea516f50983ed6c670fc62def9c2ed5fb264a8d",
-      "size_bytes": 4727,
-      "symbol": "ETHUSDT",
-      "timeframe": "1D",
-      "type": "fvg"
-    },
-    {
-      "name": "USDT.D_1D.png",
-      "sha256": "2b1fc0050c9a22f114f0ac3d2f08cbd0b433d192287fc9fb7d7d3ce7ada47d91",
-      "size_bytes": 64960,
-      "symbol": "USDT.D",
-      "timeframe": "1D",
-      "type": "png"
-    },
-    {
-      "name": "USDT.D_1D_ohlcv.json",
-      "sha256": "3ae59783bfb6e2dbe0917fcf815a1327ef32438752265ec0b950428d067cb4fc",
-      "size_bytes": 128108,
-      "symbol": "USDT.D",
-      "timeframe": "1D",
-      "type": "ohlcv"
-    },
-    {
-      "name": "vision_bundle_1D.pdf",
-      "sha256": "38ff674ed8ff0672f10b19c575eeb227b14fd9e621cc7c9ca6b249cd6f5fb108",
-      "size_bytes": 454710,
+      "name": "vision_bundle_4H.pdf",
+      "sha256": "1db104d2b43d704f034cd8302a65996690f2d046d30bcc4ab4756b619715c8b4",
+      "size_bytes": 151804,
       "symbol": "BUNDLE",
-      "timeframe": "1D",
+      "timeframe": "4H",
       "type": "vision_bundle"
     }
   ],
   "errors": [],
-  "request_id": "final-btceth-usdtd-1d-v3"
+  "request_id": "test-sol-4h-001"
 }
