@@ -1,10 +1,1 @@
-{
-  "request_id": "final-btceth-usdtd-1d-v2",
-  "symbols": [
-    "BTCUSDT",
-    "ETHUSDT",
-    "USDT.D"
-  ],
-  "timeframe": "1D",
-  "requested_at_utc": "2026-08-18T15:00:15Z"
-}
+{ "request_id": "test-malformed-json", 
