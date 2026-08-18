@@ -1,10 +1,6 @@
 {
-  "request_id": "test-sol-1h",
-  "status": "SUCCESS",
-  "symbols": [
-    "SOLUSDT"
-  ],
-  "timeframe": "1H",
-  "completed_at_utc": "2026-08-18T09:34:17.019733Z",
-  "snapshot_commit_sha": "54826517c7e98303efb36de5975bd16f882c1d59"
+  "request_id": "test-bad-timeframe",
+  "status": "FAILED",
+  "error": "timeframe must be one of 1D, 4H, 1H",
+  "completed_at_utc": "2026-08-18T12:57:12.091117Z"
 }
