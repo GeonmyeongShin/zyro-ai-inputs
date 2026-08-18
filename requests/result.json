@@ -1,6 +1,6 @@
 {
-  "request_id": "test-missing-symbol",
+  "request_id": "test-stale-request",
   "status": "FAILED",
-  "error": "Binance USDT-M Futures symbol is not tradable: ABCXYZUSDT",
-  "completed_at_utc": "2026-08-18T13:53:44.929915Z"
+  "error": "request is stale",
+  "completed_at_utc": "2026-08-18T14:26:02.118057Z"
 }
