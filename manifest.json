@@ -2,14 +2,29 @@
   "pipeline_version": "1.0",
   "status": "SUCCESS",
   "symbols": [
-    "SOLUSDT"
+    "BTCUSDT",
+    "ETHUSDT",
+    "USDT.D"
   ],
   "timeframe": "1D",
-  "generated_at_utc": "2026-08-18T07:51:09.637501Z",
-  "generated_at_kst": "2026-08-18T16:51:09.637512+09:00",
+  "generated_at_utc": "2026-08-18T07:52:19.849483Z",
+  "generated_at_kst": "2026-08-18T16:52:19.849494+09:00",
   "markets": {
-    "SOLUSDT": {
+    "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "stale": false
+    },
+    "ETHUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-17T00:00:00Z",
+      "stale": false
+    },
+    "USDT.D": {
+      "source": "TRADINGVIEW_CRYPTOCAP",
+      "source_symbol": "CRYPTOCAP:USDT.D",
       "timeframe": "1D",
       "last_closed_candle_time": "2026-08-17T00:00:00Z",
       "stale": false
@@ -17,41 +32,89 @@
   },
   "files": [
     {
-      "name": "SOLUSDT_1D.png",
-      "sha256": "fa1c948ae3dec902fec624f0a7e10742a58e4b3a7afb77f0a2a9ef482f002e2d",
-      "size_bytes": 66000,
-      "symbol": "SOLUSDT",
+      "name": "BTCUSDT_1D.png",
+      "sha256": "e1d18b6f41f7f06f520ea741f994615408691098d03c8a3953553b6f460f8276",
+      "size_bytes": 64685,
+      "symbol": "BTCUSDT",
       "timeframe": "1D",
       "type": "png"
     },
     {
-      "name": "SOLUSDT_1D_ohlcv.json",
-      "sha256": "c764577334c0e7f007e1e3b39236005c3521cebb83916219da2d675f6537232b",
-      "size_bytes": 102028,
-      "symbol": "SOLUSDT",
+      "name": "BTCUSDT_1D_ohlcv.json",
+      "sha256": "30f08f364b7343ff8ec3f5f91d03786b359af6ac4e232dbdce89f0c4ff8db758",
+      "size_bytes": 105213,
+      "symbol": "BTCUSDT",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
-      "name": "SOLUSDT_1D_ob.json",
-      "sha256": "e3c6828bb6397dab2053c4d2edd53c25dd983d8a8e9eb0f845c7bcbb41abb2fe",
-      "size_bytes": 1186,
-      "symbol": "SOLUSDT",
+      "name": "BTCUSDT_1D_ob.json",
+      "sha256": "45def13577852787da829ac194a2afacce28fbda94ac710177050fe364a6f719",
+      "size_bytes": 1744,
+      "symbol": "BTCUSDT",
       "timeframe": "1D",
       "type": "ob"
     },
     {
-      "name": "SOLUSDT_1D_fvg.json",
-      "sha256": "70dbecd0f3bebf09f55f4a02411bb64bca45a87778043897dbabfb851b7ebdf5",
-      "size_bytes": 4654,
-      "symbol": "SOLUSDT",
+      "name": "BTCUSDT_1D_fvg.json",
+      "sha256": "f60b75b2839e7d7f4c971f3bcc27ac1d53b21d986b919113a30757e560c38023",
+      "size_bytes": 4719,
+      "symbol": "BTCUSDT",
       "timeframe": "1D",
       "type": "fvg"
     },
     {
+      "name": "ETHUSDT_1D.png",
+      "sha256": "c62d1babbd6ac90cc009ef3f84e3e0b94936e65a3464c5fb7de3e1b3abf36d9a",
+      "size_bytes": 66427,
+      "symbol": "ETHUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "ETHUSDT_1D_ohlcv.json",
+      "sha256": "2ea25839c51acf0097d7572f1389017b4e73e5cfa1b15107f0e5ed81891f87ab",
+      "size_bytes": 104623,
+      "symbol": "ETHUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "ETHUSDT_1D_ob.json",
+      "sha256": "f5b92aa650144f25025cb7a9bed8a2bf308567e47b5bf3196d04e32cbeb88019",
+      "size_bytes": 1775,
+      "symbol": "ETHUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "ETHUSDT_1D_fvg.json",
+      "sha256": "702a213f3920b9b0d7d5ac396e92e47e490f1d02a8489cc9cb70e544db3414fc",
+      "size_bytes": 4727,
+      "symbol": "ETHUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "USDT.D_1D.png",
+      "sha256": "2b1fc0050c9a22f114f0ac3d2f08cbd0b433d192287fc9fb7d7d3ce7ada47d91",
+      "size_bytes": 64960,
+      "symbol": "USDT.D",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "USDT.D_1D_ohlcv.json",
+      "sha256": "a70d20bc36b60f35882c6e92ff727d40087ef0e8be1d2617832a10a87122aa8e",
+      "size_bytes": 128108,
+      "symbol": "USDT.D",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
       "name": "vision_bundle_1D.pdf",
-      "sha256": "a79ac3604e040e02ae2e1c8f7186109a83d2fbcfb6ce01e16a1b8411790bd6ae",
-      "size_bytes": 151748,
+      "sha256": "58c7e089ea1ef375826558d9b46808083f541db6877ce897cf31b38bc104d43b",
+      "size_bytes": 454710,
       "symbol": "BUNDLE",
       "timeframe": "1D",
       "type": "vision_bundle"
