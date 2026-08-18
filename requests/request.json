@@ -1,8 +1,10 @@
 {
-  "request_id": "test-stale-request",
+  "request_id": "final-btceth-usdtd-1d",
   "symbols": [
-    "BTCUSDT"
+    "BTCUSDT",
+    "ETHUSDT",
+    "USDT.D"
   ],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-18T13:40:49Z"
+  "timeframe": "1D",
+  "requested_at_utc": "2026-08-18T14:55:18Z"
 }
