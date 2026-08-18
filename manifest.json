@@ -7,8 +7,8 @@
     "USDT.D"
   ],
   "timeframe": "1D",
-  "generated_at_utc": "2026-08-18T15:00:45.708087Z",
-  "generated_at_kst": "2026-08-19T00:00:45.708100+09:00",
+  "generated_at_utc": "2026-08-18T15:28:44.884314Z",
+  "generated_at_kst": "2026-08-19T00:28:44.884326+09:00",
   "markets": {
     "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
@@ -41,7 +41,7 @@
     },
     {
       "name": "BTCUSDT_1D_ohlcv.json",
-      "sha256": "2aecef908a001f1868c13efc9613b474cec28a4f7b7d3af6935207ed9b7c6b92",
+      "sha256": "b44581ba741bf32be667b6ce2b963e1eb7a77634aa6bfee0e11e64ef1922c3f7",
       "size_bytes": 105213,
       "symbol": "BTCUSDT",
       "timeframe": "1D",
@@ -49,7 +49,7 @@
     },
     {
       "name": "BTCUSDT_1D_ob.json",
-      "sha256": "1aeae42b6a6ebe22cbae1bb39e43cc602abca1a682878a97247ed6a2d18814b9",
+      "sha256": "40557a5399c650c89326c15c017802b17396ae817748eefd0c2d88bc4948bb4d",
       "size_bytes": 1744,
       "symbol": "BTCUSDT",
       "timeframe": "1D",
@@ -57,7 +57,7 @@
     },
     {
       "name": "BTCUSDT_1D_fvg.json",
-      "sha256": "21bf8585bc8ed30d1f758784b17aecb9596c5f428cbca769cfe48ea3685569ae",
+      "sha256": "9baa87ddb99a54ab76c5b85743d640c27bd1b3b4871a6a6c49aea80130c521bd",
       "size_bytes": 4719,
       "symbol": "BTCUSDT",
       "timeframe": "1D",
@@ -73,7 +73,7 @@
     },
     {
       "name": "ETHUSDT_1D_ohlcv.json",
-      "sha256": "e3ac9c4a55a7390ebcb26520f590d2aa74b4955ef532fc31931d085a53b9cce2",
+      "sha256": "873c0f941b9b06a61f270fd3b612eec1a0c9830d13fbb63caf6993ecc8bc923c",
       "size_bytes": 104623,
       "symbol": "ETHUSDT",
       "timeframe": "1D",
@@ -81,7 +81,7 @@
     },
     {
       "name": "ETHUSDT_1D_ob.json",
-      "sha256": "068e646d59bf959155d87cf6a2e22f2025d67302d0d1badac89a0536b685e46f",
+      "sha256": "4a4db590f1ca7a4e40b1006ae88845d60d53e45702e7def19479a2cf223ab8bf",
       "size_bytes": 1775,
       "symbol": "ETHUSDT",
       "timeframe": "1D",
@@ -89,7 +89,7 @@
     },
     {
       "name": "ETHUSDT_1D_fvg.json",
-      "sha256": "0208649c0aea0fe4d5396a2a381af46ce73ef3c03ac55589efb6a38989b0ffca",
+      "sha256": "657ca25bb96147ac2215da2b6ea516f50983ed6c670fc62def9c2ed5fb264a8d",
       "size_bytes": 4727,
       "symbol": "ETHUSDT",
       "timeframe": "1D",
@@ -105,7 +105,7 @@
     },
     {
       "name": "USDT.D_1D_ohlcv.json",
-      "sha256": "9719e28c9464cfe4a0b1d1ab32205499e74af0911c5d847a9026ff1ef479e923",
+      "sha256": "3ae59783bfb6e2dbe0917fcf815a1327ef32438752265ec0b950428d067cb4fc",
       "size_bytes": 128108,
       "symbol": "USDT.D",
       "timeframe": "1D",
@@ -113,7 +113,7 @@
     },
     {
       "name": "vision_bundle_1D.pdf",
-      "sha256": "2bf1a1f3c06c8ec42aa9c7c94dd554014a6d97117c2a3186dae3fbff3b10426b",
+      "sha256": "38ff674ed8ff0672f10b19c575eeb227b14fd9e621cc7c9ca6b249cd6f5fb108",
       "size_bytes": 454710,
       "symbol": "BUNDLE",
       "timeframe": "1D",
@@ -121,5 +121,5 @@
     }
   ],
   "errors": [],
-  "request_id": "final-btceth-usdtd-1d-v2"
+  "request_id": "final-btceth-usdtd-1d-v3"
 }
