@@ -1,0 +1,9 @@
+{
+  "request_id": "test-btceth-4h",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "timeframe": "4H",
+  "requested_at_utc": "2026-08-18T09:30:39Z"
+}
