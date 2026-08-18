@@ -1,0 +1,192 @@
+{
+  "symbol": "ETHUSDT",
+  "timeframe": "4H",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "generated_at_utc": "2026-08-18T09:31:02.549244Z",
+  "generated_at_kst": "2026-08-18T18:31:02.549259+09:00",
+  "last_closed_candle_time_utc": "2026-08-18T04:00:00Z",
+  "last_closed_candle_time_kst": "2026-08-18T13:00:00+09:00",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "type": "BULLISH",
+      "high": 1896.85,
+      "low": 1886.67,
+      "created_at": "2026-08-17T04:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.044264
+    },
+    {
+      "type": "BULLISH",
+      "high": 1881.77,
+      "low": 1880.68,
+      "created_at": "2026-08-15T16:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.838915
+    },
+    {
+      "type": "BULLISH",
+      "high": 1889.07,
+      "low": 1887.56,
+      "created_at": "2026-08-12T08:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.454236
+    },
+    {
+      "type": "BEARISH",
+      "high": 1913.62,
+      "low": 1879.84,
+      "created_at": "2026-08-10T16:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.0
+    },
+    {
+      "type": "BULLISH",
+      "high": 1909.34,
+      "low": 1906.91,
+      "created_at": "2026-08-07T12:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.485854
+    },
+    {
+      "type": "BULLISH",
+      "high": 1903.14,
+      "low": 1884.68,
+      "created_at": "2026-08-05T20:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.0
+    },
+    {
+      "type": "BULLISH",
+      "high": 1860.74,
+      "low": 1853.58,
+      "created_at": "2026-08-03T16:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.947104
+    },
+    {
+      "type": "BEARISH",
+      "high": 1875.31,
+      "low": 1862.22,
+      "created_at": "2026-08-03T04:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.179329
+    },
+    {
+      "type": "BULLISH",
+      "high": 1875.31,
+      "low": 1862.28,
+      "created_at": "2026-08-02T20:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.179329
+    },
+    {
+      "type": "BEARISH",
+      "high": 1874.12,
+      "low": 1862.28,
+      "created_at": "2026-08-02T12:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.242036
+    },
+    {
+      "type": "BULLISH",
+      "high": 1874.12,
+      "low": 1848.63,
+      "created_at": "2026-08-02T04:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.242036
+    },
+    {
+      "type": "BEARISH",
+      "high": 1866.17,
+      "low": 1848.63,
+      "created_at": "2026-08-01T20:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.660967
+    },
+    {
+      "type": "BEARISH",
+      "high": 1898.16,
+      "low": 1892.21,
+      "created_at": "2026-07-31T08:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.0
+    },
+    {
+      "type": "BEARISH",
+      "high": 1915.12,
+      "low": 1910.53,
+      "created_at": "2026-07-31T04:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.676612
+    },
+    {
+      "type": "BULLISH",
+      "high": 1912.1,
+      "low": 1910.34,
+      "created_at": "2026-07-30T12:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.6666
+    },
+    {
+      "type": "BULLISH",
+      "high": 1890.89,
+      "low": 1884.81,
+      "created_at": "2026-07-28T16:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.35833
+    },
+    {
+      "type": "BEARISH",
+      "high": 1921.43,
+      "low": 1893.33,
+      "created_at": "2026-07-28T00:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.0
+    },
+    {
+      "type": "BEARISH",
+      "high": 1955.46,
+      "low": 1954.48,
+      "created_at": "2026-07-27T16:00:00Z",
+      "status": "OPEN",
+      "fill_pct": 0.0,
+      "distance_pct": 2.992586
+    },
+    {
+      "type": "BULLISH",
+      "high": 1935.29,
+      "low": 1927.9,
+      "created_at": "2026-07-27T00:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 1.591935
+    },
+    {
+      "type": "BULLISH",
+      "high": 1907.99,
+      "low": 1887.0,
+      "created_at": "2026-07-26T16:00:00Z",
+      "status": "FILLED",
+      "fill_pct": 100.0,
+      "distance_pct": 0.0
+    }
+  ]
+}
