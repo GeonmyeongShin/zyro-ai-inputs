@@ -1,0 +1,68 @@
+{
+  "symbol": "BTCUSDT",
+  "timeframe": "1D",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "generated_at_utc": "2026-08-18T15:00:41.316501Z",
+  "generated_at_kst": "2026-08-19T00:00:41.316516+09:00",
+  "last_closed_candle_time_utc": "2026-08-17T00:00:00Z",
+  "last_closed_candle_time_kst": "2026-08-17T09:00:00+09:00",
+  "detector": "conservative_volume_pivot_v1",
+  "order_blocks": [
+    {
+      "type": "BEARISH",
+      "high": 65373.6,
+      "low": 64580.8,
+      "created_at": "2026-08-10T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 0.118907
+    },
+    {
+      "type": "BULLISH",
+      "high": 63108.9,
+      "low": 61806.0,
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 2.162963
+    },
+    {
+      "type": "BULLISH",
+      "high": 62994.45,
+      "low": 61297.0,
+      "created_at": "2026-07-06T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 2.340394
+    },
+    {
+      "type": "BULLISH",
+      "high": 59540.3,
+      "low": 57758.6,
+      "created_at": "2026-07-01T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 7.695325
+    },
+    {
+      "type": "BEARISH",
+      "high": 74565.3,
+      "low": 73560.65,
+      "created_at": "2026-05-28T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 14.04027
+    },
+    {
+      "type": "BEARISH",
+      "high": 81999.0,
+      "low": 80434.2,
+      "created_at": "2026-05-14T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 24.69626
+    },
+    {
+      "type": "BEARISH",
+      "high": 99862.8,
+      "low": 96908.9,
+      "created_at": "2025-11-14T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 50.236807
+    }
+  ]
+}
