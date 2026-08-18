@@ -1,6 +1,6 @@
 {
-  "request_id": "test-bad-symbol-path",
+  "request_id": "test-missing-symbol",
   "status": "FAILED",
-  "error": "unsafe Binance Futures symbol: '../../SECRET'",
-  "completed_at_utc": "2026-08-18T13:14:29.647324Z"
+  "error": "Binance USDT-M Futures symbol is not tradable: ABCXYZUSDT",
+  "completed_at_utc": "2026-08-18T13:53:44.929915Z"
 }
