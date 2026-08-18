@@ -1,0 +1,11 @@
+{
+  "request_id": "test-btceth-4h",
+  "status": "SUCCESS",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "timeframe": "4H",
+  "completed_at_utc": "2026-08-18T09:31:20.133429Z",
+  "snapshot_commit_sha": "d7912a587176d46fd09d1ca1185a9ac0b7779d9a"
+}
