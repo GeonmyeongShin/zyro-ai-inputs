@@ -1,6 +1,6 @@
 {
-  "request_id": "test-bad-timeframe",
+  "request_id": "test-bad-symbol-path",
   "status": "FAILED",
-  "error": "timeframe must be one of 1D, 4H, 1H",
-  "completed_at_utc": "2026-08-18T12:57:12.091117Z"
+  "error": "unsafe Binance Futures symbol: '../../SECRET'",
+  "completed_at_utc": "2026-08-18T13:14:29.647324Z"
 }
