@@ -1,8 +1,8 @@
 {
-  "request_id": "test-sol-1h",
+  "request_id": "test-bad-timeframe",
   "symbols": [
-    "SOLUSDT"
+    "BTCUSDT"
   ],
-  "timeframe": "1H",
-  "requested_at_utc": "2026-08-18T09:33:47Z"
+  "timeframe": "15M",
+  "requested_at_utc": "2026-08-18T12:56:42Z"
 }
