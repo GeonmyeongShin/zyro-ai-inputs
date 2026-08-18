@@ -2,100 +2,61 @@
   "pipeline_version": "1.0",
   "status": "SUCCESS",
   "symbols": [
-    "BTCUSDT",
-    "ETHUSDT"
+    "SOLUSDT"
   ],
-  "timeframe": "4H",
-  "generated_at_utc": "2026-08-18T09:31:02.714140Z",
-  "generated_at_kst": "2026-08-18T18:31:02.714154+09:00",
+  "timeframe": "1H",
+  "generated_at_utc": "2026-08-18T09:34:01.791673Z",
+  "generated_at_kst": "2026-08-18T18:34:01.791686+09:00",
   "markets": {
-    "BTCUSDT": {
+    "SOLUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "4H",
-      "last_closed_candle_time": "2026-08-18T04:00:00Z",
-      "stale": false
-    },
-    "ETHUSDT": {
-      "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "4H",
-      "last_closed_candle_time": "2026-08-18T04:00:00Z",
+      "timeframe": "1H",
+      "last_closed_candle_time": "2026-08-18T08:00:00Z",
       "stale": false
     }
   },
   "files": [
     {
-      "name": "BTCUSDT_4H.png",
-      "sha256": "9624a2193b358df6c9fd58c5a124374e79e760530a7b4b286d7c319099809fa3",
-      "size_bytes": 61042,
-      "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "name": "SOLUSDT_1H.png",
+      "sha256": "a2dc3ba95b75f084941dbb055b074d16c2f2b7615f780fd34b59f83604b53226",
+      "size_bytes": 65150,
+      "symbol": "SOLUSDT",
+      "timeframe": "1H",
       "type": "png"
     },
     {
-      "name": "BTCUSDT_4H_ohlcv.json",
-      "sha256": "39464d9ecb0cfec3c163c8dfcf9dda2c0fd9f9e8d393a2ab2ba0e7feead08dce",
-      "size_bytes": 104011,
-      "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "name": "SOLUSDT_1H_ohlcv.json",
+      "sha256": "ede13a0b57dd0e706d360aa29a18e76df16d07a620a40b39ce4806d1ef93a307",
+      "size_bytes": 99931,
+      "symbol": "SOLUSDT",
+      "timeframe": "1H",
       "type": "ohlcv"
     },
     {
-      "name": "BTCUSDT_4H_ob.json",
-      "sha256": "336c4a19e8819c36f8267fda9242b14f0e441e61ac2ec22844ae209937797fcc",
-      "size_bytes": 2899,
-      "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "name": "SOLUSDT_1H_ob.json",
+      "sha256": "ac224f87ab74703947fb5088dca9039cdc2b86b9ec4def7d416e3400c253aeda",
+      "size_bytes": 2285,
+      "symbol": "SOLUSDT",
+      "timeframe": "1H",
       "type": "ob"
     },
     {
-      "name": "BTCUSDT_4H_fvg.json",
-      "sha256": "41615c9342a4d7b4ad3f0784aa64d24c655875f90cf5c380cc22070b639bb283",
-      "size_bytes": 4741,
-      "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "name": "SOLUSDT_1H_fvg.json",
+      "sha256": "a47f3c4fd120351fc015ccf3dc0301acc62e1b1d50a354aa12a8fbdfce18ab04",
+      "size_bytes": 4651,
+      "symbol": "SOLUSDT",
+      "timeframe": "1H",
       "type": "fvg"
     },
     {
-      "name": "ETHUSDT_4H.png",
-      "sha256": "b373cc31ce7ce986cd2c108c153a08a4ff47fbae8ea3596cb47447fa1d8949b0",
-      "size_bytes": 58713,
-      "symbol": "ETHUSDT",
-      "timeframe": "4H",
-      "type": "png"
-    },
-    {
-      "name": "ETHUSDT_4H_ohlcv.json",
-      "sha256": "9ef354a5fd65652431844c4049b4be4c39eaf062b4f8d7d3ad61e6d9885ef749",
-      "size_bytes": 104301,
-      "symbol": "ETHUSDT",
-      "timeframe": "4H",
-      "type": "ohlcv"
-    },
-    {
-      "name": "ETHUSDT_4H_ob.json",
-      "sha256": "adf1e01b3a2844c62d30da8bc4c2e9df6b4d4cec06e62315bf95f7a63d8ba111",
-      "size_bytes": 2732,
-      "symbol": "ETHUSDT",
-      "timeframe": "4H",
-      "type": "ob"
-    },
-    {
-      "name": "ETHUSDT_4H_fvg.json",
-      "sha256": "c07b7ba503d957f63262c4484b2c824cd9b3a7f74384fb844e30c47dd854a6f3",
-      "size_bytes": 4705,
-      "symbol": "ETHUSDT",
-      "timeframe": "4H",
-      "type": "fvg"
-    },
-    {
-      "name": "vision_bundle_4H.pdf",
-      "sha256": "b7cf12f405e1ac37b91c9ae6b2682df35beafabe5c4d47177e011f27f4c5faef",
-      "size_bytes": 288901,
+      "name": "vision_bundle_1H.pdf",
+      "sha256": "06132abd988c363bd635e05a0650bbdf1ac39e70012486439cd81f745d900cc3",
+      "size_bytes": 159074,
       "symbol": "BUNDLE",
-      "timeframe": "4H",
+      "timeframe": "1H",
       "type": "vision_bundle"
     }
   ],
   "errors": [],
-  "request_id": "test-btceth-4h"
+  "request_id": "test-sol-1h"
 }
