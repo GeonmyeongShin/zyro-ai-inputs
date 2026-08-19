@@ -1,9 +1,6 @@
 {
-  "request_id": "e2e-btceth-4h-test",
-  "symbols": [
-    "BTCUSDT",
-    "ETHUSDT"
-  ],
+  "request_id": "chatgpt-btceth-4h-20260819-025401",
+  "symbols": ["BTCUSDT", "ETHUSDT"],
   "timeframe": "4H",
-  "requested_at_utc": "2026-08-19T02:49:07Z"
+  "requested_at_utc": "2026-08-19T02:54:01Z"
 }
