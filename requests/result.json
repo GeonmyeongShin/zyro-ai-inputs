@@ -1,11 +1,11 @@
 {
-  "request_id": "e2e-btceth-4h-test",
+  "request_id": "chatgpt-btceth-4h-20260819-025401",
   "status": "SUCCESS",
   "symbols": [
     "BTCUSDT",
     "ETHUSDT"
   ],
   "timeframe": "4H",
-  "completed_at_utc": "2026-08-19T02:49:31.492033Z",
-  "snapshot_commit_sha": "f6a6d2195f2fb52de269911dc3fcb7a0cd7013c0"
+  "completed_at_utc": "2026-08-19T02:56:13.222400Z",
+  "snapshot_commit_sha": "1b6a0d8fc695b772eb4a359885750b9683da796b"
 }
