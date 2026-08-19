@@ -6,8 +6,8 @@
     "ETHUSDT"
   ],
   "timeframe": "4H",
-  "generated_at_utc": "2026-08-19T02:49:21.713745Z",
-  "generated_at_kst": "2026-08-19T11:49:21.713878+09:00",
+  "generated_at_utc": "2026-08-19T02:56:03.287808Z",
+  "generated_at_kst": "2026-08-19T11:56:03.287821+09:00",
   "markets": {
     "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
@@ -33,7 +33,7 @@
     },
     {
       "name": "BTCUSDT_4H_ohlcv.json",
-      "sha256": "658783086cd44cba726c941bd4f8a629ee72185dca7d503d8b078aa95e93abb1",
+      "sha256": "df862dd3bbd3d609cf59a5e027741dee7da74fc7277a4b4903758e8e19a5daf8",
       "size_bytes": 104010,
       "symbol": "BTCUSDT",
       "timeframe": "4H",
@@ -41,7 +41,7 @@
     },
     {
       "name": "BTCUSDT_4H_ob.json",
-      "sha256": "7a59f0e9c97c0e8dae3029dc5a88ac971adc0844f41c7a2950b6d2f76c8a5c51",
+      "sha256": "c05040c1437965d2dd3d91821bd453b1ae04b5f74ea44ab443dfd989d04375fc",
       "size_bytes": 2898,
       "symbol": "BTCUSDT",
       "timeframe": "4H",
@@ -49,7 +49,7 @@
     },
     {
       "name": "BTCUSDT_4H_fvg.json",
-      "sha256": "9c7daae9fcbf7e363817f9687ff3e84aa5f5da21d675324ded835671ae3515e8",
+      "sha256": "8b3e0da6ed2aa4d0c70c688e1ace23e05166ee1c2c54493e89b70ebc2ec72d7a",
       "size_bytes": 4727,
       "symbol": "BTCUSDT",
       "timeframe": "4H",
@@ -65,7 +65,7 @@
     },
     {
       "name": "ETHUSDT_4H_ohlcv.json",
-      "sha256": "536eb145aee9b2b221d1cd61313d5a1b90d3d353704921d2048301fa9deca515",
+      "sha256": "13d6e54a33fb66103abcd9d50fa9074a826b0cc21f550b047f0499a69c7067ea",
       "size_bytes": 104302,
       "symbol": "ETHUSDT",
       "timeframe": "4H",
@@ -73,7 +73,7 @@
     },
     {
       "name": "ETHUSDT_4H_ob.json",
-      "sha256": "6c446cdc620b1c03140c44cb0b2e3333a5f5a7f627ad61d85622d05a6fdb3095",
+      "sha256": "98611a412f83905384c5a4d545807d4a72a772fba299e9cce57d52c503a5d934",
       "size_bytes": 2729,
       "symbol": "ETHUSDT",
       "timeframe": "4H",
@@ -81,7 +81,7 @@
     },
     {
       "name": "ETHUSDT_4H_fvg.json",
-      "sha256": "ef99f257e8cca69f9608945a10f5a2c4975c9a9748d3e4ce339c20048271f9c3",
+      "sha256": "50f6bd5498e4c38e6679f0fc5fcaacfb19237249ef9aaded3d64b4ff84067ef9",
       "size_bytes": 4724,
       "symbol": "ETHUSDT",
       "timeframe": "4H",
@@ -89,7 +89,7 @@
     },
     {
       "name": "vision_bundle_4H.pdf",
-      "sha256": "01f157123705539991a144643e164c45867dd95c2d8a927e699a8d39c3aeeabc",
+      "sha256": "61acaf20812564f6dfc70cc52a3379ebf152e93282ff07ca0b0f0456f0c0cca0",
       "size_bytes": 287690,
       "symbol": "BUNDLE",
       "timeframe": "4H",
@@ -97,5 +97,5 @@
     }
   ],
   "errors": [],
-  "request_id": "e2e-btceth-4h-test"
+  "request_id": "chatgpt-btceth-4h-20260819-025401"
 }
