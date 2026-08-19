@@ -1,6 +1,11 @@
 {
-  "request_id": "UNKNOWN",
-  "status": "FAILED",
-  "error": "HTTP Error 403: rate limit exceeded",
-  "completed_at_utc": "2026-08-19T02:44:50.861824Z"
+  "request_id": "e2e-btceth-4h-test",
+  "status": "SUCCESS",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "timeframe": "4H",
+  "completed_at_utc": "2026-08-19T02:49:31.492033Z",
+  "snapshot_commit_sha": "f6a6d2195f2fb52de269911dc3fcb7a0cd7013c0"
 }
