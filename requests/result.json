@@ -1,10 +1,6 @@
 {
-  "request_id": "btc-1d-20260818-235846",
-  "status": "SUCCESS",
-  "symbols": [
-    "BTCUSDT"
-  ],
-  "timeframe": "1D",
-  "completed_at_utc": "2026-08-19T00:06:42.940467Z",
-  "snapshot_commit_sha": "d830408b16364c5e632327f1a7af16ce44cfbe18"
+  "request_id": "btceth-4h-20260819-013010",
+  "status": "FAILED",
+  "error": "request is stale",
+  "completed_at_utc": "2026-08-19T02:03:29.041659Z"
 }
