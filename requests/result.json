@@ -1,10 +1,10 @@
 {
-  "request_id": "test-sol-4h-001",
+  "request_id": "btc-1d-20260818-235846",
   "status": "SUCCESS",
   "symbols": [
-    "SOLUSDT"
+    "BTCUSDT"
   ],
-  "timeframe": "4H",
-  "completed_at_utc": "2026-08-18T23:06:28.822534Z",
-  "snapshot_commit_sha": "c1c21aac48e6558d55921a236a258cc15161bdd3"
+  "timeframe": "1D",
+  "completed_at_utc": "2026-08-19T00:06:42.940467Z",
+  "snapshot_commit_sha": "d830408b16364c5e632327f1a7af16ce44cfbe18"
 }
