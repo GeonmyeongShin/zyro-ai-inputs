@@ -1,6 +1,6 @@
 {
-  "request_id": "btceth-4h-20260819-013010",
+  "request_id": "UNKNOWN",
   "status": "FAILED",
-  "error": "request is stale",
-  "completed_at_utc": "2026-08-19T02:03:29.041659Z"
+  "error": "HTTP Error 403: rate limit exceeded",
+  "completed_at_utc": "2026-08-19T02:13:38.148515Z"
 }
