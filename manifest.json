@@ -2,61 +2,61 @@
   "pipeline_version": "1.0",
   "status": "SUCCESS",
   "symbols": [
-    "SOLUSDT"
+    "BTCUSDT"
   ],
-  "timeframe": "4H",
-  "generated_at_utc": "2026-08-18T23:06:05.195718Z",
-  "generated_at_kst": "2026-08-19T08:06:05.195732+09:00",
+  "timeframe": "1D",
+  "generated_at_utc": "2026-08-19T00:06:21.371135Z",
+  "generated_at_kst": "2026-08-19T09:06:21.371150+09:00",
   "markets": {
-    "SOLUSDT": {
+    "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "4H",
-      "last_closed_candle_time": "2026-08-18T16:00:00Z",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-18T00:00:00Z",
       "stale": false
     }
   },
   "files": [
     {
-      "name": "SOLUSDT_4H.png",
-      "sha256": "c315808f27eb5b35aa13e29f4c92d6eac2a63320673debbb43efeed84ac28f17",
-      "size_bytes": 67173,
-      "symbol": "SOLUSDT",
-      "timeframe": "4H",
+      "name": "BTCUSDT_1D.png",
+      "sha256": "bb43ae20a204df758f5971ba96d6c843655d34ca8cb29532f719ed242f5e43a0",
+      "size_bytes": 64857,
+      "symbol": "BTCUSDT",
+      "timeframe": "1D",
       "type": "png"
     },
     {
-      "name": "SOLUSDT_4H_ohlcv.json",
-      "sha256": "4b8de9434bc3d2c978aaf9d36bbd482931e3d7e9a91857a5e078c21e82b4c933",
-      "size_bytes": 100393,
-      "symbol": "SOLUSDT",
-      "timeframe": "4H",
+      "name": "BTCUSDT_1D_ohlcv.json",
+      "sha256": "824657c5f2c6f3939a89e93a654b9f49847b9eb0bdaf9a10c4eccea04a3947eb",
+      "size_bytes": 105212,
+      "symbol": "BTCUSDT",
+      "timeframe": "1D",
       "type": "ohlcv"
     },
     {
-      "name": "SOLUSDT_4H_ob.json",
-      "sha256": "451fe3d9e8d73c40d8a65c356b615ce69d76ab1956ad51ccbdef179ec5c689c5",
-      "size_bytes": 2300,
-      "symbol": "SOLUSDT",
-      "timeframe": "4H",
+      "name": "BTCUSDT_1D_ob.json",
+      "sha256": "7a00ac6b29ecc83d37d717df59d67c5aff4c69eb014ed9f65fe445a053a30164",
+      "size_bytes": 1740,
+      "symbol": "BTCUSDT",
+      "timeframe": "1D",
       "type": "ob"
     },
     {
-      "name": "SOLUSDT_4H_fvg.json",
-      "sha256": "e59e4e8cd92878f70214d4913862f2b6ce7e6bf8f3de7cd9603b2a6aa7d91c6a",
-      "size_bytes": 4649,
-      "symbol": "SOLUSDT",
-      "timeframe": "4H",
+      "name": "BTCUSDT_1D_fvg.json",
+      "sha256": "bfb294fe69d5d66297d68d79c642b01c60d7a3c7f5b0e7bed178022c467f7d9c",
+      "size_bytes": 4721,
+      "symbol": "BTCUSDT",
+      "timeframe": "1D",
       "type": "fvg"
     },
     {
-      "name": "vision_bundle_4H.pdf",
-      "sha256": "1db104d2b43d704f034cd8302a65996690f2d046d30bcc4ab4756b619715c8b4",
-      "size_bytes": 151804,
+      "name": "vision_bundle_1D.pdf",
+      "sha256": "e266a3a847baa70d5b1f100a60eb46b4a1afd31bf2a50805e4b153115e75d199",
+      "size_bytes": 148346,
       "symbol": "BUNDLE",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "vision_bundle"
     }
   ],
   "errors": [],
-  "request_id": "test-sol-4h-001"
+  "request_id": "btc-1d-20260818-235846"
 }
