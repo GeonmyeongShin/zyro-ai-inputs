@@ -1,6 +1,9 @@
 {
-  "request_id": "btceth-4h-20260819-013010",
-  "symbols": ["BTCUSDT", "ETHUSDT"],
+  "request_id": "e2e-btceth-4h-test",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
   "timeframe": "4H",
-  "requested_at_utc": "2026-08-19T01:30:10Z"
+  "requested_at_utc": "2026-08-19T02:49:07Z"
 }
