@@ -3,99 +3,435 @@
   "status": "SUCCESS",
   "symbols": [
     "BTCUSDT",
-    "ETHUSDT"
+    "ETHUSDT",
+    "SOLUSDT",
+    "XRPUSDT",
+    "DOGEUSDT",
+    "BNBUSDT",
+    "LINKUSDT",
+    "ADAUSDT",
+    "AVAXUSDT",
+    "SUIUSDT",
+    "USDT.D"
   ],
-  "timeframe": "4H",
-  "generated_at_utc": "2026-08-21T13:52:14.516819Z",
-  "generated_at_kst": "2026-08-21T22:52:14.516832+09:00",
+  "timeframe": "1D",
+  "generated_at_utc": "2026-08-21T14:23:09.967484Z",
+  "generated_at_kst": "2026-08-21T23:23:09.967498+09:00",
   "markets": {
     "BTCUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "4H",
-      "last_closed_candle_time": "2026-08-21T08:00:00Z",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
       "stale": false
     },
     "ETHUSDT": {
       "source": "BINANCE_USDT_M_FUTURES",
-      "timeframe": "4H",
-      "last_closed_candle_time": "2026-08-21T08:00:00Z",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "SOLUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "XRPUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "DOGEUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "BNBUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "LINKUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "ADAUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "AVAXUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "SUIUSDT": {
+      "source": "BINANCE_USDT_M_FUTURES",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
+      "stale": false
+    },
+    "USDT.D": {
+      "source": "TRADINGVIEW_CRYPTOCAP",
+      "source_symbol": "CRYPTOCAP:USDT.D",
+      "timeframe": "1D",
+      "last_closed_candle_time": "2026-08-20T00:00:00Z",
       "stale": false
     }
   },
   "files": [
     {
-      "name": "BTCUSDT_4H.png",
-      "sha256": "123321923c49290b817a3ae5d58c957c1e108ffcfdf766ba22a1cd2764eee893",
-      "size_bytes": 60547,
+      "name": "BTCUSDT_1D.png",
+      "sha256": "9236c5d02089ee7c62b98aad2a11602180b25c0bf9278525f90451979c1aa35d",
+      "size_bytes": 63951,
       "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "png"
     },
     {
-      "name": "BTCUSDT_4H_ohlcv.json",
-      "sha256": "3a63ea9467f098dcafbc23a9ef8dff33b410cbd15e0b871c0142fc3c08984ac0",
-      "size_bytes": 104011,
+      "name": "BTCUSDT_1D_ohlcv.json",
+      "sha256": "6b33b0072f228b268982c229eddf7e5c9b6209c4dc21237a782226596e5a47ef",
+      "size_bytes": 105212,
       "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "ohlcv"
     },
     {
-      "name": "BTCUSDT_4H_ob.json",
-      "sha256": "5cf2a2615cdb7fe8b01df651a258c7d078d3c3e5e09be539f1bb9cedfda0f7ca",
-      "size_bytes": 1944,
+      "name": "BTCUSDT_1D_ob.json",
+      "sha256": "a2a509fe5ec163c71aa8367a6191eb9e4e55f03463fa59cc294ff982f8fc6e65",
+      "size_bytes": 1749,
       "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "ob"
     },
     {
-      "name": "BTCUSDT_4H_fvg.json",
-      "sha256": "ba6e8bda47cbe5ebfcb2292786cd4405514f2bc3c24441db677139b5da5e1fa0",
-      "size_bytes": 4730,
+      "name": "BTCUSDT_1D_fvg.json",
+      "sha256": "a95e7bc1d4d937411d99af71925947a9b4ad83333779771db6af430e7ad107b3",
+      "size_bytes": 4741,
       "symbol": "BTCUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "fvg"
     },
     {
-      "name": "ETHUSDT_4H.png",
-      "sha256": "5dcb877c08aedaa972a174f93bd98357fe11a574c0009ba815c4407091bcdc5d",
-      "size_bytes": 56232,
+      "name": "ETHUSDT_1D.png",
+      "sha256": "42c3aa1f73a2196d8a4a6a6c6c8544a706775c2e3be1401dab430639b764bb78",
+      "size_bytes": 64823,
       "symbol": "ETHUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "png"
     },
     {
-      "name": "ETHUSDT_4H_ohlcv.json",
-      "sha256": "1f71c1abc596cfe3884f7e3953b7ec87d11053b2b0176a3a564d2232f508efee",
-      "size_bytes": 104307,
+      "name": "ETHUSDT_1D_ohlcv.json",
+      "sha256": "78e9869b69448c96fdfbdab9790cb349cea749a8e8db002a09e8847fd9722716",
+      "size_bytes": 104619,
       "symbol": "ETHUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "ohlcv"
     },
     {
-      "name": "ETHUSDT_4H_ob.json",
-      "sha256": "9410090fd43f832e12d002497871e69bc2b129d2e0166984199fd0eadc2c7a1f",
-      "size_bytes": 1950,
+      "name": "ETHUSDT_1D_ob.json",
+      "sha256": "2d353c33569b952546ad8572f51b0a3c9b01bae7d9a67750e8ee99dcfca41cdd",
+      "size_bytes": 1778,
       "symbol": "ETHUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "ob"
     },
     {
-      "name": "ETHUSDT_4H_fvg.json",
-      "sha256": "4367d455a55739620a7df329eed0fee074040898c245fb826d91d2ed836feb54",
-      "size_bytes": 4749,
+      "name": "ETHUSDT_1D_fvg.json",
+      "sha256": "dff395581c8dd5762d4444e18a03f00c33b3a501685570093e6caa9597cca110",
+      "size_bytes": 4735,
       "symbol": "ETHUSDT",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "fvg"
     },
     {
-      "name": "vision_bundle_4H.pdf",
-      "sha256": "2e3734993390d3bbf234e056a57542f4c6c9c970ca1298c7849d37dbb67920b5",
-      "size_bytes": 264544,
+      "name": "SOLUSDT_1D.png",
+      "sha256": "f1b3cecbd07ffaa692499434a98ad7ea3cdb0b4c31d6941aa457846db9df6a66",
+      "size_bytes": 65214,
+      "symbol": "SOLUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "SOLUSDT_1D_ohlcv.json",
+      "sha256": "8dc2c9d047add53e09eb0032eb98daf5d4a3fe3dd9215532271a11316db3ca92",
+      "size_bytes": 102020,
+      "symbol": "SOLUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "SOLUSDT_1D_ob.json",
+      "sha256": "b092bad279c1b12228909f79895c3357d641aea760a2cf9db02e741a83ad2d9c",
+      "size_bytes": 986,
+      "symbol": "SOLUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "SOLUSDT_1D_fvg.json",
+      "sha256": "e247381f3b6b7ec851c4b0e28cd8d398c2bd13171c439656a339158736345afc",
+      "size_bytes": 4667,
+      "symbol": "SOLUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "XRPUSDT_1D.png",
+      "sha256": "bec5a7606f803557781f70036c8aae773a1eb018579a80a65f0a18372a1b2957",
+      "size_bytes": 61298,
+      "symbol": "XRPUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "XRPUSDT_1D_ohlcv.json",
+      "sha256": "e260b1bbcd72855f4add99550a4b1fb8753bca7ef5ba5a6e0742180127bd51be",
+      "size_bytes": 102931,
+      "symbol": "XRPUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "XRPUSDT_1D_ob.json",
+      "sha256": "166067d1279873c70a2e60e235f689a29c629403feec8d1829a9575a8c4fdc1b",
+      "size_bytes": 1954,
+      "symbol": "XRPUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "XRPUSDT_1D_fvg.json",
+      "sha256": "f544bced58fe800d695a4badbebde7a0e2b78c355efecdc8e435ccf799e30813",
+      "size_bytes": 4706,
+      "symbol": "XRPUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "DOGEUSDT_1D.png",
+      "sha256": "266db273b9b102d75015a4e2d7286509a016f908fb3505a3fe385d2bb4e81ecb",
+      "size_bytes": 65621,
+      "symbol": "DOGEUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "DOGEUSDT_1D_ohlcv.json",
+      "sha256": "f7dbf3fac5c312aff62a9d68cbfe8bb5759051583a671d42c7e493a3e2b9efbe",
+      "size_bytes": 105431,
+      "symbol": "DOGEUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "DOGEUSDT_1D_ob.json",
+      "sha256": "d6fe96add56556f864c12b6c504d293891f65e498f60e3de09fe7c35d0197e13",
+      "size_bytes": 2157,
+      "symbol": "DOGEUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "DOGEUSDT_1D_fvg.json",
+      "sha256": "e2d4bfef2aee233eac5a20ff289581c445113777a2af59154b4504896ee4115e",
+      "size_bytes": 4732,
+      "symbol": "DOGEUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "BNBUSDT_1D.png",
+      "sha256": "72dc44d3da121cc897323d31f147a194ff0af86e58e9e175c33115a23e250940",
+      "size_bytes": 61800,
+      "symbol": "BNBUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "BNBUSDT_1D_ohlcv.json",
+      "sha256": "40533a7dc1c40f302e4e59d19e67dff3ce798090e99c36fccde621871255dc9a",
+      "size_bytes": 102021,
+      "symbol": "BNBUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "BNBUSDT_1D_ob.json",
+      "sha256": "be20c8e2d9e645764e04f59a6736afa06c5627b2dc1b108fb8ef29f5fb41af89",
+      "size_bytes": 1755,
+      "symbol": "BNBUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "BNBUSDT_1D_fvg.json",
+      "sha256": "63fa88227091c3a17b4090e5cb09742c353cead144b057fa4d5d188fada8c7e9",
+      "size_bytes": 4687,
+      "symbol": "BNBUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "LINKUSDT_1D.png",
+      "sha256": "0f5a6cb8ee9cc3113c7bd56d3012bb550e7ef139d49a025e5bcf5c92a7e5c119",
+      "size_bytes": 60848,
+      "symbol": "LINKUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "LINKUSDT_1D_ohlcv.json",
+      "sha256": "d156c3777eb9510a3e6a9e85bbbae1714246cc2b52b8bfc3c6714248cbf84383",
+      "size_bytes": 102008,
+      "symbol": "LINKUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "LINKUSDT_1D_ob.json",
+      "sha256": "4b71e56f2ae12f3c1ce9b7d335724ee3d94d909bd25cc33a9e84ba9a99ae5302",
+      "size_bytes": 2129,
+      "symbol": "LINKUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "LINKUSDT_1D_fvg.json",
+      "sha256": "8838a868291a964bc37fd5da912a4e888e293156ac733e77419dc86dd8ef93a9",
+      "size_bytes": 4656,
+      "symbol": "LINKUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "ADAUSDT_1D.png",
+      "sha256": "cad3dad77c186c46b6cf15d73abaeda3f5fb86ca9d1267d112d2d9505ebda4a5",
+      "size_bytes": 60506,
+      "symbol": "ADAUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "ADAUSDT_1D_ohlcv.json",
+      "sha256": "9ad018d4ce5783d5e235e6ee412d2ec19dcf8a00a099d0ea19f8cb8d0930551d",
+      "size_bytes": 102998,
+      "symbol": "ADAUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "ADAUSDT_1D_ob.json",
+      "sha256": "3f27116ce10507ead7564a852e04f207e42a9852ce30fd14ed215506ad6576f8",
+      "size_bytes": 1943,
+      "symbol": "ADAUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "ADAUSDT_1D_fvg.json",
+      "sha256": "896ec1c9220b7983866d7be81579dea394f8d49eaf5df9c0b5197cd5ef79e9e3",
+      "size_bytes": 4698,
+      "symbol": "ADAUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "AVAXUSDT_1D.png",
+      "sha256": "a494f9acfbdb87155ad1490709ebaf6440080ba0f85bdf35bc47a52b4777ddd7",
+      "size_bytes": 62195,
+      "symbol": "AVAXUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "AVAXUSDT_1D_ohlcv.json",
+      "sha256": "aab467ca7c68b62f7ed133d16675887f6127a609b2e12a68219e788210310b1b",
+      "size_bytes": 101491,
+      "symbol": "AVAXUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "AVAXUSDT_1D_ob.json",
+      "sha256": "e351c24134da314b3f00d9f06b007c9cc0b057b632b006f9af0147e5a162bc4b",
+      "size_bytes": 1923,
+      "symbol": "AVAXUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "AVAXUSDT_1D_fvg.json",
+      "sha256": "0642712167a1e9fa9022d85d948f4dcd8757ae8db03f3d15238ed012136dc08e",
+      "size_bytes": 4660,
+      "symbol": "AVAXUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "SUIUSDT_1D.png",
+      "sha256": "309b1179bbbebf7e13bc55b62f3662f754ce4cf663faf7157a9fd83b66328831",
+      "size_bytes": 66152,
+      "symbol": "SUIUSDT",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "SUIUSDT_1D_ohlcv.json",
+      "sha256": "d2b327727746dadce06fcac16b556175898ef48cc62cf39367a60aaf28be0c54",
+      "size_bytes": 102801,
+      "symbol": "SUIUSDT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "SUIUSDT_1D_ob.json",
+      "sha256": "c60a1e55e200ca78aa6cd095c86d1e966d0b552ae4e38710cb2c9bdd798d2f6c",
+      "size_bytes": 2128,
+      "symbol": "SUIUSDT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "SUIUSDT_1D_fvg.json",
+      "sha256": "4ef4372c5f375f061eb1310fc4e2be11ab77bdf77b4563caec28eec55407fa76",
+      "size_bytes": 4671,
+      "symbol": "SUIUSDT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "USDT.D_1D.png",
+      "sha256": "5f7398ad60f889d48e2bb36762c2e57713e0c1ab758786fa63b0706e234d0fd1",
+      "size_bytes": 62931,
+      "symbol": "USDT.D",
+      "timeframe": "1D",
+      "type": "png"
+    },
+    {
+      "name": "USDT.D_1D_ohlcv.json",
+      "sha256": "b9a17179987b2004fad291f9d8673362427942374fb1412ef63091c24f8095db",
+      "size_bytes": 128108,
+      "symbol": "USDT.D",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "vision_bundle_1D.pdf",
+      "sha256": "29a2819e21a8d3af731a8e2c04c9de17b21f076fd6c5e5f3f578cdafad8d693a",
+      "size_bytes": 1596306,
       "symbol": "BUNDLE",
-      "timeframe": "4H",
+      "timeframe": "1D",
       "type": "vision_bundle"
     }
   ],
   "errors": [],
-  "request_id": "chatgpt-strategy-4h-20260821-135000"
+  "request_id": "chatgpt-allwatch-1d-20260821-142100"
 }

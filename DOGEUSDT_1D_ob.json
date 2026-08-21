@@ -1,0 +1,84 @@
+{
+  "symbol": "DOGEUSDT",
+  "timeframe": "1D",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "generated_at_utc": "2026-08-21T14:22:51.553528Z",
+  "generated_at_kst": "2026-08-21T23:22:51.553545+09:00",
+  "last_closed_candle_time_utc": "2026-08-20T00:00:00Z",
+  "last_closed_candle_time_kst": "2026-08-20T09:00:00+09:00",
+  "detector": "conservative_volume_pivot_v1",
+  "order_blocks": [
+    {
+      "type": "BULLISH",
+      "high": 0.07065,
+      "low": 0.06879,
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 12.170562
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.07536,
+      "low": 0.07338,
+      "created_at": "2026-07-14T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 6.315266
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.07833,
+      "low": 0.076325,
+      "created_at": "2026-07-06T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 2.623073
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.07979,
+      "low": 0.07627500000000001,
+      "created_at": "2026-06-24T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 0.808056
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.10902,
+      "low": 0.10573,
+      "created_at": "2026-05-18T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 31.439582
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.11859,
+      "low": 0.115215,
+      "created_at": "2026-05-14T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 43.23098
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.15656,
+      "low": 0.14948,
+      "created_at": "2026-01-06T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 85.827946
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.16618,
+      "low": 0.16038,
+      "created_at": "2025-11-14T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 99.378419
+    },
+    {
+      "type": "BEARISH",
+      "high": 0.21823,
+      "low": 0.21001999999999998,
+      "created_at": "2025-10-13T00:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 161.08901
+    }
+  ]
+}
