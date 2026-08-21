@@ -1,5 +1,5 @@
 {
-  "request_id": "chatgpt-auto-crypto8-1d-20260821-142800",
+  "request_id": "chatgpt-auto-crypto8-4h-20260821-143500",
   "symbols": [
     "BTCUSDT",
     "ETHUSDT",
@@ -8,9 +8,8 @@
     "DOGEUSDT",
     "LINKUSDT",
     "ADAUSDT",
-    "NEARUSDT",
-    "USDT.D"
+    "NEARUSDT"
   ],
-  "timeframe": "1D",
-  "requested_at_utc": "2026-08-21T14:28:00Z"
+  "timeframe": "4H",
+  "requested_at_utc": "2026-08-21T14:35:00Z"
 }
