@@ -2,8 +2,8 @@
   "symbol": "USDT.D",
   "timeframe": "1D",
   "source": "TRADINGVIEW_CRYPTOCAP",
-  "generated_at_utc": "2026-08-21T14:23:09.492369Z",
-  "generated_at_kst": "2026-08-21T23:23:09.492387+09:00",
+  "generated_at_utc": "2026-08-21T14:34:17.006489Z",
+  "generated_at_kst": "2026-08-21T23:34:17.006504+09:00",
   "last_closed_candle_time_utc": "2026-08-20T00:00:00Z",
   "last_closed_candle_time_kst": "2026-08-20T09:00:00+09:00",
   "candles": [
@@ -4468,7 +4468,7 @@
       "high": 8.568281145157728,
       "low": 8.367467784810719,
       "close": 8.38746656973591,
-      "volume": 43866530339.408195,
+      "volume": 43866530339.4082,
       "is_closed": true
     },
     {

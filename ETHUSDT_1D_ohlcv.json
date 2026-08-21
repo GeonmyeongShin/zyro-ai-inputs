@@ -2,8 +2,8 @@
   "symbol": "ETHUSDT",
   "timeframe": "1D",
   "source": "BINANCE_USDT_M_FUTURES",
-  "generated_at_utc": "2026-08-21T14:22:44.525984Z",
-  "generated_at_kst": "2026-08-21T23:22:44.525999+09:00",
+  "generated_at_utc": "2026-08-21T14:34:02.610074Z",
+  "generated_at_kst": "2026-08-21T23:34:02.610092+09:00",
   "last_closed_candle_time_utc": "2026-08-20T00:00:00Z",
   "last_closed_candle_time_kst": "2026-08-20T09:00:00+09:00",
   "candles": [
