@@ -1,5 +1,5 @@
 {
-  "request_id": "chatgpt-allwatch-1d-20260821-142100",
+  "request_id": "chatgpt-auto-crypto8-1d-20260821-142800",
   "status": "SUCCESS",
   "symbols": [
     "BTCUSDT",
@@ -7,18 +7,16 @@
     "SOLUSDT",
     "XRPUSDT",
     "DOGEUSDT",
-    "BNBUSDT",
     "LINKUSDT",
     "ADAUSDT",
-    "AVAXUSDT",
-    "SUIUSDT",
+    "NEARUSDT",
     "USDT.D"
   ],
   "timeframe": "1D",
   "required_timeframes": null,
   "trigger": "MANUAL",
-  "completed_at_utc": "2026-08-21T14:23:46.770754Z",
-  "snapshot_commit_sha": "4f32a69a0a7fb3630d03cfdc9c0dd6cd3860ae5e",
+  "completed_at_utc": "2026-08-21T14:34:33.558705Z",
+  "snapshot_commit_sha": "383f8664f0f70b94cf81eaab38f0600f850ebc6e",
   "analysis": {
     "status": "LEGACY_SNAPSHOT_ONLY"
   }
