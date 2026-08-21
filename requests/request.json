@@ -1,9 +1,18 @@
 {
-  "request_id": "chatgpt-strategy-4h-20260821-135000",
+  "request_id": "chatgpt-allwatch-1d-20260821-142100",
   "symbols": [
     "BTCUSDT",
-    "ETHUSDT"
+    "ETHUSDT",
+    "SOLUSDT",
+    "XRPUSDT",
+    "DOGEUSDT",
+    "BNBUSDT",
+    "LINKUSDT",
+    "ADAUSDT",
+    "AVAXUSDT",
+    "SUIUSDT",
+    "USDT.D"
   ],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-21T13:50:00Z"
+  "timeframe": "1D",
+  "requested_at_utc": "2026-08-21T14:21:00Z"
 }
