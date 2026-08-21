@@ -1,16 +1,15 @@
 {
-  "request_id": "chatgpt-strategy-1d-20260821-134700",
+  "request_id": "chatgpt-strategy-4h-20260821-135000",
   "status": "SUCCESS",
   "symbols": [
     "BTCUSDT",
-    "ETHUSDT",
-    "USDT.D"
+    "ETHUSDT"
   ],
-  "timeframe": "1D",
+  "timeframe": "4H",
   "required_timeframes": null,
   "trigger": "MANUAL",
-  "completed_at_utc": "2026-08-21T13:49:34.760889Z",
-  "snapshot_commit_sha": "cb0dc7ef1ea3987abe7c22ad43f429d122a644b1",
+  "completed_at_utc": "2026-08-21T13:52:24.705987Z",
+  "snapshot_commit_sha": "ebd7ad44b7f3a3ca1b18015dac45d74faccb9409",
   "analysis": {
     "status": "LEGACY_SNAPSHOT_ONLY"
   }
