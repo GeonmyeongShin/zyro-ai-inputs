@@ -1,0 +1,92 @@
+{
+  "symbol": "NEARUSDT",
+  "timeframe": "4H",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "generated_at_utc": "2026-08-21T14:35:50.709478Z",
+  "generated_at_kst": "2026-08-21T23:35:50.709492+09:00",
+  "last_closed_candle_time_utc": "2026-08-21T08:00:00Z",
+  "last_closed_candle_time_kst": "2026-08-21T17:00:00+09:00",
+  "detector": "conservative_volume_pivot_v1",
+  "order_blocks": [
+    {
+      "type": "BULLISH",
+      "high": 1.6560000000000001,
+      "low": 1.614,
+      "created_at": "2026-08-19T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 12.241653
+    },
+    {
+      "type": "BULLISH",
+      "high": 1.5670000000000002,
+      "low": 1.536,
+      "created_at": "2026-08-11T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 16.958135
+    },
+    {
+      "type": "BEARISH",
+      "high": 1.835,
+      "low": 1.8025,
+      "created_at": "2026-07-27T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 2.755697
+    },
+    {
+      "type": "BEARISH",
+      "high": 1.958,
+      "low": 1.936,
+      "created_at": "2026-07-21T16:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 2.596714
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.085,
+      "low": 2.052,
+      "created_at": "2026-07-16T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 8.744038
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.106,
+      "low": 2.0835,
+      "created_at": "2026-07-15T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 10.413355
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.115,
+      "low": 2.064,
+      "created_at": "2026-07-03T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 9.379968
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.19,
+      "low": 2.1505,
+      "created_at": "2026-06-22T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 13.963964
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.279,
+      "low": 2.238,
+      "created_at": "2026-06-21T08:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 18.600954
+    },
+    {
+      "type": "BEARISH",
+      "high": 2.3,
+      "low": 2.2335,
+      "created_at": "2026-06-18T12:00:00Z",
+      "status": "ACTIVE",
+      "distance_pct": 18.36248
+    }
+  ]
+}
