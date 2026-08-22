@@ -1,7 +1,13 @@
 {
-  "request_id": "manual-nvda-20260822-1817-kst",
-  "symbols": ["NVDA"],
-  "required_timeframes": ["1D", "4H"],
+  "request_id": "manual-e2e-nvda-avax-20260822-233635-kst",
+  "symbols": [
+    "NVDA",
+    "AVAX"
+  ],
+  "required_timeframes": [
+    "1D",
+    "4H"
+  ],
   "trigger": "MANUAL",
-  "requested_at_utc": "2026-08-22T09:17:00Z"
+  "requested_at_utc": "2026-08-22T14:36:34Z"
 }
