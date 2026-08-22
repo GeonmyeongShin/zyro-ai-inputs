@@ -1,16 +1,47 @@
 {
-  "request_id": "daily-report-20260822-0108-crypto-4h",
+  "request_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
   "status": "SUCCESS",
   "symbols": [
-    "BTCUSDT",
-    "ETHUSDT"
+    "NVDA",
+    "AVAX"
   ],
-  "timeframe": "4H",
-  "required_timeframes": null,
+  "timeframe": null,
+  "required_timeframes": [
+    "1D",
+    "4H"
+  ],
   "trigger": "MANUAL",
-  "completed_at_utc": "2026-08-22T01:08:08.740874Z",
-  "snapshot_commit_sha": "8cd00a47bf723b8ef4d2f5d823bfa2c7252b602c",
+  "completed_at_utc": "2026-08-22T14:51:59.646391Z",
+  "snapshot_commit_sha": "82197084e9675ab93e74c090c278749c1b0759b8",
   "analysis": {
-    "status": "LEGACY_SNAPSHOT_ONLY"
+    "status": "ANALYSIS_COMPLETED",
+    "outcomes": [
+      {
+        "analysis_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
+        "report_id": "report-manual-e2e2-nvda-avax-20260822-234946-kst",
+        "symbol": "NVDA",
+        "decision": "NO_TRADE",
+        "telegram": {
+          "status": "SKIPPED_POLICY"
+        },
+        "registration": {
+          "status": "SKIPPED_POLICY"
+        },
+        "analysis_image": null
+      },
+      {
+        "analysis_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
+        "report_id": "report-manual-e2e2-nvda-avax-20260822-234946-kst",
+        "symbol": "AVAX",
+        "decision": "NO_TRADE",
+        "telegram": {
+          "status": "SKIPPED_POLICY"
+        },
+        "registration": {
+          "status": "SKIPPED_POLICY"
+        },
+        "analysis_image": null
+      }
+    ]
   }
 }
