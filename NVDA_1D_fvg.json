@@ -1,0 +1,193 @@
+{
+  "analysis_symbol": "NVDA",
+  "asset_class": "US_STOCK",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "created_at": "2026-08-19T13:30:00Z",
+      "distance_pct": 3.795638,
+      "fill_pct": 0.0,
+      "high": 224.86000061035156,
+      "low": 222.8699951171875,
+      "status": "OPEN",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-18T13:30:00Z",
+      "distance_pct": 3.222801,
+      "fill_pct": 43.0068,
+      "high": 224.5,
+      "low": 221.63999938964844,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-13T13:30:00Z",
+      "distance_pct": 3.483605,
+      "fill_pct": 100.0,
+      "high": 223.7100067138672,
+      "low": 222.1999969482422,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-06T13:30:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 63.4517,
+      "high": 217.0,
+      "low": 213.05999755859375,
+      "status": "PARTIAL",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-05T13:30:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 24.8041,
+      "high": 216.39999389648438,
+      "low": 208.74000549316406,
+      "status": "PARTIAL",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-04T13:30:00Z",
+      "distance_pct": 2.640647,
+      "fill_pct": 0.0,
+      "high": 209.0500030517578,
+      "low": 202.0,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-28T13:30:00Z",
+      "distance_pct": 4.615315,
+      "fill_pct": 100.0,
+      "high": 204.80999755859375,
+      "low": 198.6999969482422,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-09T13:30:00Z",
+      "distance_pct": 7.339789,
+      "fill_pct": 100.0,
+      "high": 198.9600067138672,
+      "low": 198.41000366210938,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-26T13:30:00Z",
+      "distance_pct": 8.448211,
+      "fill_pct": 100.0,
+      "high": 196.5800018310547,
+      "low": 195.5500030517578,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-24T13:30:00Z",
+      "distance_pct": 3.26006,
+      "fill_pct": 100.0,
+      "high": 207.72000122070312,
+      "low": 201.6699981689453,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-23T13:30:00Z",
+      "distance_pct": 3.828242,
+      "fill_pct": 100.0,
+      "high": 206.5,
+      "low": 203.77000427246094,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-16T13:30:00Z",
+      "distance_pct": 3.460324,
+      "fill_pct": 100.0,
+      "high": 207.2899932861328,
+      "low": 207.07000732421875,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-15T13:30:00Z",
+      "distance_pct": 2.971314,
+      "fill_pct": 100.0,
+      "high": 208.33999633789062,
+      "low": 205.66000366210938,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-08T13:30:00Z",
+      "distance_pct": 1.74646,
+      "fill_pct": 100.0,
+      "high": 210.97000122070312,
+      "low": 210.47000122070312,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-02T13:30:00Z",
+      "distance_pct": 1.462369,
+      "fill_pct": 100.0,
+      "high": 221.35000610351562,
+      "low": 217.86000061035156,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-01T13:30:00Z",
+      "distance_pct": 0.37258,
+      "fill_pct": 100.0,
+      "high": 215.6999969482422,
+      "low": 215.52000427246094,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-05-27T13:30:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 100.0,
+      "high": 214.8000030517578,
+      "low": 214.14999389648438,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-14T13:30:00Z",
+      "distance_pct": 4.205476,
+      "fill_pct": 100.0,
+      "high": 229.3000030517578,
+      "low": 223.75,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-05-08T13:30:00Z",
+      "distance_pct": 0.852274,
+      "fill_pct": 100.0,
+      "high": 212.88999938964844,
+      "low": 208.27000427246094,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-05-07T13:30:00Z",
+      "distance_pct": 3.828242,
+      "fill_pct": 100.0,
+      "high": 206.5,
+      "low": 200.24000549316406,
+      "status": "FILLED",
+      "type": "BULLISH"
+    }
+  ],
+  "generated_at_utc": "2026-08-22T14:50:50.758267Z",
+  "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+  "source": "YAHOO_FINANCE_REGULAR_SESSION",
+  "source_symbol": "NVDA",
+  "symbol": "NVDA",
+  "timeframe": "1D"
+}

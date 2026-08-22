@@ -1,0 +1,77 @@
+{
+  "analysis_symbol": "AVAXUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "conservative_volume_pivot_v1",
+  "generated_at_utc": "2026-08-22T14:50:50.758267Z",
+  "last_closed_candle_open_time_utc": "2026-08-21T00:00:00Z",
+  "order_blocks": [
+    {
+      "created_at": "2026-08-15T00:00:00Z",
+      "distance_pct": 12.268843,
+      "high": 6.879,
+      "low": 6.5875,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-04T00:00:00Z",
+      "distance_pct": 10.904221,
+      "high": 6.986,
+      "low": 6.772,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-06T00:00:00Z",
+      "distance_pct": 9.603367,
+      "high": 7.088,
+      "low": 6.897,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-19T00:00:00Z",
+      "distance_pct": 23.523785,
+      "high": 5.9965,
+      "low": 5.673,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-05T00:00:00Z",
+      "distance_pct": 1.530417,
+      "high": 7.721,
+      "low": 7.1495,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-10T00:00:00Z",
+      "distance_pct": 29.6327,
+      "high": 10.483,
+      "low": 10.1645,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2025-11-17T00:00:00Z",
+      "distance_pct": 92.692259,
+      "high": 15.965,
+      "low": 15.109,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2025-09-23T00:00:00Z",
+      "distance_pct": 339.369978,
+      "high": 36.16,
+      "low": 34.45099999999999,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    }
+  ],
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "AVAXUSDT",
+  "symbol": "AVAX",
+  "timeframe": "1D"
+}

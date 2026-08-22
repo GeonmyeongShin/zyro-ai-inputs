@@ -1,0 +1,193 @@
+{
+  "analysis_symbol": "AVAXUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "created_at": "2026-08-21T00:00:00Z",
+      "distance_pct": 7.945415,
+      "fill_pct": 0.0,
+      "high": 7.218,
+      "low": 6.886,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-20T00:00:00Z",
+      "distance_pct": 14.653743,
+      "fill_pct": 0.0,
+      "high": 6.692,
+      "low": 6.451,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-28T00:00:00Z",
+      "distance_pct": 15.30417,
+      "fill_pct": 100.0,
+      "high": 6.641,
+      "low": 6.626,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-26T00:00:00Z",
+      "distance_pct": 15.30417,
+      "fill_pct": 100.0,
+      "high": 6.641,
+      "low": 6.316,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-24T00:00:00Z",
+      "distance_pct": 17.65081,
+      "fill_pct": 100.0,
+      "high": 6.457,
+      "low": 6.316,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-12T00:00:00Z",
+      "distance_pct": 15.214896,
+      "fill_pct": 100.0,
+      "high": 6.648,
+      "low": 6.546,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-08T00:00:00Z",
+      "distance_pct": 14.475194,
+      "fill_pct": 100.0,
+      "high": 6.706,
+      "low": 6.695,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-19T00:00:00Z",
+      "distance_pct": 15.26591,
+      "fill_pct": 100.0,
+      "high": 6.644,
+      "low": 6.32,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-06T00:00:00Z",
+      "distance_pct": 4.285168,
+      "fill_pct": 100.0,
+      "high": 7.505,
+      "low": 6.93,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-05T00:00:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 99.4413,
+      "high": 7.9,
+      "low": 7.721,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-03T00:00:00Z",
+      "distance_pct": 6.721081,
+      "fill_pct": 0.0,
+      "high": 8.671,
+      "low": 8.368,
+      "status": "OPEN",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-28T00:00:00Z",
+      "distance_pct": 15.686775,
+      "fill_pct": 24.3902,
+      "high": 9.112,
+      "low": 9.071,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-16T00:00:00Z",
+      "distance_pct": 22.012498,
+      "fill_pct": 54.2373,
+      "high": 9.626,
+      "low": 9.567,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-09T00:00:00Z",
+      "distance_pct": 23.683204,
+      "fill_pct": 100.0,
+      "high": 9.792,
+      "low": 9.698,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-04-28T00:00:00Z",
+      "distance_pct": 18.224716,
+      "fill_pct": 100.0,
+      "high": 9.309,
+      "low": 9.27,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-04-19T00:00:00Z",
+      "distance_pct": 19.296008,
+      "fill_pct": 100.0,
+      "high": 9.441,
+      "low": 9.354,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-03-27T00:00:00Z",
+      "distance_pct": 16.605025,
+      "fill_pct": 100.0,
+      "high": 9.554,
+      "low": 9.143,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-03-22T00:00:00Z",
+      "distance_pct": 19.347022,
+      "fill_pct": 100.0,
+      "high": 9.408,
+      "low": 9.358,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-03-19T00:00:00Z",
+      "distance_pct": 24.25711,
+      "fill_pct": 100.0,
+      "high": 10.167,
+      "low": 9.743,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-03-17T00:00:00Z",
+      "distance_pct": 28.070399,
+      "fill_pct": 100.0,
+      "high": 10.167,
+      "low": 10.042,
+      "status": "FILLED",
+      "type": "BULLISH"
+    }
+  ],
+  "generated_at_utc": "2026-08-22T14:50:50.758267Z",
+  "last_closed_candle_open_time_utc": "2026-08-21T00:00:00Z",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "AVAXUSDT",
+  "symbol": "AVAX",
+  "timeframe": "1D"
+}
