@@ -1,6 +1,16 @@
 {
-  "request_id": "daily-report-20260822-0107-crypto-1d",
-  "status": "FAILED",
-  "error": "result push failed; no force push attempted: To https://github.com/GeonmyeongShin/zyro-ai-inputs.git",
-  "completed_at_utc": "2026-08-22T01:07:38.149899Z"
+  "request_id": "daily-report-20260822-0108-crypto-4h",
+  "status": "SUCCESS",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "timeframe": "4H",
+  "required_timeframes": null,
+  "trigger": "MANUAL",
+  "completed_at_utc": "2026-08-22T01:08:08.740874Z",
+  "snapshot_commit_sha": "8cd00a47bf723b8ef4d2f5d823bfa2c7252b602c",
+  "analysis": {
+    "status": "LEGACY_SNAPSHOT_ONLY"
+  }
 }
