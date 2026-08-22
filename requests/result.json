@@ -1,6 +1,6 @@
 {
-  "request_id": "daily-report-20260822-0105-1d",
+  "request_id": "daily-report-20260822-0107-crypto-1d",
   "status": "FAILED",
-  "error": "Binance USDT-M Futures symbol is not tradable: AAPL",
-  "completed_at_utc": "2026-08-22T01:05:54.388405Z"
+  "error": "result push failed; no force push attempted: To https://github.com/GeonmyeongShin/zyro-ai-inputs.git",
+  "completed_at_utc": "2026-08-22T01:07:38.149899Z"
 }
