@@ -1,17 +1,9 @@
 {
-  "request_id": "daily-report-20260822-0105-1d",
+  "request_id": "daily-report-20260822-0107-crypto-1d",
   "symbols": [
     "BTCUSDT",
-    "ETHUSDT",
-    "AAPL",
-    "META",
-    "AMZN",
-    "BAC",
-    "UNH",
-    "CAT",
-    "XOM",
-    "PG"
+    "ETHUSDT"
   ],
   "timeframe": "1D",
-  "requested_at_utc": "2026-08-22T01:05:00Z"
+  "requested_at_utc": "2026-08-22T01:07:00Z"
 }
