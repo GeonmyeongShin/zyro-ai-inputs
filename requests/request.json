@@ -1,15 +1,17 @@
 {
-  "request_id": "chatgpt-auto-crypto8-4h-20260821-143500",
+  "request_id": "daily-report-20260822-0105-1d",
   "symbols": [
     "BTCUSDT",
     "ETHUSDT",
-    "SOLUSDT",
-    "XRPUSDT",
-    "DOGEUSDT",
-    "LINKUSDT",
-    "ADAUSDT",
-    "NEARUSDT"
+    "AAPL",
+    "META",
+    "AMZN",
+    "BAC",
+    "UNH",
+    "CAT",
+    "XOM",
+    "PG"
   ],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-21T14:35:00Z"
+  "timeframe": "1D",
+  "requested_at_utc": "2026-08-22T01:05:00Z"
 }
