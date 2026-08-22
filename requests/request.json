@@ -1,9 +1,9 @@
 {
-  "request_id": "daily-report-20260822-0107-crypto-1d",
+  "request_id": "daily-report-20260822-0108-crypto-4h",
   "symbols": [
     "BTCUSDT",
     "ETHUSDT"
   ],
-  "timeframe": "1D",
-  "requested_at_utc": "2026-08-22T01:07:00Z"
+  "timeframe": "4H",
+  "requested_at_utc": "2026-08-22T01:08:00Z"
 }
