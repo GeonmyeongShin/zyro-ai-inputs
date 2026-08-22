@@ -1,9 +1,7 @@
 {
-  "request_id": "daily-report-20260822-0108-crypto-4h",
-  "symbols": [
-    "BTCUSDT",
-    "ETHUSDT"
-  ],
-  "timeframe": "4H",
-  "requested_at_utc": "2026-08-22T01:08:00Z"
+  "request_id": "manual-nvda-20260822-1817-kst",
+  "symbols": ["NVDA"],
+  "required_timeframes": ["1D", "4H"],
+  "trigger": "MANUAL",
+  "requested_at_utc": "2026-08-22T09:17:00Z"
 }
