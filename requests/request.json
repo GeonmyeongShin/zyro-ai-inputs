@@ -1,13 +1,45 @@
 {
-  "request_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
+  "request_id": "auto-report-20260823-0921-kst",
   "symbols": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "XRP",
+    "DOGE",
+    "LINK",
+    "ADA",
+    "NEAR",
     "NVDA",
-    "AVAX"
+    "TSLA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "PLTR",
+    "COIN",
+    "MSFT"
   ],
   "required_timeframes": [
     "1D",
     "4H"
   ],
-  "trigger": "MANUAL",
-  "requested_at_utc": "2026-08-22T14:49:46Z"
+  "asset_classes": [
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "CRYPTO",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK",
+    "US_STOCK"
+  ],
+  "trigger": "AUTO",
+  "requested_at_utc": "2026-08-23T00:21:00Z"
 }
