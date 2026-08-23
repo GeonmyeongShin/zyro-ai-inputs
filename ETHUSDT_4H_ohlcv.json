@@ -4994,16 +4994,16 @@
     }
   ],
   "current_candle": {
-    "close": 2426.47,
-    "high": 2433.48,
+    "close": 2418.83,
+    "high": 2434.68,
     "is_closed": false,
-    "low": 2418.35,
+    "low": 2405.01,
     "open": 2421.41,
     "open_time": "2026-08-23T00:00:00Z",
     "open_time_ms": 1787443200000,
-    "volume": 72380.326
+    "volume": 296074.549
   },
-  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
+  "generated_at_utc": "2026-08-23T02:45:44.735156Z",
   "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "ETHUSDT",

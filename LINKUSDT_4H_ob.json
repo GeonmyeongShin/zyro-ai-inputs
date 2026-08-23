@@ -2,7 +2,7 @@
   "analysis_symbol": "LINKUSDT",
   "asset_class": "CRYPTO",
   "detector": "conservative_volume_pivot_v1",
-  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
+  "generated_at_utc": "2026-08-23T02:45:44.735156Z",
   "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
   "order_blocks": [
     {
