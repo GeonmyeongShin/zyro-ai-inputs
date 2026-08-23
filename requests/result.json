@@ -1,5 +1,5 @@
 {
-  "request_id": "backtest-btc-20260503-1748-kst",
+  "request_id": "backtest-btc-20260219-1807-kst",
   "status": "SNAPSHOT_READY_FOR_CHATGPT",
   "symbols": [
     "BTC"
@@ -10,13 +10,13 @@
     "4H"
   ],
   "trigger": "MANUAL",
-  "completed_at_utc": "2026-08-23T08:49:37.480392Z",
-  "snapshot_commit_sha": "213844de6d09dd03f0a994ad86fda0d5767f71b2",
+  "completed_at_utc": "2026-08-23T09:08:09.821321Z",
+  "snapshot_commit_sha": "b161cd1e45038a0beb8533c8bb1b7abad0ba6ae3",
   "analysis": {
     "status": "SNAPSHOT_READY_FOR_CHATGPT",
     "authority": "CHATGPT_PROJECT_SESSION",
     "local_analysis": "STOPPED_AT_RAW_SNAPSHOT_BOUNDARY",
-    "snapshot_commit_sha": "213844de6d09dd03f0a994ad86fda0d5767f71b2",
+    "snapshot_commit_sha": "b161cd1e45038a0beb8533c8bb1b7abad0ba6ae3",
     "symbols": [
       "BTC"
     ],
