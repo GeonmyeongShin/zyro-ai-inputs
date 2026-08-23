@@ -1,18 +1,18 @@
 {
-  "analysis_id": "backtest-btc-20260503-1748-kst",
+  "analysis_id": "backtest-btc-20260219-1807-kst",
   "errors": [],
   "files": [
     {
       "name": "BTCUSDT_1D.png",
-      "sha256": "eff21c796b16f47c623919899039cb6248ec1341909b61c1940a8c9546394e50",
-      "size_bytes": 65655,
+      "sha256": "412d4b50572ed921cdf10d378e27335db8a5ee2f83ad83d0059ec8541ae04565",
+      "size_bytes": 65660,
       "symbol": "BTC",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "BTCUSDT_1D_fvg.json",
-      "sha256": "d1d7267e483f5bfc1e908a41a9a964ab8326f53d2537d5eaa1aec63e701b8107",
+      "sha256": "3e88199117394b3a055207769e3a55d73d4b609a1bec1325a7a18f3a0105f0e5",
       "size_bytes": 4711,
       "symbol": "BTC",
       "timeframe": "1D",
@@ -20,7 +20,7 @@
     },
     {
       "name": "BTCUSDT_1D_ob.json",
-      "sha256": "cb9b2f4e984bae252d94a754e7b9a7c61e1ec3d362e84499b5db173d7e991454",
+      "sha256": "3e26fbdefd32ecf6a90a1cc12c846c3680acb812f968296cd6666fb0d83f192f",
       "size_bytes": 1526,
       "symbol": "BTC",
       "timeframe": "1D",
@@ -28,23 +28,23 @@
     },
     {
       "name": "BTCUSDT_1D_ohlcv.json",
-      "sha256": "dd3197168c81a5ae44edaaabf5cd19a259f4826c18e26987b4ec35917bc21432",
-      "size_bytes": 124399,
+      "sha256": "5a909e91b5fe7a682f589bd4efa5e613a9a14eaf2cbecd53554467ce98f82657",
+      "size_bytes": 124398,
       "symbol": "BTC",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
       "name": "BTCUSDT_4H.png",
-      "sha256": "09759228b197bf80993f966de5ceff14a314e38a95e82005b09237fec71d11dd",
-      "size_bytes": 61663,
+      "sha256": "18334de538871b9ae93f6a841e46afa685ae8e8983a0996b1e5f1b7155aa88b5",
+      "size_bytes": 61699,
       "symbol": "BTC",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "BTCUSDT_4H_fvg.json",
-      "sha256": "7787fa178a38d0f7d597c560fa458b222c868ec492616a76758a608040ba143d",
+      "sha256": "55481ea1c724c8ea7029df9b642c2086e3539c2080db2b80a092d164ca36b31d",
       "size_bytes": 4699,
       "symbol": "BTC",
       "timeframe": "4H",
@@ -52,7 +52,7 @@
     },
     {
       "name": "BTCUSDT_4H_ob.json",
-      "sha256": "d806ca301aa5ccd98af5c0072c5d06d2087c6345d634efa6e247e572e1b07320",
+      "sha256": "00b4aca8fcf4d8b748e11c46f744579423ca90559a68253d96e439600bdd3789",
       "size_bytes": 2103,
       "symbol": "BTC",
       "timeframe": "4H",
@@ -60,31 +60,31 @@
     },
     {
       "name": "BTCUSDT_4H_ohlcv.json",
-      "sha256": "4cb9fbcfd889de00322dd682ee0f12a39cd388ee4d9466a7b47fbb3aca8e88c7",
-      "size_bytes": 123198,
+      "sha256": "d8df7c6d0fa426dccf56432c8ce2b7b6c10b1c4a12cb9aac07dca4d60bfe6ab4",
+      "size_bytes": 123199,
       "symbol": "BTC",
       "timeframe": "4H",
       "type": "ohlcv"
     },
     {
       "name": "vision_bundle_1D.pdf",
-      "sha256": "5ad87e4fb053a52798f58258d6295cf007f4894dae0003b391b675d5edf326e6",
-      "size_bytes": 150851,
+      "sha256": "ef638b2447db2979942ca26a03068b376fb9bbf7142ea85f6ec6dbe62c00fa58",
+      "size_bytes": 150841,
       "symbol": "BUNDLE",
       "timeframe": "1D",
       "type": "vision_bundle"
     },
     {
       "name": "vision_bundle_4H.pdf",
-      "sha256": "8b58d236e51f87ed81f66cfca7874fa20918434214201f0cbbfc463d3d0d60b5",
-      "size_bytes": 134199,
+      "sha256": "738e324b7c9b90ffc8324fe1c751c6d71270a2aa9fa4c612ad5d986cacbc1480",
+      "size_bytes": 134288,
       "symbol": "BUNDLE",
       "timeframe": "4H",
       "type": "vision_bundle"
     }
   ],
-  "generated_at_utc": "2026-08-23T08:49:11.322697Z",
-  "manifest_sha256": "8118f315dfcdc6070d35e6b1091d74c535174296a0b00a5a7b7d054274af7236",
+  "generated_at_utc": "2026-08-23T09:07:53.094134Z",
+  "manifest_sha256": "5089b345eefd61df3ba5cf6124b28b7c34dd6859adaacaade27177666544cb68",
   "manifest_version": "2.0",
   "markets": {
     "BTC": {
@@ -98,8 +98,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 76522.6,
-      "execution_reference_time_utc": "2026-08-23T08:49:11.756000Z",
+      "execution_reference_price": 76612.6,
+      "execution_reference_time_utc": "2026-08-23T09:07:53.765000Z",
       "execution_tick_size": 0.1,
       "frames": {
         "1D": {
@@ -127,11 +127,11 @@
           "history_fetch": {
             "cache_count": 512,
             "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__BTCUSDT__4H.json",
-            "inserted_candles": 2,
+            "inserted_candles": 0,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 5,
-            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-23T00:00:00Z",
             "revised_candles": 1
           },
           "last_closed_candle_open_time_utc": "2026-08-23T04:00:00Z",
@@ -145,7 +145,7 @@
     }
   },
   "pipeline_version": "2.0",
-  "requested_at_utc": "2026-08-23T08:49:11.322184Z",
+  "requested_at_utc": "2026-08-23T09:07:53.093692Z",
   "required_timeframes": [
     "1D",
     "4H"
