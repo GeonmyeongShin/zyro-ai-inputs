@@ -1,7 +1,7 @@
 {
-  "request_id": "backtest-btc-20260503-1744-kst",
-  "trigger": "BACKTEST_RAW_DATA",
-  "requested_at_utc": "2026-08-23T08:44:00Z",
+  "request_id": "backtest-btc-20260503-1748-kst",
+  "trigger": "MANUAL",
+  "requested_at_utc": "2026-08-23T08:48:00Z",
   "symbols": [
     "BTC"
   ],
@@ -30,5 +30,5 @@
     "forbid_model_analysis": true,
     "stop_at_raw_snapshot": true
   },
-  "notes": "Historical backtest raw-data request. Return only BTCUSDT 1D and 4H data up to 2026-05-03 cutoff. Do not include candles after cutoff."
+  "notes": "Historical backtest raw-data request. Trigger must remain MANUAL because worker only accepts AUTO/MANUAL. Return only BTCUSDT 1D and 4H data up to 2026-05-03 cutoff. Do not include candles after cutoff."
 }
