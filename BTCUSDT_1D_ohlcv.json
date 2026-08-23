@@ -4994,16 +4994,16 @@
     }
   ],
   "current_candle": {
-    "close": 77140.8,
-    "high": 77157.9,
+    "close": 77284.7,
+    "high": 77377.4,
     "is_closed": false,
     "low": 77058.9,
     "open": 77084.5,
     "open_time": "2026-08-23T00:00:00Z",
     "open_time_ms": 1787443200000,
-    "volume": 539.153
+    "volume": 1664.295
   },
-  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
   "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "BTCUSDT",

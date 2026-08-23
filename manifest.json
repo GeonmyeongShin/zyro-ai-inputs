@@ -1,18 +1,18 @@
 {
-  "analysis_id": "auto-report-20260823-0921-kst",
+  "analysis_id": "live-full-e2e-20260823-0945-kst",
   "errors": [],
   "files": [
     {
       "name": "ADAUSDT_1D.png",
-      "sha256": "97efc1ebea984136eae1b236294028136bdbb069c22c492195c3bb5d9b1fc017",
-      "size_bytes": 59774,
+      "sha256": "94761c6c2e748599c74464cd9b4a9d6cb344b0d4320741c918dbcc51d99042eb",
+      "size_bytes": 59852,
       "symbol": "ADA",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "ADAUSDT_1D_fvg.json",
-      "sha256": "3e2a7966d2e5a53228e487270aadee58b55f47b94bf57e99d268e254dfa94cb3",
+      "sha256": "da7100ff2a725f50635af6cedc7fade609704f5f3d7b1183d8ca1772acc6010e",
       "size_bytes": 4669,
       "symbol": "ADA",
       "timeframe": "1D",
@@ -20,7 +20,7 @@
     },
     {
       "name": "ADAUSDT_1D_ob.json",
-      "sha256": "71476c3fe63569f163aa033993387f3b083f39aac0946680997fd9d9d3130ad8",
+      "sha256": "552dac9409e53647896f96494b63d1195909d6ec0b76fd0e080a9f0b3db3ceaf",
       "size_bytes": 1723,
       "symbol": "ADA",
       "timeframe": "1D",
@@ -28,23 +28,23 @@
     },
     {
       "name": "ADAUSDT_1D_ohlcv.json",
-      "sha256": "24c4d489ceba8577ce2b677bd1f05e05109f167c043c0c0ac7d3a8d21b750efe",
-      "size_bytes": 122181,
+      "sha256": "bc7e2bdb7932969b4d19f7b5a1c5181671b732a046cf289c8f7a40a17a3af1ab",
+      "size_bytes": 122180,
       "symbol": "ADA",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
       "name": "ADAUSDT_4H.png",
-      "sha256": "9f894377aeff673564f6ff8817426e7802557ca9b9bfe046f4e6fe38cb9df754",
-      "size_bytes": 64939,
+      "sha256": "5f89ef434b4629ad6f1bcbdf7055da1fbde6eb04bd1f37d0db2fb0333b04483a",
+      "size_bytes": 64871,
       "symbol": "ADA",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "ADAUSDT_4H_fvg.json",
-      "sha256": "e3986bac43276dd4f370a64f1f59ff08b7e44e54b8744e615209d7c671f92658",
+      "sha256": "597489bcb7cfd8364abeea2f2ba6cd4265d498fe8f16d6183982e1dc5c1fb026",
       "size_bytes": 4676,
       "symbol": "ADA",
       "timeframe": "4H",
@@ -52,7 +52,7 @@
     },
     {
       "name": "ADAUSDT_4H_ob.json",
-      "sha256": "e1588a2035690b2edcd203e3d2df66a93396ea5733a30ebe7975e66e0f5ce5e6",
+      "sha256": "c457fbcdd45c6a99e8b7fb3f2e4ba0a29440a54ed5e8e4c27d6152e62db0d08e",
       "size_bytes": 1918,
       "symbol": "ADA",
       "timeframe": "4H",
@@ -60,8 +60,8 @@
     },
     {
       "name": "ADAUSDT_4H_ohlcv.json",
-      "sha256": "91b9bf721b052101037f5e6907f17e93b680d77f97a8e996807732c685139373",
-      "size_bytes": 121934,
+      "sha256": "0c0e64c9f36c5dd71180119cddff7eb6c8ba116b3467db9fcd93e477419ae1f3",
+      "size_bytes": 121932,
       "symbol": "ADA",
       "timeframe": "4H",
       "type": "ohlcv"
@@ -76,7 +76,7 @@
     },
     {
       "name": "AMZN_1D_fvg.json",
-      "sha256": "2ff9f6107652833014650f9fe6816547b54bf11d606f18aeddcc9effd5e1e4ec",
+      "sha256": "d3c0c7543fa0a7d4292c9c6b3b0fd8e8675b6f4420b8577924c0bbd0e1181e71",
       "size_bytes": 5088,
       "symbol": "AMZN",
       "timeframe": "1D",
@@ -84,7 +84,7 @@
     },
     {
       "name": "AMZN_1D_ob.json",
-      "sha256": "c4fcac0a1bd6b30c4ac9b0a7f873645388fa654a1d736bd7520021bbd56fa024",
+      "sha256": "42cf15568dcab9eebcee725b7fc8ec95f2288aee6e42bdcadb0c94f311e6f1b4",
       "size_bytes": 800,
       "symbol": "AMZN",
       "timeframe": "1D",
@@ -92,7 +92,7 @@
     },
     {
       "name": "AMZN_1D_ohlcv.json",
-      "sha256": "c2a9db0915f921612e4a28980923c682a8c94d4a5c3579fb75b51988fb41317c",
+      "sha256": "8df4d37369c425a42d9426f53e12e51d31f6600a961e4e5c7b55186239c51ba5",
       "size_bytes": 143394,
       "symbol": "AMZN",
       "timeframe": "1D",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AMZN_4H_fvg.json",
-      "sha256": "2db48431f1076176d4a96a819faf47a7fb23d1d6b5a6a1581268b34b25060c78",
+      "sha256": "b26f73297a5d09f7be2c16890da134709cb7c002f8b0883f7fffe10da967d857",
       "size_bytes": 5103,
       "symbol": "AMZN",
       "timeframe": "4H",
@@ -116,7 +116,7 @@
     },
     {
       "name": "AMZN_4H_ob.json",
-      "sha256": "e1184d2f5d74c0eb890f79a3a247b8b9bc3f767cb0282f91f4849d878188c650",
+      "sha256": "40690ac8b0f2f9076af2dc1ca5f30099af7887ff17df14c28c633ec937c0da25",
       "size_bytes": 1638,
       "symbol": "AMZN",
       "timeframe": "4H",
@@ -124,7 +124,7 @@
     },
     {
       "name": "AMZN_4H_ohlcv.json",
-      "sha256": "c5ce3741c7d756b615752a40c1038434684b637f053e77f4440db0e1d1439f9b",
+      "sha256": "3b5776068ec2981141d6e127b36a531374cf4a527f4ee00463c895fb89812eac",
       "size_bytes": 143228,
       "symbol": "AMZN",
       "timeframe": "4H",
@@ -132,15 +132,15 @@
     },
     {
       "name": "BTCUSDT_1D.png",
-      "sha256": "cab1924dfad36ec2f33ddfa254581ef7f08c620f82ffa0eb62c7bdbcb610bab7",
-      "size_bytes": 65468,
+      "sha256": "83619d2ed3a2a613b20c90a06d3eeeb2055c15b06c4ec5e26e6598d0ec091e9b",
+      "size_bytes": 65617,
       "symbol": "BTC",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "BTCUSDT_1D_fvg.json",
-      "sha256": "6b3d10e42356d9a76a039270e330fbe330701e935e99b28d4bc4d0fe3574e8aa",
+      "sha256": "69270216204da30716c85a04ea36afaf9064dd5f307f8d413e7ce87cd91a8c85",
       "size_bytes": 4711,
       "symbol": "BTC",
       "timeframe": "1D",
@@ -148,7 +148,7 @@
     },
     {
       "name": "BTCUSDT_1D_ob.json",
-      "sha256": "60e5a7e55e4940e52e2338ff6d4c78e03f3b5637f2b8bb43e9164346ff3f8a05",
+      "sha256": "f7b104ced84f079808bc265ce492ca851772ade980360531e47741ddc5400fac",
       "size_bytes": 1526,
       "symbol": "BTC",
       "timeframe": "1D",
@@ -156,23 +156,23 @@
     },
     {
       "name": "BTCUSDT_1D_ohlcv.json",
-      "sha256": "b8b04bdc61d07fad6afd1c06837d08d97467b8ddac09ee688fee0aab36251689",
-      "size_bytes": 124397,
+      "sha256": "1706fecc517ddedc40cedb8007b6c972288344969e598195d7dd62e8dd5e3f6f",
+      "size_bytes": 124398,
       "symbol": "BTC",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
       "name": "BTCUSDT_4H.png",
-      "sha256": "7c45ab50c62713f92fac5df9216f7c11f3ea0b526003f175cbf08fe49cc8bf96",
-      "size_bytes": 61199,
+      "sha256": "8e8100eed9ae8354218dbf8f8bb1d22429933f240b229c6ec85180623568fa02",
+      "size_bytes": 61283,
       "symbol": "BTC",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "BTCUSDT_4H_fvg.json",
-      "sha256": "5fa2c1186f81d1e12d1f4770c04978121a6bda9b01143ea8435291019c596101",
+      "sha256": "85a3dcd7636c43c52153ed9661560aa78fb6aae215983714a2bb08ef209728b7",
       "size_bytes": 4708,
       "symbol": "BTC",
       "timeframe": "4H",
@@ -180,7 +180,7 @@
     },
     {
       "name": "BTCUSDT_4H_ob.json",
-      "sha256": "3b13db40695a655add9728402ada80f161a7c9d7aac12aa1b3ada0f67b609fba",
+      "sha256": "f3251871ac7c919d5685e94532c5ce814d8dfa05f5ddec6f3cff2b4558b000cc",
       "size_bytes": 2102,
       "symbol": "BTC",
       "timeframe": "4H",
@@ -188,8 +188,8 @@
     },
     {
       "name": "BTCUSDT_4H_ohlcv.json",
-      "sha256": "a320cdbb33afd2db195ce5756d99ad6339df784845a47714a2f37044e386235f",
-      "size_bytes": 123198,
+      "sha256": "f863692e36d864a469ca7aaa448fd734bf5d25883a5d08620b206a6397174973",
+      "size_bytes": 123199,
       "symbol": "BTC",
       "timeframe": "4H",
       "type": "ohlcv"
@@ -204,7 +204,7 @@
     },
     {
       "name": "COIN_1D_fvg.json",
-      "sha256": "0424e0644dbc95f6f0a5c60849f77c4707e038e0257c5948940be6c0021a7394",
+      "sha256": "41d64f1de43179be7936a9362f40b5728e55e4aa420b722264c600a7c1db9e5e",
       "size_bytes": 5081,
       "symbol": "COIN",
       "timeframe": "1D",
@@ -212,7 +212,7 @@
     },
     {
       "name": "COIN_1D_ob.json",
-      "sha256": "f8856c888e0983a153c4640ca87b89c93b33d3dd2622aec0d00b52e6c788fc78",
+      "sha256": "08fe4dbade998d906661a03451c29cf60b7dfdb556c424301c39f177745e2564",
       "size_bytes": 2495,
       "symbol": "COIN",
       "timeframe": "1D",
@@ -220,7 +220,7 @@
     },
     {
       "name": "COIN_1D_ohlcv.json",
-      "sha256": "845e1582b6653bb82f9e49b0982d358bf82928184f63c02a4ff99d74929cbec6",
+      "sha256": "f10e21078357c40470f3acf37302b805f2ee1eb2a5edbaea571dd07ff7c862e7",
       "size_bytes": 141659,
       "symbol": "COIN",
       "timeframe": "1D",
@@ -236,7 +236,7 @@
     },
     {
       "name": "COIN_4H_fvg.json",
-      "sha256": "5bbd1730d8a9b90e8f0d6137cb2f0649995aaa89aee3cc4d62cc626a326a52f6",
+      "sha256": "d75c3fb0e529edefaf7ac32cb9fb8b0e390ac32df5517729c8375c810dd8f161",
       "size_bytes": 5109,
       "symbol": "COIN",
       "timeframe": "4H",
@@ -244,7 +244,7 @@
     },
     {
       "name": "COIN_4H_ob.json",
-      "sha256": "734d5a99cf1856871dac6e1b7d0fdac606cd41951dd3917450cc04e76f2ce299",
+      "sha256": "87ac3fa8bad9c0a6a76bb3e5e8009ca92fad98e684bfab389f24cfca1d01a6fa",
       "size_bytes": 2512,
       "symbol": "COIN",
       "timeframe": "4H",
@@ -252,7 +252,7 @@
     },
     {
       "name": "COIN_4H_ohlcv.json",
-      "sha256": "80a30db579a29f306dde9f303f58d37b74a4c9bbf0004faf91d7d8f2b2ceaca1",
+      "sha256": "1d36c3ad4254f2401dd4e1a95fc506e855b64cbaf956a59801c13d5ac239e70d",
       "size_bytes": 142497,
       "symbol": "COIN",
       "timeframe": "4H",
@@ -260,15 +260,15 @@
     },
     {
       "name": "DOGEUSDT_1D.png",
-      "sha256": "7a1fe0263700ebdf8afab609abcff7b9fdd4f89bdabc7173edc5288fa234f076",
-      "size_bytes": 65880,
+      "sha256": "e0b63e0dabdcaad6d177f9af95f1debd97c802673aa286afffbaea7a7c9f830e",
+      "size_bytes": 65994,
       "symbol": "DOGE",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "DOGEUSDT_1D_fvg.json",
-      "sha256": "784f9d2f5fbb11f814fe2304936836b97ab534e481a5ae5affe93957a5e92096",
+      "sha256": "4c48a9fab8d91afc1c5e856fe7a5ba90e8678b8139f15e3cc1f9ae71211f20b3",
       "size_bytes": 4712,
       "symbol": "DOGE",
       "timeframe": "1D",
@@ -276,7 +276,7 @@
     },
     {
       "name": "DOGEUSDT_1D_ob.json",
-      "sha256": "b2e799b9bd22692cb6e6cc5725267b9d34483a4bcbcac455ba3561572cdebfcb",
+      "sha256": "f6d4dc48a0d68ee5c4b691ea51ea28b4ad6a5965d6d95e822fd814076037a833",
       "size_bytes": 2134,
       "symbol": "DOGE",
       "timeframe": "1D",
@@ -284,23 +284,23 @@
     },
     {
       "name": "DOGEUSDT_1D_ohlcv.json",
-      "sha256": "6ef3e94e6fb97d3e5bf4b519eb1e05105560a2bb39afd467cef40dfece474c16",
-      "size_bytes": 124621,
+      "sha256": "c89080748fe79c5940d5d934b2187568ce107e8777867a13fd130e40dc6e2192",
+      "size_bytes": 124622,
       "symbol": "DOGE",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
       "name": "DOGEUSDT_4H.png",
-      "sha256": "5767ef8e32e91b3bb36e83ff8dfab586b37f73f98c5bc63999e4cd915fc9f897",
-      "size_bytes": 60883,
+      "sha256": "029d5919bcc02cc66619919236ad4be038891e27356749e66f794b788e0b8003",
+      "size_bytes": 60979,
       "symbol": "DOGE",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "DOGEUSDT_4H_fvg.json",
-      "sha256": "da006a555536cb955fb7d7dd25acfd5a29c1cb0d045df63bb97ed3e8deb03b6e",
+      "sha256": "e5584019edd3648ead049fec93c8dc3157e1976bdd40fee64e1a60fa5bd0eb7c",
       "size_bytes": 4718,
       "symbol": "DOGE",
       "timeframe": "4H",
@@ -308,7 +308,7 @@
     },
     {
       "name": "DOGEUSDT_4H_ob.json",
-      "sha256": "73b0769ef0aea6b9b53baf00748af6be2f2b325c604419ba45f9f2eeda1221f8",
+      "sha256": "76091d655159a5e3a0ffb9b640596375e3cdbedcd3d9b84e9b27b2ece0d9f349",
       "size_bytes": 1383,
       "symbol": "DOGE",
       "timeframe": "4H",
@@ -316,23 +316,23 @@
     },
     {
       "name": "DOGEUSDT_4H_ohlcv.json",
-      "sha256": "0366c7f502ead9b875ef840c3b00871788c19d2c658cd468a79160f1d618b7fd",
-      "size_bytes": 124171,
+      "sha256": "75846007ab9f0190cffe31406249c2290d80d55ed4997d4f07fd8880061c4c48",
+      "size_bytes": 124172,
       "symbol": "DOGE",
       "timeframe": "4H",
       "type": "ohlcv"
     },
     {
       "name": "ETHUSDT_1D.png",
-      "sha256": "210ae59281ad8b375ffd5013c50e323d45cedc528149f1e42d6daa518a122500",
-      "size_bytes": 65332,
+      "sha256": "790353dba7487a71aa893bcea93fa8a79d28c44d2d3f5724166de9e62c12ac7a",
+      "size_bytes": 65311,
       "symbol": "ETH",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "ETHUSDT_1D_fvg.json",
-      "sha256": "b157aed446c40e96ab4973d6062501e0cdd0f059615740f5b6b9a1b011b19732",
+      "sha256": "87e501de91d0c650148f1dad8fc82a2c578ebe9d23dda3c77c18530855d6bdcd",
       "size_bytes": 4702,
       "symbol": "ETH",
       "timeframe": "1D",
@@ -340,7 +340,7 @@
     },
     {
       "name": "ETHUSDT_1D_ob.json",
-      "sha256": "0a631cd16d5493d0ecfdc0663db426fcd0a661c81a58620593b8e87c863dfdd7",
+      "sha256": "45ad6f6e35bfd6538e0c737d72a28ba3825de104e30ae1eada2ef6247aa10d87",
       "size_bytes": 1538,
       "symbol": "ETH",
       "timeframe": "1D",
@@ -348,7 +348,7 @@
     },
     {
       "name": "ETHUSDT_1D_ohlcv.json",
-      "sha256": "b233ae64d80026c21893446e442b6f1a7b1e8b6a0027796123309d14d5945772",
+      "sha256": "640af3d50c6de1f1ac7cc90a21299d9318bcd44ab1f0b624b099786df8fea381",
       "size_bytes": 123803,
       "symbol": "ETH",
       "timeframe": "1D",
@@ -356,15 +356,15 @@
     },
     {
       "name": "ETHUSDT_4H.png",
-      "sha256": "f987214b26bb104b583017cff744ee385215213b375953a2ba7cddd40cc40466",
-      "size_bytes": 56427,
+      "sha256": "71007fcf4dd90ea1f75fc6c066612cf9ccb809268f134b9ddfe96d3a9ee5c6d7",
+      "size_bytes": 56418,
       "symbol": "ETH",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "ETHUSDT_4H_fvg.json",
-      "sha256": "a3e220c146d1724c4e4edc1e3120faf53debe4959fd76b1944387bd65acca033",
+      "sha256": "57de8a5200a9f33f46ab2e8759b28369319ca5b5a1ff9384c03ebe2593e7c64f",
       "size_bytes": 4720,
       "symbol": "ETH",
       "timeframe": "4H",
@@ -372,7 +372,7 @@
     },
     {
       "name": "ETHUSDT_4H_ob.json",
-      "sha256": "fc3bc751da44bdc4c1ed60696d54b4147e32ad31b56813afc6bf7beb43d37834",
+      "sha256": "5b9b680dd94e88a2d2be262d49bada32c4f9de4f7abb154057e3f39f7af224db",
       "size_bytes": 1928,
       "symbol": "ETH",
       "timeframe": "4H",
@@ -380,7 +380,7 @@
     },
     {
       "name": "ETHUSDT_4H_ohlcv.json",
-      "sha256": "7a45fe0c8ffadd5ee13277c389719cca909360e32f471bb3a38e9b9e32cad052",
+      "sha256": "6d195a7db7fdc0cc7e8c1f73c4a5b802ef7315e960c8db069fe910db24a4f11d",
       "size_bytes": 123491,
       "symbol": "ETH",
       "timeframe": "4H",
@@ -396,7 +396,7 @@
     },
     {
       "name": "GOOGL_1D_fvg.json",
-      "sha256": "3f66d910c50709ab60296946c537f3837458a29d599088a89cb5c19ddcd13565",
+      "sha256": "775e344b151a9408c5c9efea8948013fb8443b8a52447339eee3cd4429e466cd",
       "size_bytes": 5053,
       "symbol": "GOOGL",
       "timeframe": "1D",
@@ -404,7 +404,7 @@
     },
     {
       "name": "GOOGL_1D_ob.json",
-      "sha256": "5edc9847761ef499bd84705b966d062a5230bf7565c83a77ab4ca58bd3226059",
+      "sha256": "e30db235d7fa761ab604c571ce9c196db74f8dda3d9db29523e63fbb36e9dfb6",
       "size_bytes": 2714,
       "symbol": "GOOGL",
       "timeframe": "1D",
@@ -412,7 +412,7 @@
     },
     {
       "name": "GOOGL_1D_ohlcv.json",
-      "sha256": "84006ebe68d29225378683a30ca37f63ce834ebf2a0c5153bc7ab9e9dc0ef7ec",
+      "sha256": "8970b3afa06b9e4a06c1fb81ba032792c8aab7e3e21903232883d2dbe932f71c",
       "size_bytes": 143115,
       "symbol": "GOOGL",
       "timeframe": "1D",
@@ -428,7 +428,7 @@
     },
     {
       "name": "GOOGL_4H_fvg.json",
-      "sha256": "de183d87f08834eb0c68f093af766477562ba0bec6ccd76f096b911e1f54d9a4",
+      "sha256": "8bc4ebbb5749d0195ef1f20f107d0fe7392a722972a5c0569d5bfd5c445fb38b",
       "size_bytes": 5064,
       "symbol": "GOOGL",
       "timeframe": "4H",
@@ -436,7 +436,7 @@
     },
     {
       "name": "GOOGL_4H_ob.json",
-      "sha256": "38c31b4ddc81c04b2671ce2b1d378c73a17654a2bc7982bf51bf89a85d99fd0a",
+      "sha256": "873c652582a875bd95dd6e2072332cb7e56e0ef1e0af7a10d667d8251b3af3df",
       "size_bytes": 2077,
       "symbol": "GOOGL",
       "timeframe": "4H",
@@ -444,7 +444,7 @@
     },
     {
       "name": "GOOGL_4H_ohlcv.json",
-      "sha256": "53374613c487356988bd7e6b3bf057b4bac5b31e9931d13a64c39b7a37bd661f",
+      "sha256": "f5ca574c15eccb0b7a6e163887200f5c2a949dabcd3d43be874b9e7e993cfd50",
       "size_bytes": 142753,
       "symbol": "GOOGL",
       "timeframe": "4H",
@@ -452,15 +452,15 @@
     },
     {
       "name": "LINKUSDT_1D.png",
-      "sha256": "4ce9fccd95ee95f74e837bc1bbfd8302e7f81478640ca7d855d9fe007afdcdf3",
-      "size_bytes": 67439,
+      "sha256": "853dd9ff413fc2fe816225c1c3a5e3cc723983f53e063b61f8e5075b805199c2",
+      "size_bytes": 67354,
       "symbol": "LINK",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "LINKUSDT_1D_fvg.json",
-      "sha256": "d25d9b087ab5ecb86c2012df6d5045263c80cf053bed6c60dfb0b0a4a3b31a70",
+      "sha256": "d86a71f768b889f8e542f1304f8d6c0204aa78bc66040d7d564211beba7df793",
       "size_bytes": 4641,
       "symbol": "LINK",
       "timeframe": "1D",
@@ -468,7 +468,7 @@
     },
     {
       "name": "LINKUSDT_1D_ob.json",
-      "sha256": "ed0dd719d1e6a1483fff7ed4803cddf404e5afe62875b22a51a578c0bd91150a",
+      "sha256": "ce6f42f0c3c73489d0e7092a14599f554941d689f493ec8e830e96ca11bb4e7c",
       "size_bytes": 1714,
       "symbol": "LINK",
       "timeframe": "1D",
@@ -476,7 +476,7 @@
     },
     {
       "name": "LINKUSDT_1D_ohlcv.json",
-      "sha256": "8fac3341760499341dc980dea414b7d868e65c142b8b8d9d6c522d4589a3f156",
+      "sha256": "21d782fe1c47030370e5f3b5c9293d26b783d08bd19da9dd966dbe04e6b6777a",
       "size_bytes": 121188,
       "symbol": "LINK",
       "timeframe": "1D",
@@ -484,15 +484,15 @@
     },
     {
       "name": "LINKUSDT_4H.png",
-      "sha256": "cef1c53d746114561cdcc69a7997361ac6d40a4bfd24cf64da7b994f66480b9a",
-      "size_bytes": 62126,
+      "sha256": "b6a924f51cc796b8b9868c4b9a1ad0d402fcd3c48078dc4dd3c1f02eab0442a6",
+      "size_bytes": 62200,
       "symbol": "LINK",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "LINKUSDT_4H_fvg.json",
-      "sha256": "559f66e02a89b257c3d58801ac359d289fe5b640b38a49f2461a7bdc379b5893",
+      "sha256": "5bd1a0df18704612eb4c60c08e052f7a269a3ea1a75810d34d84b9df1b9928a1",
       "size_bytes": 4642,
       "symbol": "LINK",
       "timeframe": "4H",
@@ -500,7 +500,7 @@
     },
     {
       "name": "LINKUSDT_4H_ob.json",
-      "sha256": "70a54d4eca15e173d7d0c6b4e32defadb2956a706cf65e3431ab421ef9ebb685",
+      "sha256": "1de24dfaa55aa4341abfd91c9c18527197e12509b14a087eff4ac700509db671",
       "size_bytes": 1896,
       "symbol": "LINK",
       "timeframe": "4H",
@@ -508,7 +508,7 @@
     },
     {
       "name": "LINKUSDT_4H_ohlcv.json",
-      "sha256": "75162a2f74282a7c3c6f419064071aaa99e7f8bb402ecea16b836ba642d63e7f",
+      "sha256": "8273ba0608d9b3d3f3e9f50ce45529baadeaecb66e968135afb87092c197939c",
       "size_bytes": 119555,
       "symbol": "LINK",
       "timeframe": "4H",
@@ -524,7 +524,7 @@
     },
     {
       "name": "META_1D_fvg.json",
-      "sha256": "34770df647e3814b97df7b35b7c0a692c650dd39824e84daedc02debcaeaa837",
+      "sha256": "459dd1157a3bf13afe256e35d70f17b4c51144a8214cd23432192fd0a12f5d54",
       "size_bytes": 5000,
       "symbol": "META",
       "timeframe": "1D",
@@ -532,7 +532,7 @@
     },
     {
       "name": "META_1D_ob.json",
-      "sha256": "6f44af30c4590f3498c9358c782641986a476c717cee5caa8fa556a861383a05",
+      "sha256": "67eb39abcee41c5138ab09506eb13fb75117c194e71bdccc0804742f6c10eed7",
       "size_bytes": 1630,
       "symbol": "META",
       "timeframe": "1D",
@@ -540,7 +540,7 @@
     },
     {
       "name": "META_1D_ohlcv.json",
-      "sha256": "9df381a94721e2767ff19be65edf5f1d13314682907103bdfa0633891a869e60",
+      "sha256": "82e6d72c700ce46b75fb511ffcc78e39f20024c07aef620abce9748f67f2cc8d",
       "size_bytes": 140036,
       "symbol": "META",
       "timeframe": "1D",
@@ -556,7 +556,7 @@
     },
     {
       "name": "META_4H_fvg.json",
-      "sha256": "b5e03dfa3416c3daa2a1738a40c92cea2bb72b49bc60decb779098f544bb3d34",
+      "sha256": "fa714c777fabbd12dae51bc6220268159c343e0d609caaffb2f6f4349b4bb9e5",
       "size_bytes": 5017,
       "symbol": "META",
       "timeframe": "4H",
@@ -564,7 +564,7 @@
     },
     {
       "name": "META_4H_ob.json",
-      "sha256": "e80f7dea2f66a753a172d2cc7aa221f1c04bf59aff3cc2bb1694290c61032ac6",
+      "sha256": "72c45c864508450410b1b312dd5820a0d27acb08ff1d9c85dbb9b76c5a0e6b53",
       "size_bytes": 1625,
       "symbol": "META",
       "timeframe": "4H",
@@ -572,7 +572,7 @@
     },
     {
       "name": "META_4H_ohlcv.json",
-      "sha256": "7f7772211a6194d7ad0135fd4568bfd69e8ac63d5390d52b7946b127c60301ca",
+      "sha256": "b6fabc48bfd4ed649c33ce711c9601949647622aa8267fcb1230c8ca4846fe71",
       "size_bytes": 140551,
       "symbol": "META",
       "timeframe": "4H",
@@ -588,7 +588,7 @@
     },
     {
       "name": "MSFT_1D_fvg.json",
-      "sha256": "0844e8e3054d619e8464f09ded860c0745b13ea10bde642737ed5a912f9d0c16",
+      "sha256": "9f891dbbf22bf3821d77ba258e075ec27c1ce7d6622df8477a573e5d96d0195c",
       "size_bytes": 5086,
       "symbol": "MSFT",
       "timeframe": "1D",
@@ -596,7 +596,7 @@
     },
     {
       "name": "MSFT_1D_ob.json",
-      "sha256": "f481a902be9be751dff1837cd378f10db9563d0419bc1709f27b0145f8dfa4b0",
+      "sha256": "7644a8f3b9112a1648473019fce65fcd769ee36afb8604e6d73efa7fa9189a3f",
       "size_bytes": 1650,
       "symbol": "MSFT",
       "timeframe": "1D",
@@ -604,7 +604,7 @@
     },
     {
       "name": "MSFT_1D_ohlcv.json",
-      "sha256": "f12bb9ca7b95d1c070d074197ad70b8d1e7cb219718b1bcfdde13ccdb0171249",
+      "sha256": "d11e7251a3801d0169e7cfb60481e783de8e592f9f581c3c1d809961f64994a8",
       "size_bytes": 142210,
       "symbol": "MSFT",
       "timeframe": "1D",
@@ -620,7 +620,7 @@
     },
     {
       "name": "MSFT_4H_fvg.json",
-      "sha256": "b2154ca5cd190bfe977a1b88ab3307d62fe386c389291c533243d379c7815268",
+      "sha256": "94763954b04f8b601d4013b388827b57f6c60540098e0b2f3459bf68e2d1b331",
       "size_bytes": 5065,
       "symbol": "MSFT",
       "timeframe": "4H",
@@ -628,7 +628,7 @@
     },
     {
       "name": "MSFT_4H_ob.json",
-      "sha256": "c9689806988a4c6def5a8b43a8afb2eb6297b629d62ce72e5822bf7bacadefb1",
+      "sha256": "eecf6dcb3fd19d9d69921ef64e7a7195ba02e7e91089ea1e22480cead3c11932",
       "size_bytes": 2472,
       "symbol": "MSFT",
       "timeframe": "4H",
@@ -636,7 +636,7 @@
     },
     {
       "name": "MSFT_4H_ohlcv.json",
-      "sha256": "cc60559b7e4519ebaea0b9a991fc13fcd12bc88a147c92b41cc81daf443167a7",
+      "sha256": "3432c338b556eea7e3e17115df10ac862e5226f1bd32081bd551bc2d14eb8cc8",
       "size_bytes": 142232,
       "symbol": "MSFT",
       "timeframe": "4H",
@@ -644,15 +644,15 @@
     },
     {
       "name": "NEARUSDT_1D.png",
-      "sha256": "f61ba707b6a428e8fda79de87647e647a42c37bf111681d837696717e9f26ff4",
-      "size_bytes": 61914,
+      "sha256": "84368b00289a53d41f93b2c511877537ef6daa4d52e2d23e3af329bbffef1a4c",
+      "size_bytes": 61839,
       "symbol": "NEAR",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "NEARUSDT_1D_fvg.json",
-      "sha256": "24051926c92de1a5082cdf9c37bad6ba93c918cbee36e74c460c8ead895317da",
+      "sha256": "cdd78a06adb8f83a31ef81fb0df1321731f7f6aaeb62b9ef0eaf298601d2e3f6",
       "size_bytes": 4636,
       "symbol": "NEAR",
       "timeframe": "1D",
@@ -660,7 +660,7 @@
     },
     {
       "name": "NEARUSDT_1D_ob.json",
-      "sha256": "63a6ed56ce27c19a554f7b05e23d8fa4d4dc67c2a314c462a0cdf96bab33ba66",
+      "sha256": "9a4a2eab8ed887cd3e97de2b2fea708f0fc12bf9c6a4fc0e77d8530303f99550",
       "size_bytes": 2491,
       "symbol": "NEAR",
       "timeframe": "1D",
@@ -668,7 +668,7 @@
     },
     {
       "name": "NEARUSDT_1D_ohlcv.json",
-      "sha256": "59540b9e509b84a89b479ef99bab80c2a42980114780c6966901920e6267e7f9",
+      "sha256": "3d694f4597759eba8439959376f44ba71052b577caf0c47c150d53b9c82207c1",
       "size_bytes": 119676,
       "symbol": "NEAR",
       "timeframe": "1D",
@@ -676,15 +676,15 @@
     },
     {
       "name": "NEARUSDT_4H.png",
-      "sha256": "0b4597e4ed17edf73a0448c2df827c6fffcba179cb18a041464c26619a55149e",
-      "size_bytes": 63356,
+      "sha256": "4ff5537ce0b65769213d022821dfb586d490759d4b31ed36355cc7d22f13122b",
+      "size_bytes": 63752,
       "symbol": "NEAR",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "NEARUSDT_4H_fvg.json",
-      "sha256": "8f7deba3750840ac71c20748e27d196f6112e75680faa6dea507c4f592c72d79",
+      "sha256": "6daecd29d7a868ed7c6dc6bbbb77ea7c1bab9cc63f56b704e90ed78ed8091616",
       "size_bytes": 4645,
       "symbol": "NEAR",
       "timeframe": "4H",
@@ -692,7 +692,7 @@
     },
     {
       "name": "NEARUSDT_4H_ob.json",
-      "sha256": "a31398aa11505d381199a7d18c4ca712b9ed2d0eb41a1543645f9a9d237d7303",
+      "sha256": "4bedbbe8690307cc853c8429304f582f84ae7c5cf1bfe9b525ffbe8ca85e93ac",
       "size_bytes": 2110,
       "symbol": "NEAR",
       "timeframe": "4H",
@@ -700,7 +700,7 @@
     },
     {
       "name": "NEARUSDT_4H_ohlcv.json",
-      "sha256": "349bf45921276da02a3ca5910b5b9f46c859b8ff3e18266e531e06958314bcf1",
+      "sha256": "59139027297bb3cf2a05db55ce0f55859a0e663cc608baf5b09f1481d84bb6b9",
       "size_bytes": 119361,
       "symbol": "NEAR",
       "timeframe": "4H",
@@ -716,7 +716,7 @@
     },
     {
       "name": "NVDA_1D_fvg.json",
-      "sha256": "6952e487555510188d4d29bb602bf35424088c775a0025c5478a41457bed13c1",
+      "sha256": "b0c9f4b072d245a0c81cb8ef10053b441647ad21ce1faae92b10a23c782b4cb6",
       "size_bytes": 5048,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -724,7 +724,7 @@
     },
     {
       "name": "NVDA_1D_ob.json",
-      "sha256": "a89abc8683c7b7756c9a93b6b6fe9d35932073fd73c554de2115e18e7c22e58e",
+      "sha256": "88d86cc05feb02dabe71d659d7be3cabd2edda945f342f99d5c931a5c5e66c7a",
       "size_bytes": 1229,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -732,7 +732,7 @@
     },
     {
       "name": "NVDA_1D_ohlcv.json",
-      "sha256": "328a1964e02eef99c4204f60dba3a3f1500835317ea09eb882a88ae014ff6061",
+      "sha256": "a9528db80df5d1bafe178579e93a5270e768085c5ad7e0a05a926cc1f17b430c",
       "size_bytes": 143864,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -748,7 +748,7 @@
     },
     {
       "name": "NVDA_4H_fvg.json",
-      "sha256": "a02141615d098ee76dc59b162b6eb29c80a26c096195cd480b762e5fd1c42a1f",
+      "sha256": "6723a5c30bfffd6c512922e5ccb0f6df72ef4ed01771a3f7f2a5ccee2b224997",
       "size_bytes": 5110,
       "symbol": "NVDA",
       "timeframe": "4H",
@@ -756,7 +756,7 @@
     },
     {
       "name": "NVDA_4H_ob.json",
-      "sha256": "5295b8feb8af6a6a85173b15f77c5e67b6897ea555210899f0cc9e6ffbfa9a8c",
+      "sha256": "6250fbf0ecfa5fa5bfc32aa186e8fa354d6ff20e5ad3082aeeaee4baa1d6c2b2",
       "size_bytes": 1869,
       "symbol": "NVDA",
       "timeframe": "4H",
@@ -764,7 +764,7 @@
     },
     {
       "name": "NVDA_4H_ohlcv.json",
-      "sha256": "ae3eedd70764bd470a6fce093c82901f70b9e6698b4c08fb2b7a1b3005cff0a9",
+      "sha256": "d9e149208ff6c2e2ebf3aff2226ca899404de0c3fb478ff7b967bf3d91f11909",
       "size_bytes": 143711,
       "symbol": "NVDA",
       "timeframe": "4H",
@@ -780,7 +780,7 @@
     },
     {
       "name": "PLTR_1D_fvg.json",
-      "sha256": "78c1aa5c17456b4987037ea46bb6b0431d5c4c7f640a93bc8f5040de3aff1c3e",
+      "sha256": "31a25e18bfcb4e4c7bcf58364cf083a823a2473057730fd9070547e3026b1c72",
       "size_bytes": 5107,
       "symbol": "PLTR",
       "timeframe": "1D",
@@ -788,7 +788,7 @@
     },
     {
       "name": "PLTR_1D_ob.json",
-      "sha256": "6353b7b4d05f22cae3d5c5771eea288e0d2190f06535ebec27605e9789e47c2b",
+      "sha256": "141bf190912116fc5f0f95cbdd9ec3526eea19407fe2f664954732f14f2ca956",
       "size_bytes": 2278,
       "symbol": "PLTR",
       "timeframe": "1D",
@@ -796,7 +796,7 @@
     },
     {
       "name": "PLTR_1D_ohlcv.json",
-      "sha256": "90181ed3cba9e1c48c05f9548cc4c44e740dfa0ea33c62130e906068d11c8522",
+      "sha256": "50d36a29269245e00900a63f4aafb931efe3874f6b8906a840aedf61b264c458",
       "size_bytes": 143481,
       "symbol": "PLTR",
       "timeframe": "1D",
@@ -812,7 +812,7 @@
     },
     {
       "name": "PLTR_4H_fvg.json",
-      "sha256": "e8ee62289ba04142d54b712bd69dfae531a5ad64665405cc9e86fc201ba71745",
+      "sha256": "7234ec24615a2af26463558507bb70786bf8562865e4865b5b86b7f51fe051e3",
       "size_bytes": 5076,
       "symbol": "PLTR",
       "timeframe": "4H",
@@ -820,7 +820,7 @@
     },
     {
       "name": "PLTR_4H_ob.json",
-      "sha256": "fe912c379233f7ea32354712deca209ce01656d160902dadf4d1fd436263a703",
+      "sha256": "9407133fc706e2154d8d3771980e18b24170920d0f55524a234c802b62f7b968",
       "size_bytes": 2051,
       "symbol": "PLTR",
       "timeframe": "4H",
@@ -828,7 +828,7 @@
     },
     {
       "name": "PLTR_4H_ohlcv.json",
-      "sha256": "6ba2dc93460fd95a7748a5ef15fe80c827706330c59e713bc546eb3133afed3e",
+      "sha256": "e1774b85fdc7f44203d08b43d24cf6dc189d826a97adf1057b892cd6704e4693",
       "size_bytes": 143809,
       "symbol": "PLTR",
       "timeframe": "4H",
@@ -836,15 +836,15 @@
     },
     {
       "name": "SOLUSDT_1D.png",
-      "sha256": "78e504dd846d7c48a092cf3bf3d25bc22cdc5d8fd03d91847e6a2da8e65c24ae",
-      "size_bytes": 67035,
+      "sha256": "05fdd0bd3efd691880481a6b442ac8136dfcbf63a1064ed152038ddcefb9536d",
+      "size_bytes": 67186,
       "symbol": "SOL",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "SOLUSDT_1D_fvg.json",
-      "sha256": "ac11e2bbd9e32bebaf9664c747776a44d379556e619a677598e7118cd0342312",
+      "sha256": "c794611411dc6063819d6f80ec03a2372c34b214fc387b125249dc1482403c7a",
       "size_bytes": 4637,
       "symbol": "SOL",
       "timeframe": "1D",
@@ -852,7 +852,7 @@
     },
     {
       "name": "SOLUSDT_1D_ob.json",
-      "sha256": "e610abe6b287d74e632f27d31b70d7ed9e09074b7ed3d607114e8e192d6f20e6",
+      "sha256": "725cdc23bda6df4f5325fb9c4e2a28daa39290ea567d1c990deb7864caffe952",
       "size_bytes": 765,
       "symbol": "SOL",
       "timeframe": "1D",
@@ -860,23 +860,23 @@
     },
     {
       "name": "SOLUSDT_1D_ohlcv.json",
-      "sha256": "48a9dc4a927be9f1c56f56a1dc607b8eef720da226b607ea21b19063ad153639",
-      "size_bytes": 121190,
+      "sha256": "69104e74893b8cd74287e92a25f45cf7dabd9794416fe286811b5854d3286e89",
+      "size_bytes": 121191,
       "symbol": "SOL",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
       "name": "SOLUSDT_4H.png",
-      "sha256": "b9b65f081ae13c81c25526ca6b16c5ef18c540739a0766800e1cf06044b4b852",
-      "size_bytes": 62343,
+      "sha256": "186abe4ab2e7144f7430c7691736e355ba6aec794d6d574f54cf78e7205d0dcf",
+      "size_bytes": 62746,
       "symbol": "SOL",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "SOLUSDT_4H_fvg.json",
-      "sha256": "fded6b3d6c8cfd2fcdc1c9cf95bc9a7cb7a36c7d3b9af2a0430fc0db3c9d99df",
+      "sha256": "4bd33f819ecb7a4773239fb03b9236a58c0fbccb7e4f1718c93c9827aabc2561",
       "size_bytes": 4631,
       "symbol": "SOL",
       "timeframe": "4H",
@@ -884,7 +884,7 @@
     },
     {
       "name": "SOLUSDT_4H_ob.json",
-      "sha256": "f0861fa8eb435e65609f87f83cf590833ad530455b9c298d60799d43a0f3821b",
+      "sha256": "2169012fb46b4938ac06a639b08244dd399c2ef819978e9817fd145547873c07",
       "size_bytes": 1910,
       "symbol": "SOL",
       "timeframe": "4H",
@@ -892,8 +892,8 @@
     },
     {
       "name": "SOLUSDT_4H_ohlcv.json",
-      "sha256": "a679aba35e9a47b475cd5cdd8126f71075673cb71a29add3c8f104b2b9a59c89",
-      "size_bytes": 119569,
+      "sha256": "0e8f71908c93ca9c6827b57752299b5aa2183e2c3d891a4acb7abd3aed0f6851",
+      "size_bytes": 119570,
       "symbol": "SOL",
       "timeframe": "4H",
       "type": "ohlcv"
@@ -908,7 +908,7 @@
     },
     {
       "name": "TSLA_1D_fvg.json",
-      "sha256": "f6168331e06c9e6d1641d8aba4146a85d76def19e868f92378340cdf4fe9997b",
+      "sha256": "d5d052b261a5afd907d687eea5aac769b555e38318df8eb3a044b817ef68b4df",
       "size_bytes": 5094,
       "symbol": "TSLA",
       "timeframe": "1D",
@@ -916,7 +916,7 @@
     },
     {
       "name": "TSLA_1D_ob.json",
-      "sha256": "478355fc4eb3a2e1b1914a8e2be86279d2ee9f1f5f34316c796f71a2cf3f3c1c",
+      "sha256": "955188eebd9d3f47d4fb3de0a78ddc6f70973af73d9700f8ab31bdca2944f44a",
       "size_bytes": 1002,
       "symbol": "TSLA",
       "timeframe": "1D",
@@ -924,7 +924,7 @@
     },
     {
       "name": "TSLA_1D_ohlcv.json",
-      "sha256": "9f1ba6f6f143c123b1388fa79bb27d6801374f896b34003083456e9e651bc366",
+      "sha256": "eca74de1944f616db871072bda782c936296d7405bf360bcf4efaa5910e45c7a",
       "size_bytes": 142202,
       "symbol": "TSLA",
       "timeframe": "1D",
@@ -940,7 +940,7 @@
     },
     {
       "name": "TSLA_4H_fvg.json",
-      "sha256": "d46d8fc7a6c8e99952af9998eabbf2995c727715686b4f6b3e0f8df77476fb10",
+      "sha256": "59c041f62e9a3c57378c137ca8e4954779d575fbe3a594fb991dc7edab1f2004",
       "size_bytes": 5130,
       "symbol": "TSLA",
       "timeframe": "4H",
@@ -948,7 +948,7 @@
     },
     {
       "name": "TSLA_4H_ob.json",
-      "sha256": "bc6fdc2dd6e0c4841b28fd4bf8f2b19cc323f99d8c3744e7a9f8af6e222b31a5",
+      "sha256": "b62e057b829dc5e95e9040f7ed143038dadf7cf20f7fe7b095c60227b706d2d5",
       "size_bytes": 2911,
       "symbol": "TSLA",
       "timeframe": "4H",
@@ -956,7 +956,7 @@
     },
     {
       "name": "TSLA_4H_ohlcv.json",
-      "sha256": "01bde55093e400ab377ecefcbe7f2305b13041fefe5c9a26a8439e2eac4208a2",
+      "sha256": "b44d1494fbb072fc1340e1903529dac91284703f0ab6847998573010eea90c5d",
       "size_bytes": 142544,
       "symbol": "TSLA",
       "timeframe": "4H",
@@ -964,15 +964,15 @@
     },
     {
       "name": "XRPUSDT_1D.png",
-      "sha256": "086862b31e4bd8315d1f85330a024ec4db996b754d2c76a7e14f1f4772835db2",
-      "size_bytes": 59803,
+      "sha256": "805030bbb58ebaba998d44878e420f2fc1067444d08704d10419e5be9ef410f3",
+      "size_bytes": 59735,
       "symbol": "XRP",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
       "name": "XRPUSDT_1D_fvg.json",
-      "sha256": "f549f192ea028d1471cf235b8870e06d2b9479dd64eaa3e46178d81cfa292ad3",
+      "sha256": "5c1852a2a93a194ee33a5eb2ce42c514dd1ec522a41d8213258b380663ac90bd",
       "size_bytes": 4671,
       "symbol": "XRP",
       "timeframe": "1D",
@@ -980,7 +980,7 @@
     },
     {
       "name": "XRPUSDT_1D_ob.json",
-      "sha256": "07d735c9711b0b77c78591976d80236e9657f20ede2e71912e43c8bfb54c43d2",
+      "sha256": "e23edbfcaba6baf63f8d305e5da99467da7844317145e8ef5c1f4aed95e7ecf0",
       "size_bytes": 1918,
       "symbol": "XRP",
       "timeframe": "1D",
@@ -988,7 +988,7 @@
     },
     {
       "name": "XRPUSDT_1D_ohlcv.json",
-      "sha256": "7c5873a683ee75b16c427999283cf93b0a5856115b629822c07415ff28810014",
+      "sha256": "ac5a398f33286563aab8fd6a38db299d022c6ca3971a5b755d63f84443898191",
       "size_bytes": 122113,
       "symbol": "XRP",
       "timeframe": "1D",
@@ -996,15 +996,15 @@
     },
     {
       "name": "XRPUSDT_4H.png",
-      "sha256": "9ac0d8b67428119fb37a3576a440e26b97933453f245f7377ec18600f99c0791",
-      "size_bytes": 61102,
+      "sha256": "6e74a69f9b98edff1f5495f6f21cc1e1a458a03d478560cefd7cd7c1dfa2aa96",
+      "size_bytes": 61267,
       "symbol": "XRP",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
       "name": "XRPUSDT_4H_fvg.json",
-      "sha256": "5dc572187a14301332009ba36ac715da53001dceb67236eea1394101e8bb0fe3",
+      "sha256": "889cd3d22963ae3a3c481e7b97864675a6a242229a52179c427b92a2092ee13b",
       "size_bytes": 4656,
       "symbol": "XRP",
       "timeframe": "4H",
@@ -1012,7 +1012,7 @@
     },
     {
       "name": "XRPUSDT_4H_ob.json",
-      "sha256": "f24242db081d2632455542b8a00c1ff3c0abfbfaa892436602e4f51f88675742",
+      "sha256": "76168eda7942b6f40974db0bbcb0ea189123cee2482e146555874748207aa64e",
       "size_bytes": 1701,
       "symbol": "XRP",
       "timeframe": "4H",
@@ -1020,31 +1020,31 @@
     },
     {
       "name": "XRPUSDT_4H_ohlcv.json",
-      "sha256": "a935b3cfc85af9cb03f4ee2088c785573d000a895d405ad7029e4ba01f9c7130",
-      "size_bytes": 121709,
+      "sha256": "f2812b83b47e0a5ebe457c2fa6e8c102b98014e73dd028cfe8b9d2104159e0b4",
+      "size_bytes": 121710,
       "symbol": "XRP",
       "timeframe": "4H",
       "type": "ohlcv"
     },
     {
       "name": "vision_bundle_1D.pdf",
-      "sha256": "0f27f3565baba994bbef6e65ce83ea67786946ceaa39eb7ffeaaf54f2dd3c58b",
-      "size_bytes": 2348912,
+      "sha256": "88d78fe22c8f4f88de54d9af4e05228e2b2d5323a9bb11d2521f962f27337a59",
+      "size_bytes": 2349214,
       "symbol": "BUNDLE",
       "timeframe": "1D",
       "type": "vision_bundle"
     },
     {
       "name": "vision_bundle_4H.pdf",
-      "sha256": "b271a6ab1fe28cb0b37f206cde53b70ac614378790d22050e1d512f60e9bba45",
-      "size_bytes": 2169295,
+      "sha256": "9e76f658ff0bc685ad74a6788ba8041307f67f2134f0aa387fa4fe75d289c18a",
+      "size_bytes": 2169549,
       "symbol": "BUNDLE",
       "timeframe": "4H",
       "type": "vision_bundle"
     }
   ],
-  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
-  "manifest_sha256": "2fec48a5e2c17d6668f7897b74e61fd515c8221b84e0ee5348c0c0836f8528a1",
+  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
+  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
   "manifest_version": "2.0",
   "markets": {
     "ADA": {
@@ -1058,8 +1058,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.1,
       "execution_min_size": 0.1,
-      "execution_reference_price": 0.2259,
-      "execution_reference_time_utc": "2026-08-23T00:23:52.262000Z",
+      "execution_reference_price": 0.2276,
+      "execution_reference_time_utc": "2026-08-23T00:45:17.863000Z",
       "execution_tick_size": 0.0001,
       "frames": {
         "1D": {
@@ -1068,11 +1068,11 @@
           "history_fetch": {
             "cache_count": 502,
             "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ADAUSDT__1D.json",
-            "inserted_candles": 1,
+            "inserted_candles": 0,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 4,
-            "requested_start_time_utc": "2026-08-20T00:00:00Z",
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
             "revised_candles": 1
           },
           "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
@@ -1087,11 +1087,11 @@
           "history_fetch": {
             "cache_count": 510,
             "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ADAUSDT__4H.json",
-            "inserted_candles": 3,
+            "inserted_candles": 0,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 6,
-            "requested_start_time_utc": "2026-08-22T04:00:00Z",
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
             "revised_candles": 1
           },
           "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
@@ -1115,7 +1115,7 @@
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
       "execution_reference_price": 258.84,
-      "execution_reference_time_utc": "2026-08-23T00:23:53.071000Z",
+      "execution_reference_time_utc": "2026-08-23T00:45:20.069000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1170,8 +1170,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 77139.7,
-      "execution_reference_time_utc": "2026-08-23T00:23:49.660000Z",
+      "execution_reference_price": 77284.8,
+      "execution_reference_time_utc": "2026-08-23T00:45:16.562000Z",
       "execution_tick_size": 0.1,
       "frames": {
         "1D": {
@@ -1226,8 +1226,8 @@
       "execution_inst_type": "FUTURES",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 185.15,
-      "execution_reference_time_utc": "2026-08-23T00:23:55.468000Z",
+      "execution_reference_price": 185.8,
+      "execution_reference_time_utc": "2026-08-23T00:45:22.367000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1282,8 +1282,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 0.0922,
-      "execution_reference_time_utc": "2026-08-23T00:23:50.771000Z",
+      "execution_reference_price": 0.09358,
+      "execution_reference_time_utc": "2026-08-23T00:45:17.469000Z",
       "execution_tick_size": 1e-05,
       "frames": {
         "1D": {
@@ -1338,8 +1338,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 2423.89,
-      "execution_reference_time_utc": "2026-08-23T00:23:49.862000Z",
+      "execution_reference_price": 2426.74,
+      "execution_reference_time_utc": "2026-08-23T00:45:16.363000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1395,7 +1395,7 @@
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
       "execution_reference_price": 344.45,
-      "execution_reference_time_utc": "2026-08-23T00:23:54.867000Z",
+      "execution_reference_time_utc": "2026-08-23T00:45:21.065000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1450,8 +1450,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.1,
       "execution_min_size": 0.1,
-      "execution_reference_price": 11.676,
-      "execution_reference_time_utc": "2026-08-23T00:23:51.267000Z",
+      "execution_reference_price": 11.686,
+      "execution_reference_time_utc": "2026-08-23T00:45:18.269000Z",
       "execution_tick_size": 0.001,
       "frames": {
         "1D": {
@@ -1507,7 +1507,7 @@
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
       "execution_reference_price": 550.67,
-      "execution_reference_time_utc": "2026-08-23T00:23:54.367000Z",
+      "execution_reference_time_utc": "2026-08-23T00:45:20.451000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1563,7 +1563,7 @@
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
       "execution_reference_price": 482.6,
-      "execution_reference_time_utc": "2026-08-23T00:23:56.068000Z",
+      "execution_reference_time_utc": "2026-08-23T00:45:22.763000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1618,8 +1618,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.1,
       "execution_min_size": 0.1,
-      "execution_reference_price": 1.894,
-      "execution_reference_time_utc": "2026-08-23T00:23:52.261000Z",
+      "execution_reference_price": 1.914,
+      "execution_reference_time_utc": "2026-08-23T00:45:18.264000Z",
       "execution_tick_size": 0.001,
       "frames": {
         "1D": {
@@ -1628,11 +1628,11 @@
           "history_fetch": {
             "cache_count": 502,
             "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__NEARUSDT__1D.json",
-            "inserted_candles": 1,
+            "inserted_candles": 0,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 4,
-            "requested_start_time_utc": "2026-08-20T00:00:00Z",
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
             "revised_candles": 1
           },
           "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
@@ -1647,11 +1647,11 @@
           "history_fetch": {
             "cache_count": 510,
             "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__NEARUSDT__4H.json",
-            "inserted_candles": 3,
+            "inserted_candles": 0,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 6,
-            "requested_start_time_utc": "2026-08-22T04:00:00Z",
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
             "revised_candles": 1
           },
           "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
@@ -1674,8 +1674,8 @@
       "execution_inst_type": "FUTURES",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 216.02,
-      "execution_reference_time_utc": "2026-08-23T00:23:52.036000Z",
+      "execution_reference_price": 216.12,
+      "execution_reference_time_utc": "2026-08-23T00:45:19.070000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1730,8 +1730,8 @@
       "execution_inst_type": "FUTURES",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 180.28,
-      "execution_reference_time_utc": "2026-08-23T00:23:54.366000Z",
+      "execution_reference_price": 180.17,
+      "execution_reference_time_utc": "2026-08-23T00:45:21.064000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1786,8 +1786,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 94.07,
-      "execution_reference_time_utc": "2026-08-23T00:23:50.663000Z",
+      "execution_reference_price": 96.49,
+      "execution_reference_time_utc": "2026-08-23T00:45:16.399000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1842,8 +1842,8 @@
       "execution_inst_type": "FUTURES",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 362.83,
-      "execution_reference_time_utc": "2026-08-23T00:23:52.069000Z",
+      "execution_reference_price": 363.12,
+      "execution_reference_time_utc": "2026-08-23T00:45:19.067000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -1898,8 +1898,8 @@
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 1.4856,
-      "execution_reference_time_utc": "2026-08-23T00:23:50.969000Z",
+      "execution_reference_price": 1.4818,
+      "execution_reference_time_utc": "2026-08-23T00:45:17.472000Z",
       "execution_tick_size": 0.0001,
       "frames": {
         "1D": {
@@ -1945,7 +1945,7 @@
     }
   },
   "pipeline_version": "2.0",
-  "requested_at_utc": "2026-08-23T00:23:56.320765Z",
+  "requested_at_utc": "2026-08-23T00:45:22.968668Z",
   "required_timeframes": [
     "1D",
     "4H"

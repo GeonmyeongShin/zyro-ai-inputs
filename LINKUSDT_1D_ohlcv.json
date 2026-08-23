@@ -4994,16 +4994,16 @@
     }
   ],
   "current_candle": {
-    "close": 11.675,
-    "high": 11.697,
+    "close": 11.699,
+    "high": 11.755,
     "is_closed": false,
     "low": 11.632,
     "open": 11.651,
     "open_time": "2026-08-23T00:00:00Z",
     "open_time_ms": 1787443200000,
-    "volume": 285478.68
+    "volume": 479757.65
   },
-  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
   "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "LINKUSDT",

@@ -4994,16 +4994,16 @@
     }
   ],
   "current_candle": {
-    "close": 0.09218,
-    "high": 0.0924,
+    "close": 0.09386,
+    "high": 0.09386,
     "is_closed": false,
     "low": 0.09182,
     "open": 0.09188,
     "open_time": "2026-08-23T00:00:00Z",
     "open_time_ms": 1787443200000,
-    "volume": 109931224.0
+    "volume": 288879923.0
   },
-  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "generated_at_utc": "2026-08-23T00:45:22.969019Z",
   "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "DOGEUSDT",
