@@ -3,26 +3,6 @@
   "asset_class": "CRYPTO",
   "closed_candles": [
     {
-      "close": 73653.2,
-      "high": 74179.9,
-      "is_closed": true,
-      "low": 73470.8,
-      "open": 73521.9,
-      "open_time": "2026-05-31T20:00:00Z",
-      "open_time_ms": 1780257600000,
-      "volume": 12392.959
-    },
-    {
-      "close": 73731.3,
-      "high": 74070.5,
-      "is_closed": true,
-      "low": 73171.0,
-      "open": 73653.2,
-      "open_time": "2026-06-01T00:00:00Z",
-      "open_time_ms": 1780272000000,
-      "volume": 18398.144
-    },
-    {
       "close": 72776.1,
       "high": 73815.9,
       "is_closed": true,
@@ -4991,20 +4971,40 @@
       "open_time": "2026-08-22T20:00:00Z",
       "open_time_ms": 1787428800000,
       "volume": 10062.796
+    },
+    {
+      "close": 76941.1,
+      "high": 77423.8,
+      "is_closed": true,
+      "low": 76842.1,
+      "open": 77084.5,
+      "open_time": "2026-08-23T00:00:00Z",
+      "open_time_ms": 1787443200000,
+      "volume": 10546.566
+    },
+    {
+      "close": 76020.3,
+      "high": 77046.8,
+      "is_closed": true,
+      "low": 75588.0,
+      "open": 76941.2,
+      "open_time": "2026-08-23T04:00:00Z",
+      "open_time_ms": 1787457600000,
+      "volume": 42202.426
     }
   ],
   "current_candle": {
-    "close": 77128.5,
-    "high": 77423.8,
+    "close": 76519.9,
+    "high": 76694.3,
     "is_closed": false,
-    "low": 77015.8,
-    "open": 77084.5,
-    "open_time": "2026-08-23T00:00:00Z",
-    "open_time_ms": 1787443200000,
-    "volume": 7269.727
+    "low": 75966.7,
+    "open": 76020.2,
+    "open_time": "2026-08-23T08:00:00Z",
+    "open_time_ms": 1787472000000,
+    "volume": 6670.15
   },
-  "generated_at_utc": "2026-08-23T03:02:11.761598Z",
-  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "generated_at_utc": "2026-08-23T08:49:11.322697Z",
+  "last_closed_candle_open_time_utc": "2026-08-23T04:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "BTCUSDT",
   "symbol": "BTC",

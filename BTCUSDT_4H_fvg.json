@@ -5,7 +5,7 @@
   "fvgs": [
     {
       "created_at": "2026-08-22T08:00:00Z",
-      "distance_pct": 0.448209,
+      "distance_pct": 1.854373,
       "fill_pct": 73.0997,
       "high": 77649.7,
       "low": 77430.0,
@@ -14,16 +14,16 @@
     },
     {
       "created_at": "2026-08-21T08:00:00Z",
-      "distance_pct": 1.078427,
-      "fill_pct": 3.3354,
+      "distance_pct": 0.0,
+      "fill_pct": 100.0,
       "high": 76253.2,
       "low": 75767.5,
-      "status": "PARTIAL",
+      "status": "FILLED",
       "type": "BULLISH"
     },
     {
       "created_at": "2026-08-21T04:00:00Z",
-      "distance_pct": 3.375127,
+      "distance_pct": 2.022486,
       "fill_pct": 0.0,
       "high": 74482.8,
       "low": 73399.7,
@@ -32,7 +32,7 @@
     },
     {
       "created_at": "2026-08-21T00:00:00Z",
-      "distance_pct": 5.30859,
+      "distance_pct": 3.983015,
       "fill_pct": 0.0,
       "high": 72992.4,
       "low": 72945.3,
@@ -41,7 +41,7 @@
     },
     {
       "created_at": "2026-08-20T12:00:00Z",
-      "distance_pct": 7.763558,
+      "distance_pct": 6.47235,
       "fill_pct": 0.0,
       "high": 71100.0,
       "low": 69999.0,
@@ -50,7 +50,7 @@
     },
     {
       "created_at": "2026-08-19T16:00:00Z",
-      "distance_pct": 12.039904,
+      "distance_pct": 10.80856,
       "fill_pct": 0.0,
       "high": 67803.6,
       "low": 64509.7,
@@ -59,7 +59,7 @@
     },
     {
       "created_at": "2026-08-19T12:00:00Z",
-      "distance_pct": 16.403427,
+      "distance_pct": 15.233168,
       "fill_pct": 0.0,
       "high": 64440.0,
       "low": 64382.2,
@@ -68,7 +68,7 @@
     },
     {
       "created_at": "2026-08-19T04:00:00Z",
-      "distance_pct": 16.288748,
+      "distance_pct": 15.116883,
       "fill_pct": 100.0,
       "high": 64528.4,
       "low": 64382.2,
@@ -77,7 +77,7 @@
     },
     {
       "created_at": "2026-08-18T16:00:00Z",
-      "distance_pct": 16.181204,
+      "distance_pct": 15.007833,
       "fill_pct": 100.0,
       "high": 64611.3,
       "low": 64380.0,
@@ -86,7 +86,7 @@
     },
     {
       "created_at": "2026-08-17T16:00:00Z",
-      "distance_pct": 17.046488,
+      "distance_pct": 15.885231,
       "fill_pct": 0.0,
       "high": 63944.3,
       "low": 63753.0,
@@ -95,7 +95,7 @@
     },
     {
       "created_at": "2026-08-17T04:00:00Z",
-      "distance_pct": 17.740013,
+      "distance_pct": 16.588464,
       "fill_pct": 52.8708,
       "high": 63409.7,
       "low": 63117.1,
@@ -104,7 +104,7 @@
     },
     {
       "created_at": "2026-08-14T08:00:00Z",
-      "distance_pct": 17.912032,
+      "distance_pct": 16.762891,
       "fill_pct": 100.0,
       "high": 63277.1,
       "low": 62974.4,
@@ -113,7 +113,7 @@
     },
     {
       "created_at": "2026-08-12T16:00:00Z",
-      "distance_pct": 17.317489,
+      "distance_pct": 16.160026,
       "fill_pct": 100.0,
       "high": 63735.4,
       "low": 63557.5,
@@ -122,7 +122,7 @@
     },
     {
       "created_at": "2026-08-11T16:00:00Z",
-      "distance_pct": 16.960738,
+      "distance_pct": 15.79828,
       "fill_pct": 100.0,
       "high": 64010.4,
       "low": 63637.5,
@@ -131,7 +131,7 @@
     },
     {
       "created_at": "2026-08-10T16:00:00Z",
-      "distance_pct": 15.770356,
+      "distance_pct": 14.591234,
       "fill_pct": 100.0,
       "high": 64928.0,
       "low": 64330.0,
@@ -140,7 +140,7 @@
     },
     {
       "created_at": "2026-08-09T16:00:00Z",
-      "distance_pct": 15.485993,
+      "distance_pct": 14.30289,
       "fill_pct": 100.0,
       "high": 65147.2,
       "low": 64978.0,
@@ -149,7 +149,7 @@
     },
     {
       "created_at": "2026-08-09T12:00:00Z",
-      "distance_pct": 15.827047,
+      "distance_pct": 14.648719,
       "fill_pct": 100.0,
       "high": 64884.3,
       "low": 64835.0,
@@ -158,7 +158,7 @@
     },
     {
       "created_at": "2026-08-09T04:00:00Z",
-      "distance_pct": 15.796431,
+      "distance_pct": 14.617674,
       "fill_pct": 100.0,
       "high": 64907.9,
       "low": 64835.0,
@@ -167,7 +167,7 @@
     },
     {
       "created_at": "2026-08-07T12:00:00Z",
-      "distance_pct": 15.99245,
+      "distance_pct": 14.816437,
       "fill_pct": 100.0,
       "high": 64756.8,
       "low": 64441.0,
@@ -176,7 +176,7 @@
     },
     {
       "created_at": "2026-08-05T16:00:00Z",
-      "distance_pct": 16.516939,
+      "distance_pct": 15.348269,
       "fill_pct": 100.0,
       "high": 64352.5,
       "low": 64257.1,
@@ -184,8 +184,8 @@
       "type": "BULLISH"
     }
   ],
-  "generated_at_utc": "2026-08-23T03:02:11.761598Z",
-  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "generated_at_utc": "2026-08-23T08:49:11.322697Z",
+  "last_closed_candle_open_time_utc": "2026-08-23T04:00:00Z",
   "source": "BINANCE_USDT_M_FUTURES",
   "source_symbol": "BTCUSDT",
   "symbol": "BTC",

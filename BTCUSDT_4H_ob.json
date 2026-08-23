@@ -2,20 +2,20 @@
   "analysis_symbol": "BTCUSDT",
   "asset_class": "CRYPTO",
   "detector": "conservative_volume_pivot_v1",
-  "generated_at_utc": "2026-08-23T03:02:11.761598Z",
-  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "generated_at_utc": "2026-08-23T08:49:11.322697Z",
+  "last_closed_candle_open_time_utc": "2026-08-23T04:00:00Z",
   "order_blocks": [
     {
       "created_at": "2026-08-22T04:00:00Z",
-      "distance_pct": 0.0,
+      "distance_pct": 0.64417,
       "high": 77662.6,
       "low": 76510.0,
-      "status": "TOUCHED",
+      "status": "ACTIVE",
       "type": "BULLISH"
     },
     {
       "created_at": "2026-08-21T08:00:00Z",
-      "distance_pct": 1.063573,
+      "distance_pct": 2.478351,
       "high": 79555.5,
       "low": 77904.35,
       "status": "ACTIVE",
@@ -23,7 +23,7 @@
     },
     {
       "created_at": "2026-08-20T08:00:00Z",
-      "distance_pct": 7.725094,
+      "distance_pct": 6.433347,
       "high": 71129.65,
       "low": 69771.8,
       "status": "ACTIVE",
@@ -31,7 +31,7 @@
     },
     {
       "created_at": "2026-08-19T12:00:00Z",
-      "distance_pct": 12.505108,
+      "distance_pct": 11.280276,
       "high": 67445.0,
       "low": 64440.0,
       "status": "ACTIVE",
@@ -39,7 +39,7 @@
     },
     {
       "created_at": "2026-08-18T12:00:00Z",
-      "distance_pct": 16.301526,
+      "distance_pct": 15.12984,
       "high": 64518.55,
       "low": 63979.2,
       "status": "ACTIVE",
@@ -47,7 +47,7 @@
     },
     {
       "created_at": "2026-08-17T12:00:00Z",
-      "distance_pct": 17.225642,
+      "distance_pct": 16.066893,
       "high": 63806.2,
       "low": 63412.5,
       "status": "ACTIVE",
@@ -55,7 +55,7 @@
     },
     {
       "created_at": "2026-08-14T12:00:00Z",
-      "distance_pct": 18.566054,
+      "distance_pct": 17.426069,
       "high": 62772.95,
       "low": 62484.2,
       "status": "ACTIVE",
@@ -63,7 +63,7 @@
     },
     {
       "created_at": "2026-08-03T12:00:00Z",
-      "distance_pct": 18.037997,
+      "distance_pct": 16.89062,
       "high": 63180.0,
       "low": 62400.0,
       "status": "ACTIVE",
@@ -71,7 +71,7 @@
     },
     {
       "created_at": "2026-08-01T16:00:00Z",
-      "distance_pct": 18.767456,
+      "distance_pct": 17.630291,
       "high": 62617.7,
       "low": 62228.8,
       "status": "ACTIVE",
