@@ -1,0 +1,193 @@
+{
+  "analysis_symbol": "META",
+  "asset_class": "US_STOCK",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "created_at": "2026-08-19T13:30:00Z",
+      "distance_pct": 0.758317,
+      "fill_pct": 0.0,
+      "high": 564.75,
+      "low": 554.0700073242188,
+      "status": "OPEN",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-18T13:30:00Z",
+      "distance_pct": 1.95671,
+      "fill_pct": 0.0,
+      "high": 589.2899780273438,
+      "low": 560.6599731445312,
+      "status": "OPEN",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-04T13:30:00Z",
+      "distance_pct": 1.533005,
+      "fill_pct": 100.0,
+      "high": 578.25,
+      "low": 558.3300170898438,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-03T13:30:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 100.0,
+      "high": 559.3599853515625,
+      "low": 539.8800048828125,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-31T13:30:00Z",
+      "distance_pct": 1.533005,
+      "fill_pct": 100.0,
+      "high": 582.219970703125,
+      "low": 558.3300170898438,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-30T13:30:00Z",
+      "distance_pct": 0.0,
+      "fill_pct": 100.0,
+      "high": 587.0,
+      "low": 539.8800048828125,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-24T13:30:00Z",
+      "distance_pct": 10.925614,
+      "fill_pct": 17.4751,
+      "high": 624.0,
+      "low": 609.97998046875,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-23T13:30:00Z",
+      "distance_pct": 11.774868,
+      "fill_pct": 0.0,
+      "high": 643.2000122070312,
+      "low": 614.6500244140625,
+      "status": "OPEN",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-20T13:30:00Z",
+      "distance_pct": 18.803411,
+      "fill_pct": 37.6097,
+      "high": 660.1599731445312,
+      "low": 653.2999877929688,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-17T13:30:00Z",
+      "distance_pct": 18.603379,
+      "fill_pct": 82.5118,
+      "high": 656.6599731445312,
+      "low": 652.2000122070312,
+      "status": "PARTIAL",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-07-13T13:30:00Z",
+      "distance_pct": 15.160937,
+      "fill_pct": 100.0,
+      "high": 654.2000122070312,
+      "low": 633.27001953125,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-10T13:30:00Z",
+      "distance_pct": 12.020362,
+      "fill_pct": 100.0,
+      "high": 658.010009765625,
+      "low": 616.0,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-02T13:30:00Z",
+      "distance_pct": 2.844145,
+      "fill_pct": 100.0,
+      "high": 580.4199829101562,
+      "low": 565.5399780273438,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-01T13:30:00Z",
+      "distance_pct": 3.818876,
+      "fill_pct": 100.0,
+      "high": 595.0999755859375,
+      "low": 570.9000244140625,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-29T13:30:00Z",
+      "distance_pct": 1.171122,
+      "fill_pct": 100.0,
+      "high": 558.0,
+      "low": 556.3400268554688,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-25T13:30:00Z",
+      "distance_pct": 1.171122,
+      "fill_pct": 100.0,
+      "high": 561.02001953125,
+      "low": 556.3400268554688,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-18T13:30:00Z",
+      "distance_pct": 5.51372,
+      "fill_pct": 100.0,
+      "high": 592.0,
+      "low": 580.219970703125,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-16T13:30:00Z",
+      "distance_pct": 4.759044,
+      "fill_pct": 100.0,
+      "high": 592.0,
+      "low": 576.0700073242188,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-15T13:30:00Z",
+      "distance_pct": 4.04982,
+      "fill_pct": 100.0,
+      "high": 579.2999877929688,
+      "low": 572.1699829101562,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-11T13:30:00Z",
+      "distance_pct": 4.04982,
+      "fill_pct": 100.0,
+      "high": 581.010009765625,
+      "low": 572.1699829101562,
+      "status": "FILLED",
+      "type": "BEARISH"
+    }
+  ],
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+  "source": "YAHOO_FINANCE_REGULAR_SESSION",
+  "source_symbol": "META",
+  "symbol": "META",
+  "timeframe": "1D"
+}

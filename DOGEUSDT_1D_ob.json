@@ -1,0 +1,85 @@
+{
+  "analysis_symbol": "DOGEUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "conservative_volume_pivot_v1",
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+  "order_blocks": [
+    {
+      "created_at": "2026-08-12T00:00:00Z",
+      "distance_pct": 23.106226,
+      "high": 0.07065,
+      "low": 0.06879,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-06T00:00:00Z",
+      "distance_pct": 14.747497,
+      "high": 0.07833,
+      "low": 0.076325,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-06-24T00:00:00Z",
+      "distance_pct": 13.158468,
+      "high": 0.07979,
+      "low": 0.07627500000000001,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-18T00:00:00Z",
+      "distance_pct": 15.07401,
+      "high": 0.10902,
+      "low": 0.10573,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-05-14T00:00:00Z",
+      "distance_pct": 25.397257,
+      "high": 0.11859,
+      "low": 0.115215,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-01-06T00:00:00Z",
+      "distance_pct": 62.690466,
+      "high": 0.15656,
+      "low": 0.14948,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2025-11-14T00:00:00Z",
+      "distance_pct": 74.553766,
+      "high": 0.16618,
+      "low": 0.16038,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2025-10-13T00:00:00Z",
+      "distance_pct": 128.580758,
+      "high": 0.21823,
+      "low": 0.21001999999999998,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2025-09-13T00:00:00Z",
+      "distance_pct": 215.302569,
+      "high": 0.30679,
+      "low": 0.2897,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    }
+  ],
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "DOGEUSDT",
+  "symbol": "DOGE",
+  "timeframe": "1D"
+}

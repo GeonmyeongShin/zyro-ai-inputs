@@ -1,0 +1,77 @@
+{
+  "analysis_symbol": "SOLUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "conservative_volume_pivot_v1",
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "order_blocks": [
+    {
+      "created_at": "2026-08-22T04:00:00Z",
+      "distance_pct": 0.0,
+      "high": 94.92,
+      "low": 87.0,
+      "status": "TOUCHED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-19T12:00:00Z",
+      "distance_pct": 14.510285,
+      "high": 80.215,
+      "low": 77.39,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-18T12:00:00Z",
+      "distance_pct": 18.293723,
+      "high": 76.66499999999999,
+      "low": 76.01,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-16T20:00:00Z",
+      "distance_pct": 20.446552,
+      "high": 74.64500000000001,
+      "low": 74.0,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-03T12:00:00Z",
+      "distance_pct": 22.157093,
+      "high": 73.04,
+      "low": 72.29,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-01T16:00:00Z",
+      "distance_pct": 23.57455,
+      "high": 71.71000000000001,
+      "low": 70.51,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-26T12:00:00Z",
+      "distance_pct": 25.210487,
+      "high": 70.175,
+      "low": 68.13,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-06-25T12:00:00Z",
+      "distance_pct": 29.153789,
+      "high": 66.475,
+      "low": 64.0,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    }
+  ],
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "SOLUSDT",
+  "symbol": "SOL",
+  "timeframe": "4H"
+}

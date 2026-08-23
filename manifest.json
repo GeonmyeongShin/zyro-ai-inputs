@@ -1,68 +1,708 @@
 {
-  "analysis_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
+  "analysis_id": "auto-report-20260823-0921-kst",
   "errors": [],
   "files": [
     {
-      "name": "AVAXUSDT_1D.png",
-      "sha256": "8faf9918e015a591be3137ccaa714e67ff0ae150ba8ce7b9dfead291d177a5f0",
-      "size_bytes": 64789,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_1D.png",
+      "sha256": "97efc1ebea984136eae1b236294028136bdbb069c22c492195c3bb5d9b1fc017",
+      "size_bytes": 59774,
+      "symbol": "ADA",
       "timeframe": "1D",
       "type": "raw_chart"
     },
     {
-      "name": "AVAXUSDT_1D_fvg.json",
-      "sha256": "ab9ad8966075dc87e5d4bd0f24d5419d5235801628fb327e186966a6cd0277b4",
-      "size_bytes": 4635,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_1D_fvg.json",
+      "sha256": "3e2a7966d2e5a53228e487270aadee58b55f47b94bf57e99d268e254dfa94cb3",
+      "size_bytes": 4669,
+      "symbol": "ADA",
       "timeframe": "1D",
       "type": "fvg"
     },
     {
-      "name": "AVAXUSDT_1D_ob.json",
-      "sha256": "8a6e7b95411b47f904d7987ba70b45ea65585b3a52031578f56804e265385468",
-      "size_bytes": 1900,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_1D_ob.json",
+      "sha256": "71476c3fe63569f163aa033993387f3b083f39aac0946680997fd9d9d3130ad8",
+      "size_bytes": 1723,
+      "symbol": "ADA",
       "timeframe": "1D",
       "type": "ob"
     },
     {
-      "name": "AVAXUSDT_1D_ohlcv.json",
-      "sha256": "29355d97d99c6b1cf637fd7044e98de62381cfffea523c4fcbb2daab21942e5a",
-      "size_bytes": 120667,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_1D_ohlcv.json",
+      "sha256": "24c4d489ceba8577ce2b677bd1f05e05109f167c043c0c0ac7d3a8d21b750efe",
+      "size_bytes": 122181,
+      "symbol": "ADA",
       "timeframe": "1D",
       "type": "ohlcv"
     },
     {
-      "name": "AVAXUSDT_4H.png",
-      "sha256": "86c6cb6f0fe805ccf481a90d95baf540096c90a28201c05c8d5f4496780a6b3c",
-      "size_bytes": 63299,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_4H.png",
+      "sha256": "9f894377aeff673564f6ff8817426e7802557ca9b9bfe046f4e6fe38cb9df754",
+      "size_bytes": 64939,
+      "symbol": "ADA",
       "timeframe": "4H",
       "type": "raw_chart"
     },
     {
-      "name": "AVAXUSDT_4H_fvg.json",
-      "sha256": "f4eb2e3569708194fd41e9bde62d34e42d44f8898389c2929ddbf1cbccdc868a",
-      "size_bytes": 4633,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_4H_fvg.json",
+      "sha256": "e3986bac43276dd4f370a64f1f59ff08b7e44e54b8744e615209d7c671f92658",
+      "size_bytes": 4676,
+      "symbol": "ADA",
       "timeframe": "4H",
       "type": "fvg"
     },
     {
-      "name": "AVAXUSDT_4H_ob.json",
-      "sha256": "8adaa452eb8a33713f0f9225f5b5a55a6243f38a5d34579e246f6cb3f2092a78",
-      "size_bytes": 1892,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_4H_ob.json",
+      "sha256": "e1588a2035690b2edcd203e3d2df66a93396ea5733a30ebe7975e66e0f5ce5e6",
+      "size_bytes": 1918,
+      "symbol": "ADA",
       "timeframe": "4H",
       "type": "ob"
     },
     {
-      "name": "AVAXUSDT_4H_ohlcv.json",
-      "sha256": "e8b4058a06ae1ff516419f91a52664ecfa3f30c68704b54ae488e15bc176975a",
-      "size_bytes": 119049,
-      "symbol": "AVAX",
+      "name": "ADAUSDT_4H_ohlcv.json",
+      "sha256": "91b9bf721b052101037f5e6907f17e93b680d77f97a8e996807732c685139373",
+      "size_bytes": 121934,
+      "symbol": "ADA",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "AMZN_1D.png",
+      "sha256": "afe6854064228e8b9c7d00a7b4243be96f32fd176753508b02ffc73e4b73cf0e",
+      "size_bytes": 65702,
+      "symbol": "AMZN",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "AMZN_1D_fvg.json",
+      "sha256": "2ff9f6107652833014650f9fe6816547b54bf11d606f18aeddcc9effd5e1e4ec",
+      "size_bytes": 5088,
+      "symbol": "AMZN",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "AMZN_1D_ob.json",
+      "sha256": "c4fcac0a1bd6b30c4ac9b0a7f873645388fa654a1d736bd7520021bbd56fa024",
+      "size_bytes": 800,
+      "symbol": "AMZN",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "AMZN_1D_ohlcv.json",
+      "sha256": "c2a9db0915f921612e4a28980923c682a8c94d4a5c3579fb75b51988fb41317c",
+      "size_bytes": 143394,
+      "symbol": "AMZN",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "AMZN_4H.png",
+      "sha256": "37f72fca23e865a475bc57c5fd2b23483f8ede39e026e35b6053cf2dbd78c8a6",
+      "size_bytes": 66474,
+      "symbol": "AMZN",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "AMZN_4H_fvg.json",
+      "sha256": "2db48431f1076176d4a96a819faf47a7fb23d1d6b5a6a1581268b34b25060c78",
+      "size_bytes": 5103,
+      "symbol": "AMZN",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "AMZN_4H_ob.json",
+      "sha256": "e1184d2f5d74c0eb890f79a3a247b8b9bc3f767cb0282f91f4849d878188c650",
+      "size_bytes": 1638,
+      "symbol": "AMZN",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "AMZN_4H_ohlcv.json",
+      "sha256": "c5ce3741c7d756b615752a40c1038434684b637f053e77f4440db0e1d1439f9b",
+      "size_bytes": 143228,
+      "symbol": "AMZN",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "BTCUSDT_1D.png",
+      "sha256": "cab1924dfad36ec2f33ddfa254581ef7f08c620f82ffa0eb62c7bdbcb610bab7",
+      "size_bytes": 65468,
+      "symbol": "BTC",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "BTCUSDT_1D_fvg.json",
+      "sha256": "6b3d10e42356d9a76a039270e330fbe330701e935e99b28d4bc4d0fe3574e8aa",
+      "size_bytes": 4711,
+      "symbol": "BTC",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "BTCUSDT_1D_ob.json",
+      "sha256": "60e5a7e55e4940e52e2338ff6d4c78e03f3b5637f2b8bb43e9164346ff3f8a05",
+      "size_bytes": 1526,
+      "symbol": "BTC",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "BTCUSDT_1D_ohlcv.json",
+      "sha256": "b8b04bdc61d07fad6afd1c06837d08d97467b8ddac09ee688fee0aab36251689",
+      "size_bytes": 124397,
+      "symbol": "BTC",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "BTCUSDT_4H.png",
+      "sha256": "7c45ab50c62713f92fac5df9216f7c11f3ea0b526003f175cbf08fe49cc8bf96",
+      "size_bytes": 61199,
+      "symbol": "BTC",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "BTCUSDT_4H_fvg.json",
+      "sha256": "5fa2c1186f81d1e12d1f4770c04978121a6bda9b01143ea8435291019c596101",
+      "size_bytes": 4708,
+      "symbol": "BTC",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "BTCUSDT_4H_ob.json",
+      "sha256": "3b13db40695a655add9728402ada80f161a7c9d7aac12aa1b3ada0f67b609fba",
+      "size_bytes": 2102,
+      "symbol": "BTC",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "BTCUSDT_4H_ohlcv.json",
+      "sha256": "a320cdbb33afd2db195ce5756d99ad6339df784845a47714a2f37044e386235f",
+      "size_bytes": 123198,
+      "symbol": "BTC",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "COIN_1D.png",
+      "sha256": "5e77c30fd99bf79afb493c4d022163568aa25a6eeea908012d09c344fe7aad2a",
+      "size_bytes": 62750,
+      "symbol": "COIN",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "COIN_1D_fvg.json",
+      "sha256": "0424e0644dbc95f6f0a5c60849f77c4707e038e0257c5948940be6c0021a7394",
+      "size_bytes": 5081,
+      "symbol": "COIN",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "COIN_1D_ob.json",
+      "sha256": "f8856c888e0983a153c4640ca87b89c93b33d3dd2622aec0d00b52e6c788fc78",
+      "size_bytes": 2495,
+      "symbol": "COIN",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "COIN_1D_ohlcv.json",
+      "sha256": "845e1582b6653bb82f9e49b0982d358bf82928184f63c02a4ff99d74929cbec6",
+      "size_bytes": 141659,
+      "symbol": "COIN",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "COIN_4H.png",
+      "sha256": "b63f1f10ad77a6dd0ff1dc3ddd4e074e7306d5c85e77ce9f6490f241c810e4cc",
+      "size_bytes": 69244,
+      "symbol": "COIN",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "COIN_4H_fvg.json",
+      "sha256": "5bbd1730d8a9b90e8f0d6137cb2f0649995aaa89aee3cc4d62cc626a326a52f6",
+      "size_bytes": 5109,
+      "symbol": "COIN",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "COIN_4H_ob.json",
+      "sha256": "734d5a99cf1856871dac6e1b7d0fdac606cd41951dd3917450cc04e76f2ce299",
+      "size_bytes": 2512,
+      "symbol": "COIN",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "COIN_4H_ohlcv.json",
+      "sha256": "80a30db579a29f306dde9f303f58d37b74a4c9bbf0004faf91d7d8f2b2ceaca1",
+      "size_bytes": 142497,
+      "symbol": "COIN",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "DOGEUSDT_1D.png",
+      "sha256": "7a1fe0263700ebdf8afab609abcff7b9fdd4f89bdabc7173edc5288fa234f076",
+      "size_bytes": 65880,
+      "symbol": "DOGE",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "DOGEUSDT_1D_fvg.json",
+      "sha256": "784f9d2f5fbb11f814fe2304936836b97ab534e481a5ae5affe93957a5e92096",
+      "size_bytes": 4712,
+      "symbol": "DOGE",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "DOGEUSDT_1D_ob.json",
+      "sha256": "b2e799b9bd22692cb6e6cc5725267b9d34483a4bcbcac455ba3561572cdebfcb",
+      "size_bytes": 2134,
+      "symbol": "DOGE",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "DOGEUSDT_1D_ohlcv.json",
+      "sha256": "6ef3e94e6fb97d3e5bf4b519eb1e05105560a2bb39afd467cef40dfece474c16",
+      "size_bytes": 124621,
+      "symbol": "DOGE",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "DOGEUSDT_4H.png",
+      "sha256": "5767ef8e32e91b3bb36e83ff8dfab586b37f73f98c5bc63999e4cd915fc9f897",
+      "size_bytes": 60883,
+      "symbol": "DOGE",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "DOGEUSDT_4H_fvg.json",
+      "sha256": "da006a555536cb955fb7d7dd25acfd5a29c1cb0d045df63bb97ed3e8deb03b6e",
+      "size_bytes": 4718,
+      "symbol": "DOGE",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "DOGEUSDT_4H_ob.json",
+      "sha256": "73b0769ef0aea6b9b53baf00748af6be2f2b325c604419ba45f9f2eeda1221f8",
+      "size_bytes": 1383,
+      "symbol": "DOGE",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "DOGEUSDT_4H_ohlcv.json",
+      "sha256": "0366c7f502ead9b875ef840c3b00871788c19d2c658cd468a79160f1d618b7fd",
+      "size_bytes": 124171,
+      "symbol": "DOGE",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "ETHUSDT_1D.png",
+      "sha256": "210ae59281ad8b375ffd5013c50e323d45cedc528149f1e42d6daa518a122500",
+      "size_bytes": 65332,
+      "symbol": "ETH",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "ETHUSDT_1D_fvg.json",
+      "sha256": "b157aed446c40e96ab4973d6062501e0cdd0f059615740f5b6b9a1b011b19732",
+      "size_bytes": 4702,
+      "symbol": "ETH",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "ETHUSDT_1D_ob.json",
+      "sha256": "0a631cd16d5493d0ecfdc0663db426fcd0a661c81a58620593b8e87c863dfdd7",
+      "size_bytes": 1538,
+      "symbol": "ETH",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "ETHUSDT_1D_ohlcv.json",
+      "sha256": "b233ae64d80026c21893446e442b6f1a7b1e8b6a0027796123309d14d5945772",
+      "size_bytes": 123803,
+      "symbol": "ETH",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "ETHUSDT_4H.png",
+      "sha256": "f987214b26bb104b583017cff744ee385215213b375953a2ba7cddd40cc40466",
+      "size_bytes": 56427,
+      "symbol": "ETH",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "ETHUSDT_4H_fvg.json",
+      "sha256": "a3e220c146d1724c4e4edc1e3120faf53debe4959fd76b1944387bd65acca033",
+      "size_bytes": 4720,
+      "symbol": "ETH",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "ETHUSDT_4H_ob.json",
+      "sha256": "fc3bc751da44bdc4c1ed60696d54b4147e32ad31b56813afc6bf7beb43d37834",
+      "size_bytes": 1928,
+      "symbol": "ETH",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "ETHUSDT_4H_ohlcv.json",
+      "sha256": "7a45fe0c8ffadd5ee13277c389719cca909360e32f471bb3a38e9b9e32cad052",
+      "size_bytes": 123491,
+      "symbol": "ETH",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "GOOGL_1D.png",
+      "sha256": "09dcddfe8d4fd46e2857364b66d1c5ac077577601d4d6b6960d1c148b65638b9",
+      "size_bytes": 65286,
+      "symbol": "GOOGL",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "GOOGL_1D_fvg.json",
+      "sha256": "3f66d910c50709ab60296946c537f3837458a29d599088a89cb5c19ddcd13565",
+      "size_bytes": 5053,
+      "symbol": "GOOGL",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "GOOGL_1D_ob.json",
+      "sha256": "5edc9847761ef499bd84705b966d062a5230bf7565c83a77ab4ca58bd3226059",
+      "size_bytes": 2714,
+      "symbol": "GOOGL",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "GOOGL_1D_ohlcv.json",
+      "sha256": "84006ebe68d29225378683a30ca37f63ce834ebf2a0c5153bc7ab9e9dc0ef7ec",
+      "size_bytes": 143115,
+      "symbol": "GOOGL",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "GOOGL_4H.png",
+      "sha256": "c82704d41c776cedd7512ea76b8430e5456c783928e71b0c0ad557831211deea",
+      "size_bytes": 65709,
+      "symbol": "GOOGL",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "GOOGL_4H_fvg.json",
+      "sha256": "de183d87f08834eb0c68f093af766477562ba0bec6ccd76f096b911e1f54d9a4",
+      "size_bytes": 5064,
+      "symbol": "GOOGL",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "GOOGL_4H_ob.json",
+      "sha256": "38c31b4ddc81c04b2671ce2b1d378c73a17654a2bc7982bf51bf89a85d99fd0a",
+      "size_bytes": 2077,
+      "symbol": "GOOGL",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "GOOGL_4H_ohlcv.json",
+      "sha256": "53374613c487356988bd7e6b3bf057b4bac5b31e9931d13a64c39b7a37bd661f",
+      "size_bytes": 142753,
+      "symbol": "GOOGL",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "LINKUSDT_1D.png",
+      "sha256": "4ce9fccd95ee95f74e837bc1bbfd8302e7f81478640ca7d855d9fe007afdcdf3",
+      "size_bytes": 67439,
+      "symbol": "LINK",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "LINKUSDT_1D_fvg.json",
+      "sha256": "d25d9b087ab5ecb86c2012df6d5045263c80cf053bed6c60dfb0b0a4a3b31a70",
+      "size_bytes": 4641,
+      "symbol": "LINK",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "LINKUSDT_1D_ob.json",
+      "sha256": "ed0dd719d1e6a1483fff7ed4803cddf404e5afe62875b22a51a578c0bd91150a",
+      "size_bytes": 1714,
+      "symbol": "LINK",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "LINKUSDT_1D_ohlcv.json",
+      "sha256": "8fac3341760499341dc980dea414b7d868e65c142b8b8d9d6c522d4589a3f156",
+      "size_bytes": 121188,
+      "symbol": "LINK",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "LINKUSDT_4H.png",
+      "sha256": "cef1c53d746114561cdcc69a7997361ac6d40a4bfd24cf64da7b994f66480b9a",
+      "size_bytes": 62126,
+      "symbol": "LINK",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "LINKUSDT_4H_fvg.json",
+      "sha256": "559f66e02a89b257c3d58801ac359d289fe5b640b38a49f2461a7bdc379b5893",
+      "size_bytes": 4642,
+      "symbol": "LINK",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "LINKUSDT_4H_ob.json",
+      "sha256": "70a54d4eca15e173d7d0c6b4e32defadb2956a706cf65e3431ab421ef9ebb685",
+      "size_bytes": 1896,
+      "symbol": "LINK",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "LINKUSDT_4H_ohlcv.json",
+      "sha256": "75162a2f74282a7c3c6f419064071aaa99e7f8bb402ecea16b836ba642d63e7f",
+      "size_bytes": 119555,
+      "symbol": "LINK",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "META_1D.png",
+      "sha256": "60f5b9cc5e8a59a97563761bd2f3c2df41e564d05eae2d7fb476e79eee801454",
+      "size_bytes": 62754,
+      "symbol": "META",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "META_1D_fvg.json",
+      "sha256": "34770df647e3814b97df7b35b7c0a692c650dd39824e84daedc02debcaeaa837",
+      "size_bytes": 5000,
+      "symbol": "META",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "META_1D_ob.json",
+      "sha256": "6f44af30c4590f3498c9358c782641986a476c717cee5caa8fa556a861383a05",
+      "size_bytes": 1630,
+      "symbol": "META",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "META_1D_ohlcv.json",
+      "sha256": "9df381a94721e2767ff19be65edf5f1d13314682907103bdfa0633891a869e60",
+      "size_bytes": 140036,
+      "symbol": "META",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "META_4H.png",
+      "sha256": "de09b9d4ab06b9580827c78f1821c6dc1885155cff09503c33d6d020665f9bdd",
+      "size_bytes": 61616,
+      "symbol": "META",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "META_4H_fvg.json",
+      "sha256": "b5e03dfa3416c3daa2a1738a40c92cea2bb72b49bc60decb779098f544bb3d34",
+      "size_bytes": 5017,
+      "symbol": "META",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "META_4H_ob.json",
+      "sha256": "e80f7dea2f66a753a172d2cc7aa221f1c04bf59aff3cc2bb1694290c61032ac6",
+      "size_bytes": 1625,
+      "symbol": "META",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "META_4H_ohlcv.json",
+      "sha256": "7f7772211a6194d7ad0135fd4568bfd69e8ac63d5390d52b7946b127c60301ca",
+      "size_bytes": 140551,
+      "symbol": "META",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "MSFT_1D.png",
+      "sha256": "0cade9b3fd6cba343a8286f7de9b7b8482d7d8a10ef93d584069c8058caed39d",
+      "size_bytes": 60690,
+      "symbol": "MSFT",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "MSFT_1D_fvg.json",
+      "sha256": "0844e8e3054d619e8464f09ded860c0745b13ea10bde642737ed5a912f9d0c16",
+      "size_bytes": 5086,
+      "symbol": "MSFT",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "MSFT_1D_ob.json",
+      "sha256": "f481a902be9be751dff1837cd378f10db9563d0419bc1709f27b0145f8dfa4b0",
+      "size_bytes": 1650,
+      "symbol": "MSFT",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "MSFT_1D_ohlcv.json",
+      "sha256": "f12bb9ca7b95d1c070d074197ad70b8d1e7cb219718b1bcfdde13ccdb0171249",
+      "size_bytes": 142210,
+      "symbol": "MSFT",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "MSFT_4H.png",
+      "sha256": "54aa3502e9bf19fa71477691c95c2c62c665156d2a0fc4ba9c586190de5384cd",
+      "size_bytes": 67180,
+      "symbol": "MSFT",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "MSFT_4H_fvg.json",
+      "sha256": "b2154ca5cd190bfe977a1b88ab3307d62fe386c389291c533243d379c7815268",
+      "size_bytes": 5065,
+      "symbol": "MSFT",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "MSFT_4H_ob.json",
+      "sha256": "c9689806988a4c6def5a8b43a8afb2eb6297b629d62ce72e5822bf7bacadefb1",
+      "size_bytes": 2472,
+      "symbol": "MSFT",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "MSFT_4H_ohlcv.json",
+      "sha256": "cc60559b7e4519ebaea0b9a991fc13fcd12bc88a147c92b41cc81daf443167a7",
+      "size_bytes": 142232,
+      "symbol": "MSFT",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "NEARUSDT_1D.png",
+      "sha256": "f61ba707b6a428e8fda79de87647e647a42c37bf111681d837696717e9f26ff4",
+      "size_bytes": 61914,
+      "symbol": "NEAR",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "NEARUSDT_1D_fvg.json",
+      "sha256": "24051926c92de1a5082cdf9c37bad6ba93c918cbee36e74c460c8ead895317da",
+      "size_bytes": 4636,
+      "symbol": "NEAR",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "NEARUSDT_1D_ob.json",
+      "sha256": "63a6ed56ce27c19a554f7b05e23d8fa4d4dc67c2a314c462a0cdf96bab33ba66",
+      "size_bytes": 2491,
+      "symbol": "NEAR",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "NEARUSDT_1D_ohlcv.json",
+      "sha256": "59540b9e509b84a89b479ef99bab80c2a42980114780c6966901920e6267e7f9",
+      "size_bytes": 119676,
+      "symbol": "NEAR",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "NEARUSDT_4H.png",
+      "sha256": "0b4597e4ed17edf73a0448c2df827c6fffcba179cb18a041464c26619a55149e",
+      "size_bytes": 63356,
+      "symbol": "NEAR",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "NEARUSDT_4H_fvg.json",
+      "sha256": "8f7deba3750840ac71c20748e27d196f6112e75680faa6dea507c4f592c72d79",
+      "size_bytes": 4645,
+      "symbol": "NEAR",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "NEARUSDT_4H_ob.json",
+      "sha256": "a31398aa11505d381199a7d18c4ca712b9ed2d0eb41a1543645f9a9d237d7303",
+      "size_bytes": 2110,
+      "symbol": "NEAR",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "NEARUSDT_4H_ohlcv.json",
+      "sha256": "349bf45921276da02a3ca5910b5b9f46c859b8ff3e18266e531e06958314bcf1",
+      "size_bytes": 119361,
+      "symbol": "NEAR",
       "timeframe": "4H",
       "type": "ohlcv"
     },
@@ -76,7 +716,7 @@
     },
     {
       "name": "NVDA_1D_fvg.json",
-      "sha256": "ab23a3a893f3a237fea53ad8b81717f4027330816495058f4590425ff5d0875c",
+      "sha256": "6952e487555510188d4d29bb602bf35424088c775a0025c5478a41457bed13c1",
       "size_bytes": 5048,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -84,7 +724,7 @@
     },
     {
       "name": "NVDA_1D_ob.json",
-      "sha256": "1db05c35442fd5fbaf38752a728185c54baa9c709435cf1895426b4c059b7160",
+      "sha256": "a89abc8683c7b7756c9a93b6b6fe9d35932073fd73c554de2115e18e7c22e58e",
       "size_bytes": 1229,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -92,7 +732,7 @@
     },
     {
       "name": "NVDA_1D_ohlcv.json",
-      "sha256": "a03bd9f175b0146416ac2a73cb378641e05ec173fac7be0eca7b82dd4184019a",
+      "sha256": "328a1964e02eef99c4204f60dba3a3f1500835317ea09eb882a88ae014ff6061",
       "size_bytes": 143864,
       "symbol": "NVDA",
       "timeframe": "1D",
@@ -108,7 +748,7 @@
     },
     {
       "name": "NVDA_4H_fvg.json",
-      "sha256": "7683a840a4bb625ad7f2b380f59b120ddd78cecb0a8695dd08d3f589ab8e90c7",
+      "sha256": "a02141615d098ee76dc59b162b6eb29c80a26c096195cd480b762e5fd1c42a1f",
       "size_bytes": 5110,
       "symbol": "NVDA",
       "timeframe": "4H",
@@ -116,7 +756,7 @@
     },
     {
       "name": "NVDA_4H_ob.json",
-      "sha256": "69d19d90f1cb378582e38ef0cd866c331a853f999720bb13f74b496cff61079d",
+      "sha256": "5295b8feb8af6a6a85173b15f77c5e67b6897ea555210899f0cc9e6ffbfa9a8c",
       "size_bytes": 1869,
       "symbol": "NVDA",
       "timeframe": "4H",
@@ -124,64 +764,320 @@
     },
     {
       "name": "NVDA_4H_ohlcv.json",
-      "sha256": "42728d11cf215e2e21324a4f39621f1e94eb2ef23ab2f304ace09257317d426c",
+      "sha256": "ae3eedd70764bd470a6fce093c82901f70b9e6698b4c08fb2b7a1b3005cff0a9",
       "size_bytes": 143711,
       "symbol": "NVDA",
       "timeframe": "4H",
       "type": "ohlcv"
     },
     {
+      "name": "PLTR_1D.png",
+      "sha256": "6295189846420ef150a4eef73ab288530cdc23a3880d224e7d708de01b33dfb6",
+      "size_bytes": 64462,
+      "symbol": "PLTR",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "PLTR_1D_fvg.json",
+      "sha256": "78c1aa5c17456b4987037ea46bb6b0431d5c4c7f640a93bc8f5040de3aff1c3e",
+      "size_bytes": 5107,
+      "symbol": "PLTR",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "PLTR_1D_ob.json",
+      "sha256": "6353b7b4d05f22cae3d5c5771eea288e0d2190f06535ebec27605e9789e47c2b",
+      "size_bytes": 2278,
+      "symbol": "PLTR",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "PLTR_1D_ohlcv.json",
+      "sha256": "90181ed3cba9e1c48c05f9548cc4c44e740dfa0ea33c62130e906068d11c8522",
+      "size_bytes": 143481,
+      "symbol": "PLTR",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "PLTR_4H.png",
+      "sha256": "47f22a0294439646ad337ce0486b07a184607efb67a7b478959fc1b79701050d",
+      "size_bytes": 67045,
+      "symbol": "PLTR",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "PLTR_4H_fvg.json",
+      "sha256": "e8ee62289ba04142d54b712bd69dfae531a5ad64665405cc9e86fc201ba71745",
+      "size_bytes": 5076,
+      "symbol": "PLTR",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "PLTR_4H_ob.json",
+      "sha256": "fe912c379233f7ea32354712deca209ce01656d160902dadf4d1fd436263a703",
+      "size_bytes": 2051,
+      "symbol": "PLTR",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "PLTR_4H_ohlcv.json",
+      "sha256": "6ba2dc93460fd95a7748a5ef15fe80c827706330c59e713bc546eb3133afed3e",
+      "size_bytes": 143809,
+      "symbol": "PLTR",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "SOLUSDT_1D.png",
+      "sha256": "78e504dd846d7c48a092cf3bf3d25bc22cdc5d8fd03d91847e6a2da8e65c24ae",
+      "size_bytes": 67035,
+      "symbol": "SOL",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "SOLUSDT_1D_fvg.json",
+      "sha256": "ac11e2bbd9e32bebaf9664c747776a44d379556e619a677598e7118cd0342312",
+      "size_bytes": 4637,
+      "symbol": "SOL",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "SOLUSDT_1D_ob.json",
+      "sha256": "e610abe6b287d74e632f27d31b70d7ed9e09074b7ed3d607114e8e192d6f20e6",
+      "size_bytes": 765,
+      "symbol": "SOL",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "SOLUSDT_1D_ohlcv.json",
+      "sha256": "48a9dc4a927be9f1c56f56a1dc607b8eef720da226b607ea21b19063ad153639",
+      "size_bytes": 121190,
+      "symbol": "SOL",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "SOLUSDT_4H.png",
+      "sha256": "b9b65f081ae13c81c25526ca6b16c5ef18c540739a0766800e1cf06044b4b852",
+      "size_bytes": 62343,
+      "symbol": "SOL",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "SOLUSDT_4H_fvg.json",
+      "sha256": "fded6b3d6c8cfd2fcdc1c9cf95bc9a7cb7a36c7d3b9af2a0430fc0db3c9d99df",
+      "size_bytes": 4631,
+      "symbol": "SOL",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "SOLUSDT_4H_ob.json",
+      "sha256": "f0861fa8eb435e65609f87f83cf590833ad530455b9c298d60799d43a0f3821b",
+      "size_bytes": 1910,
+      "symbol": "SOL",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "SOLUSDT_4H_ohlcv.json",
+      "sha256": "a679aba35e9a47b475cd5cdd8126f71075673cb71a29add3c8f104b2b9a59c89",
+      "size_bytes": 119569,
+      "symbol": "SOL",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "TSLA_1D.png",
+      "sha256": "dc19cd2491558f126e26bed4cab990f83c1258d8656591ffedf959fd7c4a2abb",
+      "size_bytes": 61921,
+      "symbol": "TSLA",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "TSLA_1D_fvg.json",
+      "sha256": "f6168331e06c9e6d1641d8aba4146a85d76def19e868f92378340cdf4fe9997b",
+      "size_bytes": 5094,
+      "symbol": "TSLA",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "TSLA_1D_ob.json",
+      "sha256": "478355fc4eb3a2e1b1914a8e2be86279d2ee9f1f5f34316c796f71a2cf3f3c1c",
+      "size_bytes": 1002,
+      "symbol": "TSLA",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "TSLA_1D_ohlcv.json",
+      "sha256": "9f1ba6f6f143c123b1388fa79bb27d6801374f896b34003083456e9e651bc366",
+      "size_bytes": 142202,
+      "symbol": "TSLA",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "TSLA_4H.png",
+      "sha256": "7d346e3db35bb34b3646716289cd0f1f591379a742e98766e43ff6e9c66d6cae",
+      "size_bytes": 70169,
+      "symbol": "TSLA",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "TSLA_4H_fvg.json",
+      "sha256": "d46d8fc7a6c8e99952af9998eabbf2995c727715686b4f6b3e0f8df77476fb10",
+      "size_bytes": 5130,
+      "symbol": "TSLA",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "TSLA_4H_ob.json",
+      "sha256": "bc6fdc2dd6e0c4841b28fd4bf8f2b19cc323f99d8c3744e7a9f8af6e222b31a5",
+      "size_bytes": 2911,
+      "symbol": "TSLA",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "TSLA_4H_ohlcv.json",
+      "sha256": "01bde55093e400ab377ecefcbe7f2305b13041fefe5c9a26a8439e2eac4208a2",
+      "size_bytes": 142544,
+      "symbol": "TSLA",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
+      "name": "XRPUSDT_1D.png",
+      "sha256": "086862b31e4bd8315d1f85330a024ec4db996b754d2c76a7e14f1f4772835db2",
+      "size_bytes": 59803,
+      "symbol": "XRP",
+      "timeframe": "1D",
+      "type": "raw_chart"
+    },
+    {
+      "name": "XRPUSDT_1D_fvg.json",
+      "sha256": "f549f192ea028d1471cf235b8870e06d2b9479dd64eaa3e46178d81cfa292ad3",
+      "size_bytes": 4671,
+      "symbol": "XRP",
+      "timeframe": "1D",
+      "type": "fvg"
+    },
+    {
+      "name": "XRPUSDT_1D_ob.json",
+      "sha256": "07d735c9711b0b77c78591976d80236e9657f20ede2e71912e43c8bfb54c43d2",
+      "size_bytes": 1918,
+      "symbol": "XRP",
+      "timeframe": "1D",
+      "type": "ob"
+    },
+    {
+      "name": "XRPUSDT_1D_ohlcv.json",
+      "sha256": "7c5873a683ee75b16c427999283cf93b0a5856115b629822c07415ff28810014",
+      "size_bytes": 122113,
+      "symbol": "XRP",
+      "timeframe": "1D",
+      "type": "ohlcv"
+    },
+    {
+      "name": "XRPUSDT_4H.png",
+      "sha256": "9ac0d8b67428119fb37a3576a440e26b97933453f245f7377ec18600f99c0791",
+      "size_bytes": 61102,
+      "symbol": "XRP",
+      "timeframe": "4H",
+      "type": "raw_chart"
+    },
+    {
+      "name": "XRPUSDT_4H_fvg.json",
+      "sha256": "5dc572187a14301332009ba36ac715da53001dceb67236eea1394101e8bb0fe3",
+      "size_bytes": 4656,
+      "symbol": "XRP",
+      "timeframe": "4H",
+      "type": "fvg"
+    },
+    {
+      "name": "XRPUSDT_4H_ob.json",
+      "sha256": "f24242db081d2632455542b8a00c1ff3c0abfbfaa892436602e4f51f88675742",
+      "size_bytes": 1701,
+      "symbol": "XRP",
+      "timeframe": "4H",
+      "type": "ob"
+    },
+    {
+      "name": "XRPUSDT_4H_ohlcv.json",
+      "sha256": "a935b3cfc85af9cb03f4ee2088c785573d000a895d405ad7029e4ba01f9c7130",
+      "size_bytes": 121709,
+      "symbol": "XRP",
+      "timeframe": "4H",
+      "type": "ohlcv"
+    },
+    {
       "name": "vision_bundle_1D.pdf",
-      "sha256": "08ad5687a45d9a1a8ef86dee85000d48b3e9fb429c844ca95a9f39415eb1c652",
-      "size_bytes": 300718,
+      "sha256": "0f27f3565baba994bbef6e65ce83ea67786946ceaa39eb7ffeaaf54f2dd3c58b",
+      "size_bytes": 2348912,
       "symbol": "BUNDLE",
       "timeframe": "1D",
       "type": "vision_bundle"
     },
     {
       "name": "vision_bundle_4H.pdf",
-      "sha256": "58205fdd0b7c4977b84034377277b948e6392f053e3be7afbaa6f964e4d7f0f4",
-      "size_bytes": 291894,
+      "sha256": "b271a6ab1fe28cb0b37f206cde53b70ac614378790d22050e1d512f60e9bba45",
+      "size_bytes": 2169295,
       "symbol": "BUNDLE",
       "timeframe": "4H",
       "type": "vision_bundle"
     }
   ],
-  "generated_at_utc": "2026-08-22T14:50:50.758267Z",
-  "manifest_sha256": "f66fb5926517f52c0c784b1dec656d2d8305c137d5b57b0024abef7064bb2d66",
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "manifest_sha256": "2fec48a5e2c17d6668f7897b74e61fd515c8221b84e0ee5348c0c0836f8528a1",
   "manifest_version": "2.0",
   "markets": {
-    "AVAX": {
+    "ADA": {
       "analysis_source": "BINANCE_USDT_M_FUTURES",
-      "analysis_symbol": "AVAXUSDT",
+      "analysis_symbol": "ADAUSDT",
       "asset_class": "CRYPTO",
-      "canonical_symbol": "AVAX",
-      "execution_contract_value": 1.0,
-      "execution_contract_value_currency": "AVAX",
-      "execution_inst_id": "AVAX-USDT-SWAP",
+      "canonical_symbol": "ADA",
+      "execution_contract_value": 100.0,
+      "execution_contract_value_currency": "ADA",
+      "execution_inst_id": "ADA-USDT-SWAP",
       "execution_inst_type": "SWAP",
       "execution_lot_size": 0.1,
       "execution_min_size": 0.1,
-      "execution_reference_price": 7.454,
-      "execution_reference_time_utc": "2026-08-22T14:50:59.269000Z",
-      "execution_tick_size": 0.001,
+      "execution_reference_price": 0.2259,
+      "execution_reference_time_utc": "2026-08-23T00:23:52.262000Z",
+      "execution_tick_size": 0.0001,
       "frames": {
         "1D": {
           "closed_count": 499,
           "has_current_candle": true,
           "history_fetch": {
-            "cache_count": 500,
-            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__AVAXUSDT__1D.json",
-            "inserted_candles": 0,
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ADAUSDT__1D.json",
+            "inserted_candles": 1,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 3,
+            "received_candles": 4,
             "requested_start_time_utc": "2026-08-20T00:00:00Z",
             "revised_candles": 1
           },
-          "last_closed_candle_open_time_utc": "2026-08-21T00:00:00Z",
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
           "source": "BINANCE_USDT_M_FUTURES",
-          "source_symbol": "AVAXUSDT",
+          "source_symbol": "ADAUSDT",
           "stale": false,
           "timeframe": "1D"
         },
@@ -189,23 +1085,583 @@
           "closed_count": 499,
           "has_current_candle": true,
           "history_fetch": {
-            "cache_count": 500,
-            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__AVAXUSDT__4H.json",
-            "inserted_candles": 0,
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ADAUSDT__4H.json",
+            "inserted_candles": 3,
             "mode": "INCREMENTAL",
             "overlap_candles": 2,
-            "received_candles": 3,
+            "received_candles": 6,
             "requested_start_time_utc": "2026-08-22T04:00:00Z",
             "revised_candles": 1
           },
-          "last_closed_candle_open_time_utc": "2026-08-22T08:00:00Z",
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
           "source": "BINANCE_USDT_M_FUTURES",
-          "source_symbol": "AVAXUSDT",
+          "source_symbol": "ADAUSDT",
           "stale": false,
           "timeframe": "4H"
         }
       },
-      "raw_query": "AVAX"
+      "raw_query": "ADA"
+    },
+    "AMZN": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "AMZN",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "AMZN",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "AMZN",
+      "execution_inst_id": "AMZN-USD_UM_XPERP-310613",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 258.84,
+      "execution_reference_time_utc": "2026-08-23T00:23:53.071000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__AMZN__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "AMZN",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__AMZN__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "AMZN",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "AMZN"
+    },
+    "BTC": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "BTCUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "BTC",
+      "execution_contract_value": 0.01,
+      "execution_contract_value_currency": "BTC",
+      "execution_inst_id": "BTC-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 77139.7,
+      "execution_reference_time_utc": "2026-08-23T00:23:49.660000Z",
+      "execution_tick_size": 0.1,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__BTCUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "BTCUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__BTCUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "BTCUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "BTC"
+    },
+    "COIN": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "COIN",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "COIN",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "COIN",
+      "execution_inst_id": "COIN-USD_UM_XPERP-310801",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 185.15,
+      "execution_reference_time_utc": "2026-08-23T00:23:55.468000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__COIN__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "COIN",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__COIN__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "COIN",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "COIN"
+    },
+    "DOGE": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "DOGEUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "DOGE",
+      "execution_contract_value": 1000.0,
+      "execution_contract_value_currency": "DOGE",
+      "execution_inst_id": "DOGE-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 0.0922,
+      "execution_reference_time_utc": "2026-08-23T00:23:50.771000Z",
+      "execution_tick_size": 1e-05,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__DOGEUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "DOGEUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__DOGEUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "DOGEUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "DOGE"
+    },
+    "ETH": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "ETHUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "ETH",
+      "execution_contract_value": 0.1,
+      "execution_contract_value_currency": "ETH",
+      "execution_inst_id": "ETH-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 2423.89,
+      "execution_reference_time_utc": "2026-08-23T00:23:49.862000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ETHUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "ETHUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__ETHUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "ETHUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "ETH"
+    },
+    "GOOGL": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "GOOGL",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "GOOGL",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "GOOGL",
+      "execution_inst_id": "GOOGL-USD_UM_XPERP-310613",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 344.45,
+      "execution_reference_time_utc": "2026-08-23T00:23:54.867000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__GOOGL__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "GOOGL",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__GOOGL__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "GOOGL",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "GOOGL"
+    },
+    "LINK": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "LINKUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "LINK",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "LINK",
+      "execution_inst_id": "LINK-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.1,
+      "execution_min_size": 0.1,
+      "execution_reference_price": 11.676,
+      "execution_reference_time_utc": "2026-08-23T00:23:51.267000Z",
+      "execution_tick_size": 0.001,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__LINKUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "LINKUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__LINKUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "LINKUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "LINK"
+    },
+    "META": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "META",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "META",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "META",
+      "execution_inst_id": "META-USD_UM_XPERP-310613",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 550.67,
+      "execution_reference_time_utc": "2026-08-23T00:23:54.367000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__META__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "META",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__META__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "META",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "META"
+    },
+    "MSFT": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "MSFT",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "MSFT",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "MSFT",
+      "execution_inst_id": "MSFT-USD_UM_XPERP-310613",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 482.6,
+      "execution_reference_time_utc": "2026-08-23T00:23:56.068000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__MSFT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "MSFT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__MSFT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "MSFT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "MSFT"
+    },
+    "NEAR": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "NEARUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "NEAR",
+      "execution_contract_value": 10.0,
+      "execution_contract_value_currency": "NEAR",
+      "execution_inst_id": "NEAR-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.1,
+      "execution_min_size": 0.1,
+      "execution_reference_price": 1.894,
+      "execution_reference_time_utc": "2026-08-23T00:23:52.261000Z",
+      "execution_tick_size": 0.001,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__NEARUSDT__1D.json",
+            "inserted_candles": 1,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 4,
+            "requested_start_time_utc": "2026-08-20T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "NEARUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__NEARUSDT__4H.json",
+            "inserted_candles": 3,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 6,
+            "requested_start_time_utc": "2026-08-22T04:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "NEARUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "NEAR"
     },
     "NVDA": {
       "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
@@ -218,8 +1674,8 @@
       "execution_inst_type": "FUTURES",
       "execution_lot_size": 0.01,
       "execution_min_size": 0.01,
-      "execution_reference_price": 215.44,
-      "execution_reference_time_utc": "2026-08-22T14:50:59.065000Z",
+      "execution_reference_price": 216.02,
+      "execution_reference_time_utc": "2026-08-23T00:23:52.036000Z",
       "execution_tick_size": 0.01,
       "frames": {
         "1D": {
@@ -262,18 +1718,256 @@
         }
       },
       "raw_query": "NVDA"
+    },
+    "PLTR": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "PLTR",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "PLTR",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "PLTR",
+      "execution_inst_id": "PLTR-USD_UM_XPERP-310801",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 180.28,
+      "execution_reference_time_utc": "2026-08-23T00:23:54.366000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__PLTR__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "PLTR",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__PLTR__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "PLTR",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "PLTR"
+    },
+    "SOL": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "SOLUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "SOL",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "SOL",
+      "execution_inst_id": "SOL-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 94.07,
+      "execution_reference_time_utc": "2026-08-23T00:23:50.663000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__SOLUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "SOLUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__SOLUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "SOLUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "SOL"
+    },
+    "TSLA": {
+      "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+      "analysis_symbol": "TSLA",
+      "asset_class": "US_STOCK",
+      "canonical_symbol": "TSLA",
+      "execution_contract_value": 1.0,
+      "execution_contract_value_currency": "TSLA",
+      "execution_inst_id": "TSLA-USD_UM_XPERP-310613",
+      "execution_inst_type": "FUTURES",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 362.83,
+      "execution_reference_time_utc": "2026-08-23T00:23:52.069000Z",
+      "execution_tick_size": 0.01,
+      "frames": {
+        "1D": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 501,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__TSLA__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-19T13:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T13:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "TSLA",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 500,
+          "has_current_candle": false,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "US_STOCK__YAHOO_FINANCE_REGULAR_SESSION__TSLA__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 2,
+            "requested_start_time_utc": "2026-08-21T09:30:00Z",
+            "revised_candles": 0
+          },
+          "last_closed_candle_open_time_utc": "2026-08-21T17:30:00Z",
+          "source": "YAHOO_FINANCE_REGULAR_SESSION",
+          "source_symbol": "TSLA",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "TSLA"
+    },
+    "XRP": {
+      "analysis_source": "BINANCE_USDT_M_FUTURES",
+      "analysis_symbol": "XRPUSDT",
+      "asset_class": "CRYPTO",
+      "canonical_symbol": "XRP",
+      "execution_contract_value": 100.0,
+      "execution_contract_value_currency": "XRP",
+      "execution_inst_id": "XRP-USDT-SWAP",
+      "execution_inst_type": "SWAP",
+      "execution_lot_size": 0.01,
+      "execution_min_size": 0.01,
+      "execution_reference_price": 1.4856,
+      "execution_reference_time_utc": "2026-08-23T00:23:50.969000Z",
+      "execution_tick_size": 0.0001,
+      "frames": {
+        "1D": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 502,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__XRPUSDT__1D.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-21T00:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "XRPUSDT",
+          "stale": false,
+          "timeframe": "1D"
+        },
+        "4H": {
+          "closed_count": 499,
+          "has_current_candle": true,
+          "history_fetch": {
+            "cache_count": 510,
+            "cache_file": "CRYPTO__BINANCE_USDT_M_FUTURES__XRPUSDT__4H.json",
+            "inserted_candles": 0,
+            "mode": "INCREMENTAL",
+            "overlap_candles": 2,
+            "received_candles": 3,
+            "requested_start_time_utc": "2026-08-22T16:00:00Z",
+            "revised_candles": 1
+          },
+          "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+          "source": "BINANCE_USDT_M_FUTURES",
+          "source_symbol": "XRPUSDT",
+          "stale": false,
+          "timeframe": "4H"
+        }
+      },
+      "raw_query": "XRP"
     }
   },
   "pipeline_version": "2.0",
-  "requested_at_utc": "2026-08-22T14:50:50.757812Z",
+  "requested_at_utc": "2026-08-23T00:23:56.320765Z",
   "required_timeframes": [
     "1D",
     "4H"
   ],
   "status": "SUCCESS",
   "symbols": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "XRP",
+    "DOGE",
+    "LINK",
+    "ADA",
+    "NEAR",
     "NVDA",
-    "AVAX"
+    "TSLA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "PLTR",
+    "COIN",
+    "MSFT"
   ],
-  "trigger": "MANUAL"
+  "trigger": "AUTO"
 }

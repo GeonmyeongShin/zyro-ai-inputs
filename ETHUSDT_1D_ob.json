@@ -1,0 +1,61 @@
+{
+  "analysis_symbol": "ETHUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "conservative_volume_pivot_v1",
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-22T00:00:00Z",
+  "order_blocks": [
+    {
+      "created_at": "2026-08-19T00:00:00Z",
+      "distance_pct": 12.405633,
+      "high": 2121.01,
+      "low": 1905.2,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-14T00:00:00Z",
+      "distance_pct": 24.230197,
+      "high": 1834.69,
+      "low": 1772.52,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-02T00:00:00Z",
+      "distance_pct": 31.421079,
+      "high": 1660.5700000000002,
+      "low": 1596.14,
+      "status": "ACTIVE",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-04-22T00:00:00Z",
+      "distance_pct": 0.0,
+      "high": 2423.0,
+      "low": 2367.205,
+      "status": "TOUCHED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-04-17T00:00:00Z",
+      "distance_pct": 0.0,
+      "high": 2463.86,
+      "low": 2388.9700000000003,
+      "status": "TOUCHED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-01-14T00:00:00Z",
+      "distance_pct": 38.014578,
+      "high": 3403.77,
+      "low": 3341.885,
+      "status": "ACTIVE",
+      "type": "BEARISH"
+    }
+  ],
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "ETHUSDT",
+  "symbol": "ETH",
+  "timeframe": "1D"
+}

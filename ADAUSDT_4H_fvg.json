@@ -1,0 +1,193 @@
+{
+  "analysis_symbol": "ADAUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "created_at": "2026-08-22T00:00:00Z",
+      "distance_pct": 0.088456,
+      "fill_pct": 100.0,
+      "high": 0.2259,
+      "low": 0.2218,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-21T04:00:00Z",
+      "distance_pct": 8.845644,
+      "fill_pct": 0.0,
+      "high": 0.2061,
+      "low": 0.1998,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-20T12:00:00Z",
+      "distance_pct": 16.054843,
+      "fill_pct": 0.0,
+      "high": 0.1898,
+      "low": 0.1847,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-20T00:00:00Z",
+      "distance_pct": 19.548872,
+      "fill_pct": 28.5714,
+      "high": 0.1819,
+      "low": 0.1812,
+      "status": "PARTIAL",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-19T16:00:00Z",
+      "distance_pct": 21.406457,
+      "fill_pct": 0.0,
+      "high": 0.1777,
+      "low": 0.1756,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-17T12:00:00Z",
+      "distance_pct": 22.33525,
+      "fill_pct": 100.0,
+      "high": 0.1756,
+      "low": 0.1754,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-14T12:00:00Z",
+      "distance_pct": 19.85847,
+      "fill_pct": 100.0,
+      "high": 0.1812,
+      "low": 0.1804,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-13T16:00:00Z",
+      "distance_pct": 19.062362,
+      "fill_pct": 100.0,
+      "high": 0.183,
+      "low": 0.1827,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-12T16:00:00Z",
+      "distance_pct": 18.222026,
+      "fill_pct": 100.0,
+      "high": 0.1849,
+      "low": 0.1837,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-11T16:00:00Z",
+      "distance_pct": 17.072092,
+      "fill_pct": 100.0,
+      "high": 0.1875,
+      "low": 0.1865,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-11T00:00:00Z",
+      "distance_pct": 14.949138,
+      "fill_pct": 100.0,
+      "high": 0.1923,
+      "low": 0.1915,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-06T16:00:00Z",
+      "distance_pct": 11.366652,
+      "fill_pct": 100.0,
+      "high": 0.2004,
+      "low": 0.1927,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-06T12:00:00Z",
+      "distance_pct": 15.922158,
+      "fill_pct": 100.0,
+      "high": 0.1901,
+      "low": 0.1891,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-05T16:00:00Z",
+      "distance_pct": 14.595312,
+      "fill_pct": 100.0,
+      "high": 0.1931,
+      "low": 0.1916,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-03T16:00:00Z",
+      "distance_pct": 15.656789,
+      "fill_pct": 100.0,
+      "high": 0.1907,
+      "low": 0.1884,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-02T08:00:00Z",
+      "distance_pct": 18.133569,
+      "fill_pct": 100.0,
+      "high": 0.1851,
+      "low": 0.1807,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-02T04:00:00Z",
+      "distance_pct": 20.477665,
+      "fill_pct": 100.0,
+      "high": 0.1798,
+      "low": 0.1753,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-01T12:00:00Z",
+      "distance_pct": 23.750553,
+      "fill_pct": 100.0,
+      "high": 0.1724,
+      "low": 0.1722,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-30T16:00:00Z",
+      "distance_pct": 24.900487,
+      "fill_pct": 73.3333,
+      "high": 0.1698,
+      "low": 0.1653,
+      "status": "PARTIAL",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-07-30T12:00:00Z",
+      "distance_pct": 27.421495,
+      "fill_pct": 0.0,
+      "high": 0.1641,
+      "low": 0.1636,
+      "status": "OPEN",
+      "type": "BULLISH"
+    }
+  ],
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "ADAUSDT",
+  "symbol": "ADA",
+  "timeframe": "4H"
+}

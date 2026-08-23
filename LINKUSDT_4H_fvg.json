@@ -1,0 +1,193 @@
+{
+  "analysis_symbol": "LINKUSDT",
+  "asset_class": "CRYPTO",
+  "detector": "three_candle_gap_v1",
+  "fvgs": [
+    {
+      "created_at": "2026-08-22T08:00:00Z",
+      "distance_pct": 1.622318,
+      "fill_pct": 100.0,
+      "high": 11.858,
+      "low": 11.839,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-22T00:00:00Z",
+      "distance_pct": 0.291845,
+      "fill_pct": 100.0,
+      "high": 11.858,
+      "low": 11.684,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-21T08:00:00Z",
+      "distance_pct": 3.682403,
+      "fill_pct": 100.0,
+      "high": 11.221,
+      "low": 11.037,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-21T04:00:00Z",
+      "distance_pct": 6.832618,
+      "fill_pct": 100.0,
+      "high": 10.854,
+      "low": 10.716,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-20T00:00:00Z",
+      "distance_pct": 11.072961,
+      "fill_pct": 100.0,
+      "high": 10.36,
+      "low": 10.145,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-19T16:00:00Z",
+      "distance_pct": 15.493562,
+      "fill_pct": 0.0,
+      "high": 9.845,
+      "low": 9.84,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-16T04:00:00Z",
+      "distance_pct": 18.798283,
+      "fill_pct": 100.0,
+      "high": 9.46,
+      "low": 9.406,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-15T16:00:00Z",
+      "distance_pct": 18.575107,
+      "fill_pct": 100.0,
+      "high": 9.486,
+      "low": 9.385,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-15T04:00:00Z",
+      "distance_pct": 20.060086,
+      "fill_pct": 30.0654,
+      "high": 9.313,
+      "low": 9.007,
+      "status": "PARTIAL",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-14T20:00:00Z",
+      "distance_pct": 23.424893,
+      "fill_pct": 0.0,
+      "high": 8.921,
+      "low": 8.882,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-12T00:00:00Z",
+      "distance_pct": 25.261803,
+      "fill_pct": 100.0,
+      "high": 8.707,
+      "low": 8.624,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-11T12:00:00Z",
+      "distance_pct": 27.107296,
+      "fill_pct": 0.0,
+      "high": 8.492,
+      "low": 8.476,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-11T04:00:00Z",
+      "distance_pct": 28.223176,
+      "fill_pct": 0.0,
+      "high": 8.362,
+      "low": 8.319,
+      "status": "OPEN",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-10T00:00:00Z",
+      "distance_pct": 28.712446,
+      "fill_pct": 100.0,
+      "high": 8.305,
+      "low": 8.258,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-08T04:00:00Z",
+      "distance_pct": 29.313305,
+      "fill_pct": 100.0,
+      "high": 8.235,
+      "low": 8.219,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-07T12:00:00Z",
+      "distance_pct": 29.502146,
+      "fill_pct": 100.0,
+      "high": 8.213,
+      "low": 8.208,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-03T04:00:00Z",
+      "distance_pct": 28.626609,
+      "fill_pct": 100.0,
+      "high": 8.315,
+      "low": 8.282,
+      "status": "FILLED",
+      "type": "BEARISH"
+    },
+    {
+      "created_at": "2026-08-02T20:00:00Z",
+      "distance_pct": 28.626609,
+      "fill_pct": 100.0,
+      "high": 8.315,
+      "low": 8.309,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-02T04:00:00Z",
+      "distance_pct": 28.95279,
+      "fill_pct": 100.0,
+      "high": 8.277,
+      "low": 8.082,
+      "status": "FILLED",
+      "type": "BULLISH"
+    },
+    {
+      "created_at": "2026-08-01T12:00:00Z",
+      "distance_pct": 30.23176,
+      "fill_pct": 100.0,
+      "high": 8.128,
+      "low": 8.115,
+      "status": "FILLED",
+      "type": "BEARISH"
+    }
+  ],
+  "generated_at_utc": "2026-08-23T00:23:56.321155Z",
+  "last_closed_candle_open_time_utc": "2026-08-22T20:00:00Z",
+  "source": "BINANCE_USDT_M_FUTURES",
+  "source_symbol": "LINKUSDT",
+  "symbol": "LINK",
+  "timeframe": "4H"
+}
