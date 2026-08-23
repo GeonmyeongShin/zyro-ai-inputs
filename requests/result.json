@@ -1,47 +1,6 @@
 {
-  "request_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
-  "status": "SUCCESS",
-  "symbols": [
-    "NVDA",
-    "AVAX"
-  ],
-  "timeframe": null,
-  "required_timeframes": [
-    "1D",
-    "4H"
-  ],
-  "trigger": "MANUAL",
-  "completed_at_utc": "2026-08-22T14:51:59.646391Z",
-  "snapshot_commit_sha": "82197084e9675ab93e74c090c278749c1b0759b8",
-  "analysis": {
-    "status": "ANALYSIS_COMPLETED",
-    "outcomes": [
-      {
-        "analysis_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
-        "report_id": "report-manual-e2e2-nvda-avax-20260822-234946-kst",
-        "symbol": "NVDA",
-        "decision": "NO_TRADE",
-        "telegram": {
-          "status": "SKIPPED_POLICY"
-        },
-        "registration": {
-          "status": "SKIPPED_POLICY"
-        },
-        "analysis_image": null
-      },
-      {
-        "analysis_id": "manual-e2e2-nvda-avax-20260822-234946-kst",
-        "report_id": "report-manual-e2e2-nvda-avax-20260822-234946-kst",
-        "symbol": "AVAX",
-        "decision": "NO_TRADE",
-        "telegram": {
-          "status": "SKIPPED_POLICY"
-        },
-        "registration": {
-          "status": "SKIPPED_POLICY"
-        },
-        "analysis_image": null
-      }
-    ]
-  }
+  "request_id": "auto-report-20260823-0921-kst",
+  "status": "FAILED",
+  "error": "public uploader failed",
+  "completed_at_utc": "2026-08-23T00:25:41.836351Z"
 }
