@@ -1,6 +1,3048 @@
 {
-  "request_id": "auto-report-20260823-0921-kst",
-  "status": "FAILED",
-  "error": "public uploader failed",
-  "completed_at_utc": "2026-08-23T00:25:41.836351Z"
+  "request_id": "live-full-e2e-20260823-0945-kst",
+  "status": "SUCCESS",
+  "symbols": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "XRP",
+    "DOGE",
+    "LINK",
+    "ADA",
+    "NEAR",
+    "NVDA",
+    "TSLA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "PLTR",
+    "COIN",
+    "MSFT"
+  ],
+  "timeframe": null,
+  "required_timeframes": [
+    "1D",
+    "4H"
+  ],
+  "trigger": "AUTO",
+  "completed_at_utc": "2026-08-23T00:59:42.593201Z",
+  "snapshot_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+  "analysis": {
+    "status": "ANALYSIS_COMPLETED",
+    "outcomes": [
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "BTC",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\BTC\\analysis\\live-full-e2e-20260823-0945-kst_BTCUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:47:39.733248Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "FAILED",
+            "error": "active same-symbol/side line exists: BTC long"
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "ETH",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\ETH\\analysis\\live-full-e2e-20260823-0945-kst_ETHUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:48:29.080722Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "aif1580e0c8dc7234b2de98002",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "aif1580e0c8dc7234b2de98002",
+                "symbol": "ETH",
+                "asset_class": "CRYPTO",
+                "analysis_symbol": "ETHUSDT",
+                "analysis_source": "BINANCE_USDT_M_FUTURES",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787431709065,
+                  "p1_price": 2382.27,
+                  "p2_ts": 1787446109065,
+                  "p2_price": 2382.27
+                },
+                "upper": null,
+                "a": 2382.27,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 2318.26,
+                "custom_tps": [
+                  {
+                    "price": 2489.16,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 2549.68,
+                    "pct": 40.0
+                  },
+                  {
+                    "price": 2600.29,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446109065,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Enter only on a pullback into 2360-2402, centered near 2382, where the 1D bullish FVG and 4H bullish OB overlap. This avoids chasing the vertical move while preserving the bullish breakout structure above 2356.",
+                "confluence": [
+                  "1D bullish FVG at 2359.68-2384.00 overlaps the active 4H bullish OB at 2356.00-2402.73.",
+                  "The planned entry is below current price, reducing no-chase risk after the vertical August 19-21 impulse.",
+                  "Breakout volume expanded while the pullback volume contracted, favoring a controlled retracement into demand.",
+                  "Structural invalidation is clear: a close below 2356.00 would break the overlapping 1D/4H demand thesis; a hard failure below the 2320 area would negate the immediate breakout base.",
+                  "Upside targets align with the partial 4H bearish FVG at 2488.88, the 2529.98-2549.40 high/supply zone, and a measured extension toward 2600."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "FVG",
+                    "label": "1D bullish FVG / pullback support",
+                    "price": null,
+                    "price_low": 2359.68,
+                    "price_high": 2384,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bullish OB demand",
+                    "price": null,
+                    "price_low": 2356,
+                    "price_high": 2402.735,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "EP",
+                    "label": "Planned long entry zone",
+                    "price": 2382,
+                    "price_low": 2360,
+                    "price_high": 2402,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Breakout base support",
+                    "price": null,
+                    "price_low": 2323.83,
+                    "price_high": 2356,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "4H partial bearish FVG resistance",
+                    "price": null,
+                    "price_low": 2440.43,
+                    "price_high": 2488.88,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "Recent swing-high supply",
+                    "price": null,
+                    "price_low": 2529.98,
+                    "price_high": 2549.4,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Review trigger below active demand",
+                    "price": 2356,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop below breakout base",
+                    "price": 2318,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 bearish FVG top",
+                    "price": 2488.88,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 recent high",
+                    "price": 2549.4,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 extension",
+                    "price": 2600,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "INVALIDATION",
+                    "label": "Immediate bullish structure invalidation",
+                    "price": 2356,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 2356.26,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A 4H close below 2356 would lose the active 4H bullish OB and the overlapping 1D bullish FVG support, requiring GPT review before continuing the long thesis."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "ETH-USDT-SWAP",
+                  "inst_type": "SWAP",
+                  "price": 2426.74,
+                  "time_utc": "2026-08-23T00:45:16.363000Z",
+                  "translation_ratio": 1.0001112727542478,
+                  "basis_pct": 0.011127275424782646,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 0.1,
+                  "contract_value_currency": "ETH"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 2318.26,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "SOL",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\SOL\\analysis\\live-full-e2e-20260823-0945-kst_SOLUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:49:11.919361Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "FAILED",
+            "error": "active same-symbol/side line exists: SOL long"
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "XRP",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\XRP\\analysis\\live-full-e2e-20260823-0945-kst_XRPUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:50:04.016349Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "FAILED",
+            "error": "active same-symbol/side line exists: XRP long"
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "DOGE",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\DOGE\\analysis\\live-full-e2e-20260823-0945-kst_DOGEUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:50:51.765888Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "FAILED",
+            "error": "active same-symbol/side line exists: DOGE long"
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "LINK",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\LINK\\analysis\\live-full-e2e-20260823-0945-kst_LINKUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:51:38.833835Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai702f083a461381aa6f806b57",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai702f083a461381aa6f806b57",
+                "symbol": "LINK",
+                "asset_class": "CRYPTO",
+                "analysis_symbol": "LINKUSDT",
+                "analysis_source": "BINANCE_USDT_M_FUTURES",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787431898809,
+                  "p1_price": 11.332,
+                  "p2_ts": 1787446298809,
+                  "p2_price": 11.332
+                },
+                "upper": null,
+                "a": 11.332,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 9.934,
+                "custom_tps": [
+                  {
+                    "price": 12.38,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 12.6,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 14.377,
+                    "pct": 30.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446298809,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Pre-entry EPTPSL long on a controlled pullback into 11.30-11.45, where the 4H bullish OB upper zone and post-breakout consolidation support overlap. The setup avoids chasing the extended wick rejection while preserving upside toward the 12.40-12.63 high and the 1D bearish OB near 14.40.",
+                "confluence": [
+                  "1D breakout above prior 10.80-10.90 resistance has not failed.",
+                  "4H bullish OB from 10.05-11.3375 sits directly below current price and overlaps the preferred pullback entry area.",
+                  "Recent 4H consolidation is holding above the 11.45 region after the flush, suggesting the pullback can be planned without chasing.",
+                  "Upside targets are defined by the real 12.40-12.625 rejection high and the higher 1D bearish OB near 14.40-14.88.",
+                  "No-chase risk is high at the current 11.65-12.00 area, so the trade is a planned long on retracement into support, not a market chase."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "planned long entry zone",
+                    "price": 11.35,
+                    "price_low": 11.3,
+                    "price_high": 11.45,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bullish OB / flush defense",
+                    "price": null,
+                    "price_low": 10.05,
+                    "price_high": 11.3375,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "1D broken resistance now support",
+                    "price": 10.85,
+                    "price_low": 10.68,
+                    "price_high": 10.9,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D partial bullish FVG support",
+                    "price": null,
+                    "price_low": 9.559,
+                    "price_high": 10.36,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "4H structural review trigger",
+                    "price": 10.85,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "catastrophic invalidation below 4H flush low",
+                    "price": 9.95,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 prior 4H rejection high area",
+                    "price": 12.4,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 1D wick high",
+                    "price": 12.62,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 1D bearish OB lower edge",
+                    "price": 14.4,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "1D bearish OB supply",
+                    "price": null,
+                    "price_low": 14.4075,
+                    "price_high": 14.884,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 10.832,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A 4H close below 10.85 would lose the breakout retest area and put price back inside the Aug 21 impulse origin, requiring GPT review even though the catastrophic hard stop remains below 10.05."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "LINK-USDT-SWAP",
+                  "inst_type": "SWAP",
+                  "price": 11.686,
+                  "time_utc": "2026-08-23T00:45:18.269000Z",
+                  "translation_ratio": 0.9983767620674925,
+                  "basis_pct": -0.16232379325075152,
+                  "tick_size": 0.001,
+                  "lot_size": 0.1,
+                  "min_size": 0.1,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "LINK"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 9.934,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "ADA",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\ADA\\analysis\\live-full-e2e-20260823-0945-kst_ADAUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:52:29.254340Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai8b3551a1cbb405c8d646aac6",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai8b3551a1cbb405c8d646aac6",
+                "symbol": "ADA",
+                "asset_class": "CRYPTO",
+                "analysis_symbol": "ADAUSDT",
+                "analysis_source": "BINANCE_USDT_M_FUTURES",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787431948311,
+                  "p1_price": 0.2071,
+                  "p2_ts": 1787446348311,
+                  "p2_price": 0.2071
+                },
+                "upper": null,
+                "a": 0.2071,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 0.1797,
+                "custom_tps": [
+                  {
+                    "price": 0.2331,
+                    "pct": 25.0
+                  },
+                  {
+                    "price": 0.2486,
+                    "pct": 25.0
+                  },
+                  {
+                    "price": 0.2583,
+                    "pct": 25.0
+                  },
+                  {
+                    "price": 0.2779,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446348311,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Enter only on the pre-defined pullback zone at 0.2035-0.2115, where the 1D bullish FVG, 4H open FVG, and lower part of the 4H bullish OB overlap after a confirmed breakout from the August range. The plan seeks continuation toward the rejection high and the next 1D bearish OB while separating structural review at 0.1985 from catastrophic invalidation below the deeper August impulse origin.",
+                "confluence": [
+                  "1D breakout above the August 0.199-0.212 resistance converts that area into support.",
+                  "Open 1D bullish FVG at 0.2035-0.2063 aligns with open 4H bullish FVG at 0.1998-0.2061.",
+                  "4H touched bullish OB spans 0.2063-0.23255, with the lower half overlapping the planned entry zone.",
+                  "Current price is extended after a vertical move and rejected 0.2588, so the plan avoids chasing and waits for a defined pullback level.",
+                  "Upside targets are visible structural shelves: 0.2335/0.2490, 0.2588, and the 1D bearish OB around 0.2712-0.2803."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "PRE_ENTRY long zone: 1D/4H FVG retest",
+                    "price": 0.2075,
+                    "price_low": 0.2035,
+                    "price_high": 0.2115,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D open bullish FVG Aug 22",
+                    "price": null,
+                    "price_low": 0.2035,
+                    "price_high": 0.2063,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H open bullish FVG Aug 21",
+                    "price": null,
+                    "price_low": 0.1998,
+                    "price_high": 0.2061,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H touched bullish OB Aug 22",
+                    "price": null,
+                    "price_low": 0.2063,
+                    "price_high": 0.23255,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "1D breakout support base",
+                    "price": 0.1985,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Review trigger below breakout/FVG stack",
+                    "price": 0.1985,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop below deeper August impulse origin",
+                    "price": 0.18,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 prior breakout high",
+                    "price": 0.2335,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 4H rejection shelf",
+                    "price": 0.249,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 spike high",
+                    "price": 0.2588,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP4 1D bearish OB lower band",
+                    "price": 0.2784,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "1D bearish OB May 10-14",
+                    "price": null,
+                    "price_low": 0.2712,
+                    "price_high": 0.2886,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 0.1982,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A close below 0.1985 would lose the Aug 21 breakout base and the lower boundary of the 4H/1D bullish imbalance stack, requiring GPT review before continuing the long idea."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "ADA-USDT-SWAP",
+                  "inst_type": "SWAP",
+                  "price": 0.2276,
+                  "time_utc": "2026-08-23T00:45:17.863000Z",
+                  "translation_ratio": 0.9982456140350877,
+                  "basis_pct": -0.17543859649122862,
+                  "tick_size": 0.0001,
+                  "lot_size": 0.1,
+                  "min_size": 0.1,
+                  "contract_value": 100.0,
+                  "contract_value_currency": "ADA"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 0.1797,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "NEAR",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\NEAR\\analysis\\live-full-e2e-20260823-0945-kst_NEARUSDT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:53:18.079299Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai3968d3da9f62cf6792656b51",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai3968d3da9f62cf6792656b51",
+                "symbol": "NEAR",
+                "asset_class": "CRYPTO",
+                "analysis_symbol": "NEARUSDT",
+                "analysis_source": "BINANCE_USDT_M_FUTURES",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787431998060,
+                  "p1_price": 1.865,
+                  "p2_ts": 1787446398060,
+                  "p2_price": 1.865
+                },
+                "upper": null,
+                "a": 1.865,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 1.58,
+                "custom_tps": [
+                  {
+                    "price": 1.985,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 2.145,
+                    "pct": 40.0
+                  },
+                  {
+                    "price": 2.275,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446398060,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Plan a pre-entry long only on a pullback into 1.858-1.878, where the reclaimed 1D bearish OB at 1.769-1.859 meets the active 4H bullish OB top at 1.868. The thesis is continuation from the August base after a high-volume liquidity sweep, with no market chase into the 1.99-2.15 resistance stack.",
+                "confluence": [
+                  "1D reclaimed bearish OB/supply at 1.769-1.859 overlaps the proposed long entry shelf.",
+                  "4H active bullish OB top at 1.868 aligns with the 1D reclaimed shelf and current pullback area.",
+                  "The 2026-08-22 1D candle swept deep liquidity to 1.588 but closed back above 1.86, showing absorption rather than clean bearish continuation.",
+                  "Breakout volume expanded on both 1D and 4H, while the current location under 1.99/2.15 resistance creates a no-chase requirement.",
+                  "Upside targets are defined by visible 4H/1D resistance: 1.988, 2.148, and the 2.279-2.30 supply band."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "Pre-entry long zone: reclaimed shelf / 4H OB top",
+                    "price": 1.868,
+                    "price_low": 1.858,
+                    "price_high": 1.878,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Structural review below reclaimed shelf",
+                    "price": 1.848,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic invalidation below 2026-08-22 sweep low",
+                    "price": 1.582,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "1D reclaimed supply / support",
+                    "price": null,
+                    "price_low": 1.769,
+                    "price_high": 1.859,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H active bullish OB",
+                    "price": null,
+                    "price_low": 1.588,
+                    "price_high": 1.868,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "First resistance / prior breakout high area",
+                    "price": 1.988,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 near 2026-08-21/22 resistance",
+                    "price": 1.988,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 at 2026-08-22 spike high",
+                    "price": 2.148,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 into June lower supply band",
+                    "price": 2.279,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "INVALIDATION",
+                    "label": "Breakout thesis invalid below sweep low",
+                    "price": 1.588,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 1.845,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A close below 1.848 would lose the reclaimed 1D shelf/4H retest area and turn the 1.858-1.878 entry zone back into failed support."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "NEAR-USDT-SWAP",
+                  "inst_type": "SWAP",
+                  "price": 1.914,
+                  "time_utc": "2026-08-23T00:45:18.264000Z",
+                  "translation_ratio": 0.9984350547730829,
+                  "basis_pct": -0.15649452269170805,
+                  "tick_size": 0.001,
+                  "lot_size": 0.1,
+                  "min_size": 0.1,
+                  "contract_value": 10.0,
+                  "contract_value_currency": "NEAR"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 1.58,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "NVDA",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\NVDA\\analysis\\live-full-e2e-20260823-0945-kst_NVDA_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:54:06.408038Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "aic85f69744190510d1b9dfade",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "aic85f69744190510d1b9dfade",
+                "symbol": "NVDA",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "NVDA",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787432046384,
+                  "p1_price": 216.12,
+                  "p2_ts": 1787446446384,
+                  "p2_price": 216.12
+                },
+                "upper": null,
+                "a": 216.12,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 208.82,
+                "custom_tps": [
+                  {
+                    "price": 223.05,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 228.95,
+                    "pct": 40.0
+                  },
+                  {
+                    "price": 237.24,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446446384,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Enter LONG in the 213.06-216.40 support zone where the daily and 4H bullish FVG stack overlaps the early-August breakout leg. The trade expects support absorption and a rotation back toward 221.64, then the 227.5 high area; it is structurally wrong if price breaks below the deeper 208.74-209.05 base.",
+                "confluence": [
+                  "1D and 4H both identify the same August bullish FVG/support stack around 213.06-216.40.",
+                  "The pullback is into prior breakout demand after an impulsive 190 to 227.92 advance.",
+                  "Near-term downside risk is definable below 212.17 watch structure and 208.74 hard structural base.",
+                  "Upside targets align with visible supply/resistance at 221.64-224.86, 227.49-227.92, and the prior 235.74 high.",
+                  "No-chase risk is reduced because the entry is at support after a pullback, not near the 224-228 resistance shelf."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "1D/4H bullish FVG support zone",
+                    "price": null,
+                    "price_low": 213.06,
+                    "price_high": 216.4,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D bullish FVG partial fill Aug 5-6",
+                    "price": null,
+                    "price_low": 213.06,
+                    "price_high": 217.0,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H bullish FVG partial fill Aug 5",
+                    "price": null,
+                    "price_low": 213.06,
+                    "price_high": 218.85,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "EP",
+                    "label": "Planned long entry inside support",
+                    "price": 214.75,
+                    "price_low": 213.06,
+                    "price_high": 216.4,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "4H support-loss review trigger",
+                    "price": 212.17,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop below August breakout base",
+                    "price": 207.5,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Secondary breakout support",
+                    "price": null,
+                    "price_low": 208.74,
+                    "price_high": 211.04,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "Near supply / bearish FVG underside",
+                    "price": null,
+                    "price_low": 221.64,
+                    "price_high": 224.86,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 first resistance",
+                    "price": 221.64,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 prior high shelf",
+                    "price": 227.5,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 May swing high retest",
+                    "price": 235.74,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "INVALIDATION",
+                    "label": "Main long invalidation below deeper FVG/base",
+                    "price": 208.74,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 213.52,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A 4H close below 212.17 would lose the upper August bullish FVG/support stack and warn that the pullback is rotating toward the deeper 208.74-209.05 base."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "NVDA-USD_UM_XPERP-310613",
+                  "inst_type": "FUTURES",
+                  "price": 216.12,
+                  "time_utc": "2026-08-23T00:45:19.070000Z",
+                  "translation_ratio": 1.0063795110593714,
+                  "basis_pct": 0.6379511059371401,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "NVDA"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 208.82,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "TSLA",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\TSLA\\analysis\\live-full-e2e-20260823-0945-kst_TSLA_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:54:58.913716Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai134bbd667a6b5208833d0261",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai134bbd667a6b5208833d0261",
+                "symbol": "TSLA",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "TSLA",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787432098886,
+                  "p1_price": 349.48,
+                  "p2_ts": 1787446498886,
+                  "p2_price": 349.48
+                },
+                "upper": null,
+                "a": 349.48,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 319.21,
+                "custom_tps": [
+                  {
+                    "price": 373.15,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 385.95,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 398.88,
+                    "pct": 30.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446498886,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Planned long on a retest of 346.90-351.60, the upper portion of the open 4H bullish FVG and prior breakout shelf. This avoids chasing the current extension into 369.98-372.90 resistance while keeping invalidation structurally below 335.70 and catastrophic risk below 321.25.",
+                "confluence": [
+                  "4H short-term bullish market structure has shifted up from the late-July low and broke above 351.62.",
+                  "Open 4H bullish FVG at 345.36-361.62 gives a defined pullback entry zone.",
+                  "1D reclaimed the 345-351 shelf with an expanded-volume bullish candle.",
+                  "Entry zone overlaps the latest breakout base and sits above the 335.70-342.45 4H bullish OB.",
+                  "Overhead resistance at 369.98-372.90 and 381.45-385.69 provides realistic staged TP levels.",
+                  "No-chase risk is high at 362.86 because price is already near the daily bearish FVG top and July breakdown supply."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "PRE_ENTRY_LONG_ZONE_4H_FVG_RETEST",
+                    "price": 349.25,
+                    "price_low": 346.9,
+                    "price_high": 351.6,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H_OPEN_BULLISH_FVG_2026-08-21",
+                    "price": null,
+                    "price_low": 345.36,
+                    "price_high": 361.62,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H_BULLISH_OB_2026-08-19",
+                    "price": null,
+                    "price_low": 335.7,
+                    "price_high": 342.45,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "1D_BULLISH_OB_2026-08-07",
+                    "price": null,
+                    "price_low": 321.25,
+                    "price_high": 327.49,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "1D_BEARISH_FVG_TOP_BREAKDOWN_RESISTANCE",
+                    "price": 372.9,
+                    "price_low": 369.98,
+                    "price_high": 372.9,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H_BEARISH_OB_2026-07-17",
+                    "price": null,
+                    "price_low": 381.45,
+                    "price_high": 385.69,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H_BEARISH_OB_2026-07-15",
+                    "price": null,
+                    "price_low": 398.62,
+                    "price_high": 406.59,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "STRUCTURAL_REVIEW_CLOSE_BELOW_4H_OB",
+                    "price": 335.7,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "CATASTROPHIC_SL_BELOW_DAILY_OB",
+                    "price": 319.0,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1_DAILY_GAP_TOP",
+                    "price": 372.9,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2_4H_BEARISH_OB",
+                    "price": 385.69,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3_NEXT_4H_SUPPLY",
+                    "price": 398.62,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 335.92,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A close below 335.70 would lose the 4H bullish OB base and weaken the reclaimed 345-351 breakout support, requiring GPT review before continuing the long thesis."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "TSLA-USD_UM_XPERP-310613",
+                  "inst_type": "FUTURES",
+                  "price": 363.12,
+                  "time_utc": "2026-08-23T00:45:19.067000Z",
+                  "translation_ratio": 1.0006613621967544,
+                  "basis_pct": 0.06613621967543892,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "TSLA"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 319.21,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "AMZN",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\AMZN\\analysis\\live-full-e2e-20260823-0945-kst_AMZN_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:55:44.937851Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai9a59f1bae7f857a48a04f2fa",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai9a59f1bae7f857a48a04f2fa",
+                "symbol": "AMZN",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "AMZN",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "res",
+                "side": "short",
+                "lower": {
+                  "p1_ts": 1787432144910,
+                  "p1_price": 262.99,
+                  "p2_ts": 1787446544910,
+                  "p2_price": 262.99
+                },
+                "upper": null,
+                "a": 262.99,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 270.45,
+                "custom_tps": [
+                  {
+                    "price": 258.79,
+                    "pct": 30.0
+                  },
+                  {
+                    "price": 252.19,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 245.18,
+                    "pct": 35.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446544910,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "PRE_ENTRY short into the 261.72-263.86 retest zone, using the open 4H bearish FVG and broken support as supply. The trade avoids chasing the current support test and targets a continuation toward the next lower liquidity/support shelves if the retest fails.",
+                "confluence": [
+                  "1D lower-high structure after the 284.02 high supports a bearish retest plan rather than continuation-long chasing.",
+                  "4H descending structure aligns with the daily fade and places price below broken 260-262 support.",
+                  "Open 4H bearish FVG at 261.72-263.86 overlaps the failed 1D rebound area and gives a defined entry zone.",
+                  "4H bearish OB at 267.20-269.58 provides structural invalidation above the entry zone.",
+                  "Current price is near support, so the plan avoids no-chase risk by waiting for a pullback into supply."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "PRE_ENTRY short zone: 4H bearish FVG retest",
+                    "price": 262.8,
+                    "price_low": 261.72,
+                    "price_high": 263.86,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H open bearish FVG",
+                    "price": null,
+                    "price_low": 261.72,
+                    "price_high": 263.86,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bearish order block / structural supply",
+                    "price": null,
+                    "price_low": 267.2,
+                    "price_high": 269.58,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "1D/4H failed rebound resistance",
+                    "price": null,
+                    "price_low": 262.4,
+                    "price_high": 267.1,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Near support and first TP area",
+                    "price": 258.6,
+                    "price_low": 257.03,
+                    "price_high": 258.6,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "4H close above reclaim trigger",
+                    "price": 266.5,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop above 4H bearish OB",
+                    "price": 270.25,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 support retest",
+                    "price": 258.6,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 lower support shelf",
+                    "price": 252.0,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 deeper 4H support",
+                    "price": 245.0,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 266.7,
+                  "condition": "CLOSE_ABOVE",
+                  "reason": "A 4H close above 266.5 would reclaim the failed rebound high area and weaken the bearish retest thesis before the catastrophic stop above the bearish OB."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "AMZN-USD_UM_XPERP-310613",
+                  "inst_type": "FUTURES",
+                  "price": 258.84,
+                  "time_utc": "2026-08-23T00:45:20.069000Z",
+                  "translation_ratio": 1.0007346070288006,
+                  "basis_pct": 0.07346070288005713,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "AMZN"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 270.45,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE_BLOCKED_USER_REJECTION",
+        "symbol": "META",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\META\\analysis\\live-full-e2e-20260823-0945-kst_META_analysis.png",
+        "dispatch": {
+          "telegram": {
+            "status": "SKIPPED_USER_BLOCKLIST",
+            "policy": {
+              "reason": "USER_AUTO_REGISTER_BLOCKLIST",
+              "entry": "META",
+              "path": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\watchlists\\ZYRO_Auto_Register_Blocklist.txt"
+            }
+          },
+          "registration": {
+            "status": "BLOCKED_USER_REJECTION",
+            "policy": {
+              "reason": "USER_AUTO_REGISTER_BLOCKLIST",
+              "entry": "META",
+              "path": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\watchlists\\ZYRO_Auto_Register_Blocklist.txt"
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "GOOGL",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\GOOGL\\analysis\\live-full-e2e-20260823-0945-kst_GOOGL_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:57:13.624770Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "aiac1ff04d51423708bcb12fda",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "aiac1ff04d51423708bcb12fda",
+                "symbol": "GOOGL",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "GOOGL",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "res",
+                "side": "short",
+                "lower": {
+                  "p1_ts": 1787432233599,
+                  "p1_price": 348.05,
+                  "p2_ts": 1787446633599,
+                  "p2_price": 348.05
+                },
+                "upper": null,
+                "a": 348.05,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 357.23,
+                "custom_tps": [
+                  {
+                    "price": 339.96,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 334.56,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 324.08,
+                    "pct": 30.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446633599,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "PRE_ENTRY short into the 347.50-350.45 resistance zone, where 4H bearish supply overlaps the 1D bearish FVG/OB lower edge after a lower-high sequence. The plan avoids chasing current price near support and uses the resistance retest as the execution area.",
+                "confluence": [
+                  "Short entry zone 347.50-350.45 aligns 4H bearish OB, 4H partial bearish FVG 347.87-353.98, 1D bearish FVG 346.48-352.71, and the recent 4H lower-high shelf.",
+                  "1D structure has overhead bearish OB at 350.10-356.81 after the Aug 11 breakdown candle, making a resistance retest more coherent than chasing short at 344.90.",
+                  "Downside targets map to visible liquidity/support shelves: 340.40 recent 4H lows, 335.00/336.50 late-July base, and 324.49/319.70 larger July breakdown support/OB area.",
+                  "Invalidation is structurally clear: sustained close above 350.45 weakens the lower-high thesis, while trade is catastrophically wrong above 356.81 and the Aug 11 daily bearish OB."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "PRE_ENTRY short zone: 4H supply retest",
+                    "price": 348.5,
+                    "price_low": 347.5,
+                    "price_high": 350.45,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bearish OB Aug 14",
+                    "price": null,
+                    "price_low": 347.5259552001953,
+                    "price_high": 350.45001220703125,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D bearish FVG Aug 12 partial",
+                    "price": null,
+                    "price_low": 346.4800109863281,
+                    "price_high": 352.7099914550781,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "1D bearish OB Aug 11",
+                    "price": null,
+                    "price_low": 350.1000061035156,
+                    "price_high": 356.80999755859375,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Review if 4H closes above lower-high supply",
+                    "price": 350.45,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop above daily bearish OB",
+                    "price": 357.7,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 recent 4H support sweep",
+                    "price": 340.4,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 late-July base support",
+                    "price": 335.0,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 July breakdown support/FVG area",
+                    "price": 324.5,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Local 4H support shelf",
+                    "price": null,
+                    "price_low": 340.3999938964844,
+                    "price_high": 341.5899963378906,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "Overhead 1D/4H supply confluence",
+                    "price": null,
+                    "price_low": 346.4800109863281,
+                    "price_high": 356.80999755859375,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 349.99,
+                  "condition": "CLOSE_ABOVE",
+                  "reason": "A close above the 4H bearish OB high and recent lower-high shelf would invalidate the immediate supply-retest short thesis and require GPT review."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "GOOGL-USD_UM_XPERP-310613",
+                  "inst_type": "FUTURES",
+                  "price": 344.45,
+                  "time_utc": "2026-08-23T00:45:21.065000Z",
+                  "translation_ratio": 0.9986952916658518,
+                  "basis_pct": -0.1304708334148197,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "GOOGL"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 357.23,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "PLTR",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\PLTR\\analysis\\live-full-e2e-20260823-0945-kst_PLTR_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:57:59.735822Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "aib0958ace0de74a737fa63b19",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "aib0958ace0de74a737fa63b19",
+                "symbol": "PLTR",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "PLTR",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787432279707,
+                  "p1_price": 177.63,
+                  "p2_ts": 1787446679707,
+                  "p2_price": 177.63
+                },
+                "upper": null,
+                "a": 177.63,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 160.0,
+                "custom_tps": [
+                  {
+                    "price": 182.63,
+                    "pct": 30.0
+                  },
+                  {
+                    "price": 190.24,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 200.26,
+                    "pct": 35.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446679707,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Pre-entry long on a controlled pullback into the open 4H bullish FVG and breakout shelf at 176.2-178.4, targeting a retest and continuation through the 180-182.5 resistance band. The plan is invalidated structurally if price loses the 169.7 swing/OB area, while the hard stop sits below the secondary August demand near 160.49.",
+                "confluence": [
+                  "1D and 4H trends both turned bullish after the August impulse from the 120s.",
+                  "Price is at major 1D/4H resistance near 180-182.5, so the cleaner plan is a pullback entry rather than chasing the close.",
+                  "Open 4H bullish FVG at 175.87-178.39 aligns with the recent breakout shelf and sits just below current price.",
+                  "4H bullish OB at 169.77-173.30 provides structural invalidation reference for a long plan.",
+                  "Daily support from 170.61-172.72 and 4H support at 169.77-173.30 overlap, giving a clear watch level below the planned entry."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "FVG",
+                    "label": "4H open bullish FVG entry zone",
+                    "price": null,
+                    "price_low": 175.87,
+                    "price_high": 178.39,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "EP",
+                    "label": "Planned pullback long entry",
+                    "price": 177.4,
+                    "price_low": 176.2,
+                    "price_high": 178.4,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "1D/4H overhead resistance and prior supply",
+                    "price": null,
+                    "price_low": 179.9,
+                    "price_high": 182.5,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bullish order block support",
+                    "price": null,
+                    "price_low": 169.77049255371094,
+                    "price_high": 173.29524993896484,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Near-term daily higher-low support",
+                    "price": null,
+                    "price_low": 170.61,
+                    "price_high": 172.72,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Structural review trigger below 4H swing support",
+                    "price": 169.7,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic stop below secondary August demand",
+                    "price": 159.8,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 resistance retest",
+                    "price": 182.4,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 continuation target",
+                    "price": 190,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 prior major round-number extension",
+                    "price": 200,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 169.92,
+                  "condition": "STRUCTURE_BREAK",
+                  "reason": "A break of the 169.77 4H swing low and bullish OB base would invalidate the immediate breakout-pullback structure and require GPT review."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "PLTR-USD_UM_XPERP-310801",
+                  "inst_type": "FUTURES",
+                  "price": 180.17,
+                  "time_utc": "2026-08-23T00:45:21.064000Z",
+                  "translation_ratio": 1.0012781902604933,
+                  "basis_pct": 0.12781902604932505,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "PLTR"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 160.0,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "COIN",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\COIN\\analysis\\live-full-e2e-20260823-0945-kst_COIN_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:58:52.860200Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "ai52591aa93e281eef5a63f98a",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "ai52591aa93e281eef5a63f98a",
+                "symbol": "COIN",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "COIN",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787432332833,
+                  "p1_price": 179.5,
+                  "p2_ts": 1787446732833,
+                  "p2_price": 179.5
+                },
+                "upper": null,
+                "a": 179.5,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 168.2,
+                "custom_tps": [
+                  {
+                    "price": 191.03,
+                    "pct": 40.0
+                  },
+                  {
+                    "price": 207.86,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 221.43,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446732833,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Pre-entry long on a pullback into 179.20-181.49 where the 1D bullish FVG top, 4H bullish FVG, reclaimed July 181.49 swing, and former 4H bearish OB overlap. The plan avoids chasing the vertical breakout into 185-192 daily supply while preserving upside toward the next bearish OB shelves if support holds.",
+                "confluence": [
+                  "1D bullish displacement created open FVG support at 165.74-179.20 while price closed into daily bearish OB resistance at 185.34-191.83.",
+                  "4H breakout reclaimed the July 181.49 swing and left an open bullish FVG at 173.47-184.13, giving a defined pullback entry zone.",
+                  "The 179.20-181.49 area combines 1D FVG top, 4H FVG body, prior July swing resistance, and former bearish OB turned support.",
+                  "Volume expanded across both 1D and 4H on the breakout, supporting directional continuation if the retest holds.",
+                  "No-chase risk is high at 186-191 supply, so the trade is planned as a pre-entry long retest rather than immediate continuation."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "1D/4H reclaimed breakout support zone",
+                    "price": null,
+                    "price_low": 179.2,
+                    "price_high": 181.49,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H open bullish FVG",
+                    "price": null,
+                    "price_low": 173.4698944091797,
+                    "price_high": 184.1300048828125,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D open bullish FVG",
+                    "price": null,
+                    "price_low": 165.74000549316406,
+                    "price_high": 179.1999969482422,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "Touched 1D bearish OB / immediate supply",
+                    "price": null,
+                    "price_low": 185.34000396728516,
+                    "price_high": 191.8300018310547,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "Next 4H bearish OB target shelf",
+                    "price": null,
+                    "price_low": 191.2050018310547,
+                    "price_high": 195.58999633789062,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "Higher 1D bearish OB target shelf",
+                    "price": null,
+                    "price_low": 208.72500610351562,
+                    "price_high": 222.35000610351562,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "EP",
+                    "label": "Planned pullback long entry",
+                    "price": 180.25,
+                    "price_low": 179.2,
+                    "price_high": 181.49,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "4H structural review trigger",
+                    "price": 173.47,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic hard stop below breakout structure",
+                    "price": 168.9,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 daily supply high",
+                    "price": 191.83,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 bearish OB low",
+                    "price": 208.73,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 bearish OB high",
+                    "price": 222.35,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "INVALIDATION",
+                    "label": "Loss of 4H FVG base shifts setup from continuation to failed breakout",
+                    "price": 173.47,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 172.75,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A 4H close below 173.47 would lose the highest bullish FVG base and break back under the reclaimed July swing/OB support stack, requiring GPT review before assuming continuation remains valid."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "COIN-USD_UM_XPERP-310801",
+                  "inst_type": "FUTURES",
+                  "price": 185.8,
+                  "time_utc": "2026-08-23T00:45:22.367000Z",
+                  "translation_ratio": 0.9958461907494649,
+                  "basis_pct": -0.4153809250535101,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "COIN"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 168.2,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "analysis_id": "live-full-e2e-20260823-0945-kst",
+        "report_id": "report-live-full-e2e-20260823-0945-kst",
+        "decision": "TRADE",
+        "symbol": "MSFT",
+        "snapshot_manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+        "public_commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+        "analysis_image": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\outputs\\ai_trading_v2\\public_requests\\live-full-e2e-20260823-0945-kst\\MSFT\\analysis\\live-full-e2e-20260823-0945-kst_MSFT_analysis.png",
+        "dispatch": {
+          "analysis_id": "live-full-e2e-20260823-0945-kst",
+          "report_id": "report-live-full-e2e-20260823-0945-kst",
+          "decision": "TRADE",
+          "updated_at_utc": "2026-08-23T00:59:42.588084Z",
+          "telegram": {
+            "status": "FAILED",
+            "error": "Telegram report route is not configured"
+          },
+          "registration": {
+            "status": "SUCCESS",
+            "result": {
+              "status": "REGISTERED",
+              "line_id": "aic4605ab638fa84b2ac422deb",
+              "lifecycle_state": "PRE_ORDER",
+              "strategy_type": "EPTPSL",
+              "runtime_dir": "C:\\Users\\신건명\\Claude\\Projects\\반자동 프로그램\\.ai_trading_v2_runtime",
+              "line": {
+                "id": "aic4605ab638fa84b2ac422deb",
+                "symbol": "MSFT",
+                "asset_class": "US_STOCK",
+                "analysis_symbol": "MSFT",
+                "analysis_source": "YAHOO_FINANCE_REGULAR_SESSION",
+                "mode": "line",
+                "line_type": "sup",
+                "side": "long",
+                "lower": {
+                  "p1_ts": 1787432382568,
+                  "p1_price": 478.46,
+                  "p2_ts": 1787446782568,
+                  "p2_price": 478.46
+                },
+                "upper": null,
+                "a": 478.46,
+                "b": 0.0,
+                "conf": 3,
+                "custom_sl": 457.09,
+                "custom_tps": [
+                  {
+                    "price": 491.9,
+                    "pct": 40.0
+                  },
+                  {
+                    "price": 500.72,
+                    "pct": 35.0
+                  },
+                  {
+                    "price": 512.9,
+                    "pct": 25.0
+                  }
+                ],
+                "margin_ratio": null,
+                "notional_usdt": 20000.0,
+                "margin_usdt": null,
+                "leverage": 20,
+                "active": true,
+                "position": null,
+                "pending_order_id": null,
+                "created_ts": 1787446782568,
+                "lifecycle_state": "PRE_ORDER",
+                "strategy_type": "EPTPSL",
+                "analysis_id": "live-full-e2e-20260823-0945-kst",
+                "report_id": "report-live-full-e2e-20260823-0945-kst",
+                "entry_thesis": "Pre-entry long into 476.40-481.80, where the 4H bullish OB from 2026-08-03 overlaps the partially filled 1D/4H bullish FVG retest. The trade is not a breakout chase; it is a planned demand retest with first profit into nearby bearish supply.",
+                "confluence": [
+                  "1D bullish FVG support at 466.84-479.17 overlaps the 4H touched bullish OB at 476.38-483.88.",
+                  "Current price is near the lower half of the August breakout retest, avoiding a long chase into the 501-513 high area.",
+                  "Nearest bearish OB/FVG at 485.54-494.65 creates a clear first target and also explains why entry should be planned in demand, not chased above supply.",
+                  "Major invalidation is structurally clean: sustained loss of 476.38 would break the 4H demand retest; loss below 458.69 would damage the broader breakout leg."
+                ],
+                "analysis_overlays": [
+                  {
+                    "kind": "EP",
+                    "label": "Planned long entry zone: 4H OB / 1D FVG retest",
+                    "price": 479.2,
+                    "price_low": 476.4,
+                    "price_high": 481.8,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "OB",
+                    "label": "4H bullish OB touched",
+                    "price": null,
+                    "price_low": 476.3800048828125,
+                    "price_high": 483.875,
+                    "p1_time": "2026-08-03T13:30:00Z",
+                    "p1_price": 476.3800048828125,
+                    "p2_time": "2026-08-03T13:30:00Z",
+                    "p2_price": 483.875
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "1D bullish FVG partial fill",
+                    "price": null,
+                    "price_low": 466.8399963378906,
+                    "price_high": 479.1700134277344,
+                    "p1_time": "2026-08-04T13:30:00Z",
+                    "p1_price": 466.8399963378906,
+                    "p2_time": "2026-08-04T13:30:00Z",
+                    "p2_price": 479.1700134277344
+                  },
+                  {
+                    "kind": "CORE_SUPPORT",
+                    "label": "Breakout demand core",
+                    "price": null,
+                    "price_low": 476.38,
+                    "price_high": 483.88,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "CORE_RESIST",
+                    "label": "Nearest daily bearish OB / supply",
+                    "price": null,
+                    "price_low": 485.5350036621094,
+                    "price_high": 492.6600036621094,
+                    "p1_time": "2026-08-17T13:30:00Z",
+                    "p1_price": 485.5350036621094,
+                    "p2_time": "2026-08-17T13:30:00Z",
+                    "p2_price": 492.6600036621094
+                  },
+                  {
+                    "kind": "FVG",
+                    "label": "4H bearish FVG overhead",
+                    "price": null,
+                    "price_low": 481.760009765625,
+                    "price_high": 494.6499938964844,
+                    "p1_time": "2026-08-17T17:30:00Z",
+                    "p1_price": 481.760009765625,
+                    "p2_time": "2026-08-17T17:30:00Z",
+                    "p2_price": 494.6499938964844
+                  },
+                  {
+                    "kind": "WATCH_SL",
+                    "label": "Review trigger below 4H demand",
+                    "price": 476.38,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "HARD_SL",
+                    "label": "Catastrophic invalidation below breakout gap base",
+                    "price": 457.8,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP1 into nearest bearish OB",
+                    "price": 492.66,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP2 into upper supply shelf",
+                    "price": 501.5,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "TP",
+                    "label": "TP3 retest of August swing high",
+                    "price": 513.7,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  },
+                  {
+                    "kind": "INVALIDATION",
+                    "label": "Broader breakout failure below July 31 / Aug 3 gap region",
+                    "price": 458.69,
+                    "price_low": null,
+                    "price_high": null,
+                    "p1_time": null,
+                    "p1_price": null,
+                    "p2_time": null,
+                    "p2_price": null
+                  }
+                ],
+                "watch_sl": {
+                  "price": 475.64,
+                  "condition": "CLOSE_BELOW",
+                  "reason": "A close below the 4H bullish OB low and daily retest shelf would signal the breakout demand is failing and requires GPT review before continuing the long thesis."
+                },
+                "hard_sl_role": "EXCHANGE_CATASTROPHE_PROTECTION",
+                "zyro_sizing_policy": "EXPOSURE_ONLY_NOT_HARD_SL_DISTANCE",
+                "zyro_notional_semantics": "FINAL_LEVERAGED_POSITION_NOTIONAL",
+                "zyro_notional_policy": {
+                  "type": "EQUITY_STEP_USDT",
+                  "equity_source": "OKX_ACCOUNT_EQUITY_USDT",
+                  "base_notional_usdt": 20000.0,
+                  "first_step_equity_usdt": 13000.0,
+                  "equity_step_usdt": 2000.0,
+                  "notional_step_usdt": 2000.0
+                },
+                "zyro_auto_registered": true,
+                "zyro_source": "ai_trading_pipeline_v2",
+                "zyro_input_snapshot": {
+                  "manifest_version": "2.0",
+                  "manifest_sha256": "d02f0946a5971d1aed4c65d75611446bedf84a60d5ff369fe289bd691bf98039",
+                  "commit_sha": "2d509ce9fc27059d43696784d9bd388fdad80e83",
+                  "timeframes": [
+                    "1D",
+                    "4H"
+                  ]
+                },
+                "zyro_okx_reference": {
+                  "inst_id": "MSFT-USD_UM_XPERP-310613",
+                  "inst_type": "FUTURES",
+                  "price": 482.6,
+                  "time_utc": "2026-08-23T00:45:22.763000Z",
+                  "translation_ratio": 0.9984483167600189,
+                  "basis_pct": -0.15516832399811165,
+                  "tick_size": 0.01,
+                  "lot_size": 0.01,
+                  "min_size": 0.01,
+                  "contract_value": 1.0,
+                  "contract_value_currency": "MSFT"
+                },
+                "zyro_liquidation_check": {
+                  "status": "PENDING_OKX_PREORDER_VERIFICATION",
+                  "liquidation_price": null,
+                  "hard_sl": 457.09,
+                  "safe": false,
+                  "preorder_policy": {
+                    "enabled": true,
+                    "validation_stage": "ORDER_TIME_OKX_RISK_TIER",
+                    "hard_sl_buffer_pct_of_entry": 1.0,
+                    "minimum_leverage": 1,
+                    "risk_source": "OKX_PUBLIC_POSITION_TIER_AND_ACCOUNT_FEE"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
 }
